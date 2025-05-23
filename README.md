@@ -12,7 +12,7 @@ This repository imports, cleans and collects some datasets regarding the number 
 - There are also two JSON files for mappings of subject codes to subject clusters and subject groups extracted from the official taxonomies, which I have only been able to find in pdf format. The JSON files also contain English translation for all subject, cluster and group names.
   - pdf: [subject codes for courses of study](https://www.destatis.de/DE/Methoden/Klassifikationen/Bildung/studenten-pruefungsstatistik.pst_all?__blob=publicationFile&v=12)
   - pdf: [subject codes for personnel organisation](https://www.destatis.de/DE/Methoden/Klassifikationen/Bildung/personal-stellenstatistik.pdf?__blob=publicationFile&v=14)
-
+- [sql-quests.sql](sql-queries.sql) is an SQL script for running several queries on the database. The same queries can also be found directly at the end of the [notebook](core_EDA.ipynb) using [`sqlalchemy`](https://www.sqlalchemy.org/).
 
 # Notes
 
