@@ -1,0 +1,273 @@
+subj_grp_code,subj_grp_name,subj_grp_name_eng,subj_cluster_code,subj_cluster_name,subj_cluster_name_eng,subj_code,subj_name,subj_name_eng
+01,Geisteswissenschaften,Humanities,01,Geisteswissenschaften allgemein,Humanities General,004,Interdisziplinäre Studien (Schwerpunkt Geisteswissenschaften),Interdisciplinary Studies (Focus on Humanities)
+01,Geisteswissenschaften,Humanities,01,Geisteswissenschaften allgemein,Humanities General,090,Lernbereich Geisteswissenschaften,Learning Area Humanities
+01,Geisteswissenschaften,Humanities,02,Evang. Theologie -Religionslehre,Protestant Theology and Religious Education,161,Diakoniewissenschaft,Diaconal Studies
+01,Geisteswissenschaften,Humanities,02,Evang. Theologie -Religionslehre,Protestant Theology and Religious Education,544,Evang. Religionspädagogik kirchliche Bildungsarbeit,Protestant Religious Education and Church Educational Work
+01,Geisteswissenschaften,Humanities,02,Evang. Theologie -Religionslehre,Protestant Theology and Religious Education,053,Evang. Theologie -Religionslehre,Protestant Theology and Religious Education
+01,Geisteswissenschaften,Humanities,03,Kath. Theologie -Religionslehre,Catholic Theology and Religious Education,162,Caritaswissenschaft,Catholic Charitable Studies
+01,Geisteswissenschaften,Humanities,03,Kath. Theologie -Religionslehre,Catholic Theology and Religious Education,545,Kath. Religionspädagogik kirchliche Bildungsarbeit,Catholic Religious Education and Church Educational Work
+01,Geisteswissenschaften,Humanities,03,Kath. Theologie -Religionslehre,Catholic Theology and Religious Education,086,Kath. Theologie -Religionslehre,Catholic Theology and Religious Education
+01,Geisteswissenschaften,Humanities,04,Philosophie,Philosophy,169,Ethik,Ethics
+01,Geisteswissenschaften,Humanities,04,Philosophie,Philosophy,127,Philosophie,Philosophy
+01,Geisteswissenschaften,Humanities,04,Philosophie,Philosophy,136,Religionswissenschaft,Religious Studies
+01,Geisteswissenschaften,Humanities,05,Geschichte,History,272,Alte Geschichte,Ancient History
+01,Geisteswissenschaften,Humanities,05,Geschichte,History,012,Archäologie,Archaeology
+01,Geisteswissenschaften,Humanities,05,Geschichte,History,068,Geschichte,History
+01,Geisteswissenschaften,Humanities,05,Geschichte,History,273,Mittlere und neuere Geschichte,Medieval and Modern History
+01,Geisteswissenschaften,Humanities,05,Geschichte,History,548,Ur- und Frühgeschichte,Prehistoric and Early History
+01,Geisteswissenschaften,Humanities,05,Geschichte,History,183,Wirtschafts-/Sozialgeschichte,Economic and Social History
+01,Geisteswissenschaften,Humanities,05,Geschichte,History,275,Wissenschaftsgeschichte/Technikgeschichte,History of Science and Technology
+01,Geisteswissenschaften,Humanities,06,Informations- und Bibliothekswissenschaften,Information and Library Sciences,037,Archiv- und Dokumentationswissenschaft,Archival and Documentation Science
+01,Geisteswissenschaften,Humanities,06,Informations- und Bibliothekswissenschaften,Information and Library Sciences,022,Informations- und Bibliothekswissenschaften (nicht für Verwaltungsfachhochschulen),Information and Library Sciences (not for Administrative Colleges)
+01,Geisteswissenschaften,Humanities,07,Allgemeine und vergleichende Literatur- und Sprachwissenschaft,General and Comparative Literature and Linguistics,188,Allgemeine Literaturwissenschaft,General Literary Studies
+01,Geisteswissenschaften,Humanities,07,Allgemeine und vergleichende Literatur- und Sprachwissenschaft,General and Comparative Literature and Linguistics,152,Allgemeine Sprachwissenschaft/Indogermanistik,General Linguistics/Indo-European Studies
+01,Geisteswissenschaften,Humanities,07,Allgemeine und vergleichende Literatur- und Sprachwissenschaft,General and Comparative Literature and Linguistics,284,Angewandte Sprachwissenschaft,Applied Linguistics
+01,Geisteswissenschaften,Humanities,07,Allgemeine und vergleichende Literatur- und Sprachwissenschaft,General and Comparative Literature and Linguistics,018,Berufsbezogene Fremdsprachenausbildung,Vocational Foreign Language Training
+01,Geisteswissenschaften,Humanities,07,Allgemeine und vergleichende Literatur- und Sprachwissenschaft,General and Comparative Literature and Linguistics,160,Computerlinguistik,Computational Linguistics
+01,Geisteswissenschaften,Humanities,08,Altphilologie (klass. Philologie) Neugriechisch,Classical Philology and Modern Greek,031,Byzantinistik,Byzantine Studies
+01,Geisteswissenschaften,Humanities,08,Altphilologie (klass. Philologie) Neugriechisch,Classical Philology and Modern Greek,070,Griechisch,Greek
+01,Geisteswissenschaften,Humanities,08,Altphilologie (klass. Philologie) Neugriechisch,Classical Philology and Modern Greek,005,Klassische Philologie,Classical Philology
+01,Geisteswissenschaften,Humanities,08,Altphilologie (klass. Philologie) Neugriechisch,Classical Philology and Modern Greek,095,Latein,Latin
+01,Geisteswissenschaften,Humanities,08,Altphilologie (klass. Philologie) Neugriechisch,Classical Philology and Modern Greek,043,Neugriechisch,Modern Greek
+01,Geisteswissenschaften,Humanities,09,Germanistik (Deutsch germanische Sprachen ohne Anglistik),German Studies (German and Germanic Languages excluding English Studies),034,Dänisch,Danish
+01,Geisteswissenschaften,Humanities,09,Germanistik (Deutsch germanische Sprachen ohne Anglistik),German Studies (German and Germanic Languages excluding English Studies),271,Deutsch als Fremdsprache oder als Zweitsprache,German as a Foreign or Second Language
+01,Geisteswissenschaften,Humanities,09,Germanistik (Deutsch germanische Sprachen ohne Anglistik),German Studies (German and Germanic Languages excluding English Studies),067,Germanistik/Deutsch,German Studies/German
+01,Geisteswissenschaften,Humanities,09,Germanistik (Deutsch germanische Sprachen ohne Anglistik),German Studies (German and Germanic Languages excluding English Studies),189,Niederdeutsch,Low German
+01,Geisteswissenschaften,Humanities,09,Germanistik (Deutsch germanische Sprachen ohne Anglistik),German Studies (German and Germanic Languages excluding English Studies),119,Niederländisch,Dutch
+01,Geisteswissenschaften,Humanities,09,Germanistik (Deutsch germanische Sprachen ohne Anglistik),German Studies (German and Germanic Languages excluding English Studies),120,Nordistik/Skandinavistik (Nordische Philologie Einzelsprachen a.n.g.),Nordic/Scandinavian Studies (Nordic Philology Individual Languages n.e.c.)
+01,Geisteswissenschaften,Humanities,10,Anglistik Amerikanistik,English and American Studies,006,Amerikanistik/Amerikakunde,American Studies
+01,Geisteswissenschaften,Humanities,10,Anglistik Amerikanistik,English and American Studies,008,Anglistik/Englisch,English Studies/English
+01,Geisteswissenschaften,Humanities,11,Romanistik,Romance Studies,059,Französisch,French
+01,Geisteswissenschaften,Humanities,11,Romanistik,Romance Studies,084,Italienisch,Italian
+01,Geisteswissenschaften,Humanities,11,Romanistik,Romance Studies,131,Portugiesisch,Portuguese
+01,Geisteswissenschaften,Humanities,11,Romanistik,Romance Studies,137,Romanistik (Roman. Philologie Einzelsprachen a.n.g.),Romance Studies (Romance Philology Individual Languages n.e.c.)
+01,Geisteswissenschaften,Humanities,11,Romanistik,Romance Studies,150,Spanisch,Spanish
+01,Geisteswissenschaften,Humanities,12,Slawistik Baltistik Finno-Ugristik,Slavic Baltic and Finno-Ugric Studies,016,Baltistik,Baltic Studies
+01,Geisteswissenschaften,Humanities,12,Slawistik Baltistik Finno-Ugristik,Slavic Baltic and Finno-Ugric Studies,056,Finno-Ugristik,Finno-Ugric Studies
+01,Geisteswissenschaften,Humanities,12,Slawistik Baltistik Finno-Ugristik,Slavic Baltic and Finno-Ugric Studies,206,Polnisch,Polish
+01,Geisteswissenschaften,Humanities,12,Slawistik Baltistik Finno-Ugristik,Slavic Baltic and Finno-Ugric Studies,139,Russisch,Russian
+01,Geisteswissenschaften,Humanities,12,Slawistik Baltistik Finno-Ugristik,Slavic Baltic and Finno-Ugric Studies,146,Slawistik (Slaw. Philologie),Slavic Studies (Slavic Philology)
+01,Geisteswissenschaften,Humanities,12,Slawistik Baltistik Finno-Ugristik,Slavic Baltic and Finno-Ugric Studies,207,Sorabistik,Sorbian Studies
+01,Geisteswissenschaften,Humanities,12,Slawistik Baltistik Finno-Ugristik,Slavic Baltic and Finno-Ugric Studies,153,Südslawisch (Bulgarisch Serbokroatisch Slowenisch usw.),South Slavic (Bulgarian Serbo-Croatian Slovenian etc.)
+01,Geisteswissenschaften,Humanities,12,Slawistik Baltistik Finno-Ugristik,Slavic Baltic and Finno-Ugric Studies,209,Tschechisch,Czech
+01,Geisteswissenschaften,Humanities,12,Slawistik Baltistik Finno-Ugristik,Slavic Baltic and Finno-Ugric Studies,130,Westslawisch (allgemein und a.n.g.),West Slavic (general and n.e.c.)
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,001,Ägyptologie,Egyptology
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,002,Afrikanistik,African Studies
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,010,Arabisch/Arabistik,Arabic/Arab Studies
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,015,Außereuropäische Sprachen und Kulturen in Ozeanien und Amerika,Non-European Languages and Cultures in Oceania and America
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,073,Judaistik/Hebräisch,Jewish Studies/Hebrew
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,078,Indologie,Indology
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,081,Iranistik,Iranian Studies
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,083,Islamwissenschaft,Islamic Studies
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,085,Japanologie,Japanese Studies
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,180,Kaukasistik,Caucasian Studies
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,122,Orientalistik/Altorientalistik,Oriental Studies/Ancient Near Eastern Studies
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,145,Sinologie/Koreanistik,Chinese Studies/Korean Studies
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,158,Turkologie,Turkology
+01,Geisteswissenschaften,Humanities,13,Sonstige Sprach- und Kulturwissenschaften,Other Language and Cultural Studies,187,Asiatische Sprachen und Kulturen/Asienwissenschaften,Asian Languages and Cultures/Asian Studies
+01,Geisteswissenschaften,Humanities,14,Kulturwissenschaften i.e.S.,Cultural Studies in the Narrow Sense,024,Europäische Ethnologie und Kulturwissenschaft,European Ethnology and Cultural Studies
+01,Geisteswissenschaften,Humanities,14,Kulturwissenschaften i.e.S.,Cultural Studies in the Narrow Sense,173,Ethnologie,Anthropology
+01,Geisteswissenschaften,Humanities,14,Kulturwissenschaften i.e.S.,Cultural Studies in the Narrow Sense,174,Volkskunde,Folklore Studies
+01,Geisteswissenschaften,Humanities,18,Islamische Studien/Islamische Theologie,Islamic Studies/Islamic Theology,292,Islamische Studien/Islamische Theologie,Islamic Studies/Islamic Theology
+01,Geisteswissenschaften,Humanities,19,Medienwissenschaft,Media Studies,302,Medienwissenschaft,Media Studies
+02,Sport,Sports,22,Sport Sportwissenschaft,Sports and Sports Science,098,Sportpädagogik/Sportpsychologie,Sports Pedagogy/Sports Psychology
+02,Sport,Sports,22,Sport Sportwissenschaft,Sports and Sports Science,029,Sportwissenschaft,Sports Science
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,23,Rechts- Wirtschafts- und Sozialwissenschaften allgemein,Law Economics and Social Sciences General,030,Interdisziplinäre Studien (Schwerpunkt Rechts- Wirtschafts- und Sozialwissenschaften),Interdisciplinary Studies (Focus on Law Economics and Social Sciences)
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,23,Rechts- Wirtschafts- und Sozialwissenschaften allgemein,Law Economics and Social Sciences General,154,Lernbereich Gesellschaftslehre,Learning Area Social Studies
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,23,Rechts- Wirtschafts- und Sozialwissenschaften allgemein,Law Economics and Social Sciences General,055,Orientierungsstudium Gesellschaftswissenschaften,Orientation Studies in Social Sciences
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,24,Regionalwissenschaften,Regional Studies,038,Lateinamerika-Studien,Latin American Studies
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,24,Regionalwissenschaften,Regional Studies,044,Ost- und Südosteuropa-Studien,Eastern and Southeastern European Studies
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,24,Regionalwissenschaften,Regional Studies,036,Sonstige Regionalwissenschaften,Other Regional Studies
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,25,Politikwissenschaft,Political Science,129,Politikwissenschaft/Politologie,Political Science/Politics
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,26,Sozialwissenschaften/Soziologie,Social Sciences/Sociology,147,Sozialkunde,Social Studies
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,26,Sozialwissenschaften/Soziologie,Social Sciences/Sociology,148,Sozialwissenschaften,Social Sciences
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,26,Sozialwissenschaften/Soziologie,Social Sciences/Sociology,149,Soziologie,Sociology
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,27,Sozialwesen,Social Work,208,Soziale Arbeit,Social Work
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,27,Sozialwesen,Social Work,245,Sozialpädagogik,Social Pedagogy
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,27,Sozialwesen,Social Work,253,Sozialwesen,Social Services
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,28,Rechtswissenschaften,Law,135,Rechtswissenschaft,Law
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,28,Rechtswissenschaften,Law,042,Wirtschaftsrecht,Business Law
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,257,Arbeits- und Berufsberatung,Employment and Career Counseling
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,258,Arbeitsverwaltung,Labor Administration
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,255,Archivwesen,Archive Management
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,259,Auswärtige Angelegenheiten,Foreign Affairs
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,265,Bankwesen,Banking
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,262,Bibliothekswesen,Library Management
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,260,Bundeswehrverwaltung,Armed Forces Administration
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,266,Finanzverwaltung,Financial Administration
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,261,Innere Verwaltung,Internal Administration
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,168,Justizvollzug,Corrections
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,263,Polizei/Verfassungsschutz,Police/Constitutional Protection
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,256,Rechtspflege,Administration of Justice
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,264,Sozialversicherung,Social Insurance
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,268,Verkehrswesen,Transportation Administration
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,172,Verwaltungswissenschaft/-wesen,Administrative Science/Administration
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,29,Verwaltungswissenschaften,Administrative Sciences,269,Zoll- und Steuerverwaltung,Customs and Tax Administration
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,30,Wirtschaftswissenschaften,Economics,011,Arbeitslehre/Wirtschaftslehre,Work Studies/Economics
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,30,Wirtschaftswissenschaften,Economics,021,Betriebswirtschaftslehre,Business Administration
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,30,Wirtschaftswissenschaften,Economics,167,Europäische Wirtschaft,European Economics
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,30,Wirtschaftswissenschaften,Economics,304,Medienwirtschaft/Medienmanagement,Media Economics/Media Management
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,30,Wirtschaftswissenschaften,Economics,182,Internationale Betriebswirtschaft/Management,International Business Administration/Management
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,30,Wirtschaftswissenschaften,Economics,166,Sportmanagement/Sportökonomie,Sports Management/Sports Economics
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,30,Wirtschaftswissenschaften,Economics,274,Tourismuswirtschaft,Tourism Economics
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,30,Wirtschaftswissenschaften,Economics,210,Verkehrswirtschaft,Transport Economics
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,30,Wirtschaftswissenschaften,Economics,175,Volkswirtschaftslehre,Economics
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,30,Wirtschaftswissenschaften,Economics,181,Wirtschaftspädagogik,Business Education
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,30,Wirtschaftswissenschaften,Economics,184,Wirtschaftswissenschaften,Economic Sciences
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,31,Wirtschaftsingenieurwesen mit wirtschaftswiss. Schwerpunkt,Industrial Engineering with Focus on Economics,464,Facility Management,Facility Management
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,31,Wirtschaftsingenieurwesen mit wirtschaftswiss. Schwerpunkt,Industrial Engineering with Focus on Economics,179,Wirtschaftsingenieurwesen mit wirtschaftswiss. Schwerpunkt,Industrial Engineering with Focus on Economics
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,32,Psychologie,Psychology,132,Psychologie,Psychology
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,33,Erziehungswissenschaften,Educational Sciences,117,Ausländerpädagogik,Pedagogy for Foreign Students
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,33,Erziehungswissenschaften,Educational Sciences,270,Berufs- und Wirtschaftspädagogik,Vocational and Business Education
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,33,Erziehungswissenschaften,Educational Sciences,321,Erwachsenenbildung und außerschulische Jugendbildung,Adult Education and Non-School Youth Education
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,33,Erziehungswissenschaften,Educational Sciences,052,Erziehungswissenschaft (Pädagogik),Educational Science (Pedagogy)
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,33,Erziehungswissenschaften,Educational Sciences,365,Pädagogik der frühen Kindheit,Early Childhood Education
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,33,Erziehungswissenschaften,Educational Sciences,115,Grundschul-/Primarstufenpädagogik,Primary School Education
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,33,Erziehungswissenschaften,Educational Sciences,254,Sachunterricht (einschl. Schulgarten),General Studies (including School Garden)
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,33,Erziehungswissenschaften,Educational Sciences,361,Schulpädagogik,School Education
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,33,Erziehungswissenschaften,Educational Sciences,190,Sonderpädagogik,Special Education
+03,Rechts- Wirtschafts- und Sozialwissenschaften,Law Economics and Social Sciences,34,Kommunikationswissenschaft/Publizistik,Communication Studies/Journalism,303,Kommunikationswissenschaft/Publizistik,Communication Studies/Journalism
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,36,Mathematik Naturwissenschaften allgemein,Mathematics and Natural Sciences General,049,Interdisziplinäre Studien (Schwerpunkt Naturwissenschaften),Interdisciplinary Studies (Focus on Natural Sciences)
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,36,Mathematik Naturwissenschaften allgemein,Mathematics and Natural Sciences General,186,Lernbereich Naturwissenschaften/Sachunterricht,Learning Area Natural Sciences/General Studies
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,36,Mathematik Naturwissenschaften allgemein,Mathematics and Natural Sciences General,019,Orientierungsstudium MINT,Orientation Studies in STEM
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,36,Mathematik Naturwissenschaften allgemein,Mathematics and Natural Sciences General,312,Statistik,Statistics
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,37,Mathematik,Mathematics,105,Mathematik,Mathematics
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,37,Mathematik,Mathematics,118,Technomathematik,Technical Mathematics
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,37,Mathematik,Mathematics,276,Wirtschaftsmathematik,Business Mathematics
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,39,Physik Astronomie,Physics and Astronomy,014,Astrophysik und Astronomie,Astrophysics and Astronomy
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,39,Physik Astronomie,Physics and Astronomy,128,Physik,Physics
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,40,Chemie,Chemistry,025,Biochemie,Biochemistry
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,40,Chemie,Chemistry,032,Chemie,Chemistry
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,40,Chemie,Chemistry,096,Lebensmittelchemie,Food Chemistry
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,41,Pharmazie,Pharmacy,126,Pharmazie,Pharmacy
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,42,Biologie,Biology,009,Anthropologie (Humanbiologie),Anthropology (Human Biology)
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,42,Biologie,Biology,026,Biologie,Biology
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,42,Biologie,Biology,300,Biomedizin,Biomedicine
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,42,Biologie,Biology,282,Biotechnologie,Biotechnology
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,43,Geowissenschaften (ohne Geographie),Geosciences (excluding Geography),065,Geologie/Paläontologie,Geology/Paleontology
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,43,Geowissenschaften (ohne Geographie),Geosciences (excluding Geography),066,Geophysik,Geophysics
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,43,Geowissenschaften (ohne Geographie),Geosciences (excluding Geography),385,Geoökologie,Geoecology
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,43,Geowissenschaften (ohne Geographie),Geosciences (excluding Geography),039,Geowissenschaften allgemein,Geosciences General
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,43,Geowissenschaften (ohne Geographie),Geosciences (excluding Geography),110,Meteorologie,Meteorology
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,43,Geowissenschaften (ohne Geographie),Geosciences (excluding Geography),111,Mineralogie,Mineralogy
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,43,Geowissenschaften (ohne Geographie),Geosciences (excluding Geography),124,Ozeanographie,Oceanography
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,44,Geographie,Geography,050,Geographie/Erdkunde,Geography
+04,Mathematik Naturwissenschaften,Mathematics and Natural Sciences,44,Geographie,Geography,283,Landschaftsökologie/Biogeographie,Landscape Ecology/Biogeography
+05,Humanmedizin/Gesundheitswissenschaften,Medicine/Health Sciences,48,Gesundheitswissenschaften allgemein,Health Sciences General,195,Gesundheitspädagogik,Health Education
+05,Humanmedizin/Gesundheitswissenschaften,Medicine/Health Sciences,48,Gesundheitswissenschaften allgemein,Health Sciences General,232,Gesundheitswissenschaften/-management,Health Sciences/Management
+05,Humanmedizin/Gesundheitswissenschaften,Medicine/Health Sciences,48,Gesundheitswissenschaften allgemein,Health Sciences General,233,Nichtärztliche Heilberufe/Therapien,Non-Medical Healthcare Professions/Therapies
+05,Humanmedizin/Gesundheitswissenschaften,Medicine/Health Sciences,48,Gesundheitswissenschaften allgemein,Health Sciences General,234,Pflegewissenschaft/-management,Nursing Science/Management
+05,Humanmedizin/Gesundheitswissenschaften,Medicine/Health Sciences,49,Humanmedizin (ohne Zahnmedizin),Human Medicine (excluding Dentistry),107,Medizin (Allgemein-Medizin),Medicine (General Medicine)
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,51,Veterinärmedizin,Veterinary Medicine,156,Tiermedizin/Veterinärmedizin,Animal Medicine/Veterinary Medicine
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,57,Landespflege Umweltgestaltung,Land Management Environmental Design,093,Landespflege/Landschaftsgestaltung,Land Management/Landscape Design
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,57,Landespflege Umweltgestaltung,Land Management Environmental Design,061,Meliorationswesen,Land Improvement
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,57,Landespflege Umweltgestaltung,Land Management Environmental Design,064,Naturschutz,Nature Conservation
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,58,Agrarwissenschaften Lebensmittel- und Getränketechnologie,Agricultural Sciences Food and Beverage Technology,138,Agrarbiologie,Agricultural Biology
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,58,Agrarwissenschaften Lebensmittel- und Getränketechnologie,Agricultural Sciences Food and Beverage Technology,125,Agrarökonomie,Agricultural Economics
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,58,Agrarwissenschaften Lebensmittel- und Getränketechnologie,Agricultural Sciences Food and Beverage Technology,003,Agrarwissenschaft/Landwirtschaft,Agricultural Science/Agriculture
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,58,Agrarwissenschaften Lebensmittel- und Getränketechnologie,Agricultural Sciences Food and Beverage Technology,028,Brauwesen/Getränketechnologie,Brewing/Beverage Technology
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,58,Agrarwissenschaften Lebensmittel- und Getränketechnologie,Agricultural Sciences Food and Beverage Technology,060,Gartenbau,Horticulture
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,58,Agrarwissenschaften Lebensmittel- und Getränketechnologie,Agricultural Sciences Food and Beverage Technology,097,Lebensmitteltechnologie,Food Technology
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,58,Agrarwissenschaften Lebensmittel- und Getränketechnologie,Agricultural Sciences Food and Beverage Technology,220,Milch- und Molkereiwirtschaft,Dairy Science and Technology
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,58,Agrarwissenschaften Lebensmittel- und Getränketechnologie,Agricultural Sciences Food and Beverage Technology,353,Pflanzenproduktion,Plant Production
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,58,Agrarwissenschaften Lebensmittel- und Getränketechnologie,Agricultural Sciences Food and Beverage Technology,371,Tierproduktion,Animal Production
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,58,Agrarwissenschaften Lebensmittel- und Getränketechnologie,Agricultural Sciences Food and Beverage Technology,227,Weinbau und Kellerwirtschaft,Viticulture and Enology
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,59,Forstwissenschaft Holzwirtschaft,Forest Science Wood Technology,058,Forstwissenschaft -wirtschaft,Forest Science/Management
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,59,Forstwissenschaft Holzwirtschaft,Forest Science Wood Technology,075,Holzwirtschaft,Wood Technology
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,60,Ernährungs- und Haushaltswissenschaften,Nutritional and Household Sciences,320,Ernährungswissenschaft,Nutritional Science
+07,Agrar- Forst- und Ernährungswissenschaften Veterinärmedizin,Agricultural Forestry and Nutritional Sciences Veterinary Medicine,60,Ernährungs- und Haushaltswissenschaften,Nutritional and Household Sciences,071,Haushalts- und Ernährungswissenschaft,Household and Nutritional Science
+08,Ingenieurwissenschaften,Engineering,61,Ingenieurwesen allgemein,Engineering General,140,Angewandte Systemwissenschaften,Applied Systems Science
+08,Ingenieurwissenschaften,Engineering,61,Ingenieurwesen allgemein,Engineering General,072,Interdisziplinäre Studien (Schwerpunkt Ingenieurwissenschaften),Interdisciplinary Studies (Focus on Engineering)
+08,Ingenieurwissenschaften,Engineering,61,Ingenieurwesen allgemein,Engineering General,199,Lernbereich Technik,Learning Area Technology
+08,Ingenieurwissenschaften,Engineering,61,Ingenieurwesen allgemein,Engineering General,380,Mechatronik,Mechatronics
+08,Ingenieurwissenschaften,Engineering,61,Ingenieurwesen allgemein,Engineering General,305,Medientechnik,Media Technology
+08,Ingenieurwissenschaften,Engineering,61,Ingenieurwesen allgemein,Engineering General,310,Regenerative Energien,Renewable Energy
+08,Ingenieurwissenschaften,Engineering,61,Ingenieurwesen allgemein,Engineering General,201,Werken (technisch)/Technologie,Technical Handicraft/Technology
+08,Ingenieurwissenschaften,Engineering,62,Bergbau Hüttenwesen,Mining Metallurgy,390,Archäometrie (Ingenieurarchäologie),Archaeometry (Engineering Archaeology)
+08,Ingenieurwissenschaften,Engineering,62,Bergbau Hüttenwesen,Mining Metallurgy,020,Bergbau/Bergtechnik,Mining/Mining Technology
+08,Ingenieurwissenschaften,Engineering,62,Bergbau Hüttenwesen,Mining Metallurgy,076,Hütten- und Gießereiwesen,Metallurgy and Foundry Technology
+08,Ingenieurwissenschaften,Engineering,62,Bergbau Hüttenwesen,Mining Metallurgy,103,Markscheidewesen,Mine Surveying
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,141,Abfallwirtschaft,Waste Management
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,143,Augenoptik,Optometry
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,033,Chemie-Ingenieurwesen/Chemieverfahrenstechnik,Chemical Engineering/Chemical Process Engineering
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,231,Druck- und Reproduktionstechnik,Printing and Reproduction Technology
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,211,Energieverfahrenstechnik,Energy Process Engineering
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,212,Feinwerktechnik,Precision Engineering
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,202,Fertigungs-/Produktionstechnik,Manufacturing/Production Engineering
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,215,Gesundheitstechnik,Health Technology
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,216,Glastechnik/Keramik,Glass Technology/Ceramics
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,082,Holz-/Fasertechnik,Wood/Fiber Technology
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,219,Kunststofftechnik,Plastics Technology
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,104,Maschinenbau/-wesen,Mechanical Engineering
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,108,Metalltechnik,Metal Technology
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,224,Physikalische Technik/Mechanische Verfahrenstechnik,Physical Technology/Mechanical Process Engineering
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,144,Technische Kybernetik,Technical Cybernetics
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,225,Textil- und Bekleidungstechnik/-gewerbe,Textile and Clothing Technology/Industry
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,074,Transport-/Fördertechnik,Transport/Conveyor Technology
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,457,Umwelttechnik (einschl. Recycling),Environmental Technology (including Recycling)
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,226,Verfahrenstechnik,Process Engineering
+08,Ingenieurwissenschaften,Engineering,63,Maschinenbau/Verfahrenstechnik,Mechanical Engineering/Process Engineering,213,Versorgungstechnik,Supply Engineering
+08,Ingenieurwissenschaften,Engineering,64,Elektrotechnik und Informationstechnik,Electrical Engineering and Information Technology,316,Elektrische Energietechnik,Electrical Power Engineering
+08,Ingenieurwissenschaften,Engineering,64,Elektrotechnik und Informationstechnik,Electrical Engineering and Information Technology,048,Elektrotechnik/Elektronik,Electrical Engineering/Electronics
+08,Ingenieurwissenschaften,Engineering,64,Elektrotechnik und Informationstechnik,Electrical Engineering and Information Technology,157,Mikroelektronik,Microelectronics
+08,Ingenieurwissenschaften,Engineering,64,Elektrotechnik und Informationstechnik,Electrical Engineering and Information Technology,286,Mikrosystemtechnik,Microsystems Technology
+08,Ingenieurwissenschaften,Engineering,64,Elektrotechnik und Informationstechnik,Electrical Engineering and Information Technology,222,Kommunikations-und Informationstechnik,Communication and Information Technology
+08,Ingenieurwissenschaften,Engineering,64,Elektrotechnik und Informationstechnik,Electrical Engineering and Information Technology,088,Optoelektronik,Optoelectronics
+08,Ingenieurwissenschaften,Engineering,65,Verkehrstechnik Nautik,Transportation Technology Nautical Science,235,Fahrzeugtechnik,Automotive Engineering
+08,Ingenieurwissenschaften,Engineering,65,Verkehrstechnik Nautik,Transportation Technology Nautical Science,057,Luft- und Raumfahrttechnik,Aerospace Engineering
+08,Ingenieurwissenschaften,Engineering,65,Verkehrstechnik Nautik,Transportation Technology Nautical Science,223,Nautik/Seefahrt,Nautical Science/Seafaring
+08,Ingenieurwissenschaften,Engineering,65,Verkehrstechnik Nautik,Transportation Technology Nautical Science,142,Schiffbau/Schiffstechnik,Shipbuilding/Marine Engineering
+08,Ingenieurwissenschaften,Engineering,65,Verkehrstechnik Nautik,Transportation Technology Nautical Science,089,Verkehrsingenieurwesen,Transportation Engineering
+08,Ingenieurwissenschaften,Engineering,66,Architektur Innenarchitektur,Architecture Interior Design,013,Architektur,Architecture
+08,Ingenieurwissenschaften,Engineering,66,Architektur Innenarchitektur,Architecture Interior Design,242,Innenarchitektur,Interior Architecture
+08,Ingenieurwissenschaften,Engineering,67,Raumplanung,Spatial Planning,134,Raumplanung,Spatial Planning
+08,Ingenieurwissenschaften,Engineering,67,Raumplanung,Spatial Planning,458,Umweltschutz,Environmental Protection
+08,Ingenieurwissenschaften,Engineering,68,Bauingenieurwesen,Civil Engineering,017,Bauingenieurwesen/Ingenieurbau,Civil Engineering/Structural Engineering
+08,Ingenieurwissenschaften,Engineering,68,Bauingenieurwesen,Civil Engineering,197,Holzbau,Timber Construction
+08,Ingenieurwissenschaften,Engineering,68,Bauingenieurwesen,Civil Engineering,429,Stahlbau,Steel Construction
+08,Ingenieurwissenschaften,Engineering,68,Bauingenieurwesen,Civil Engineering,094,Wasserbau,Hydraulic Engineering
+08,Ingenieurwissenschaften,Engineering,68,Bauingenieurwesen,Civil Engineering,077,Wasserwirtschaft,Water Management
+08,Ingenieurwissenschaften,Engineering,69,Vermessungswesen,Surveying,280,Kartographie,Cartography
+08,Ingenieurwissenschaften,Engineering,69,Vermessungswesen,Surveying,171,Vermessungswesen (Geodäsie),Surveying (Geodesy)
+08,Ingenieurwissenschaften,Engineering,70,Wirtschaftsingenieurwesen mit ingenieurwiss. Schwerpunkt,Industrial Engineering with Focus on Engineering,370,Wirtschaftsingenieurwesen mit ingenieurwiss. Schwerpunkt,Industrial Engineering with Focus on Engineering
+08,Ingenieurwissenschaften,Engineering,71,Informatik,Computer Science,221,Bioinformatik,Bioinformatics
+08,Ingenieurwissenschaften,Engineering,71,Informatik,Computer Science,200,Computer- und Kommunikationstechniken,Computer and Communication Technologies
+08,Ingenieurwissenschaften,Engineering,71,Informatik,Computer Science,079,Informatik,Computer Science
+08,Ingenieurwissenschaften,Engineering,71,Informatik,Computer Science,123,Ingenieurinformatik/Technische Informatik,Engineering Informatics/Technical Computer Science
+08,Ingenieurwissenschaften,Engineering,71,Informatik,Computer Science,121,Medieninformatik,Media Informatics
+08,Ingenieurwissenschaften,Engineering,71,Informatik,Computer Science,247,Medizinische Informatik,Medical Informatics
+08,Ingenieurwissenschaften,Engineering,71,Informatik,Computer Science,277,Wirtschaftsinformatik,Business Informatics
+08,Ingenieurwissenschaften,Engineering,72,Materialwissenschaft und Werkstofftechnik,Materials Science and Engineering,294,Materialwissenschaft,Materials Science
+09,Kunst Kunstwissenschaft,Art and Art Studies,74,Kunst Kunstwissenschaft allgemein,Art and Art Studies General,040,Interdisziplinäre Studien (Schwerpunkt Kunst Kunstwissenschaft),Interdisciplinary Studies (Focus on Art Art Studies)
+09,Kunst Kunstwissenschaft,Art and Art Studies,74,Kunst Kunstwissenschaft allgemein,Art and Art Studies General,091,Kunsterziehung,Art Education
+09,Kunst Kunstwissenschaft,Art and Art Studies,74,Kunst Kunstwissenschaft allgemein,Art and Art Studies General,092,Kunstgeschichte Kunstwissenschaft,Art History Art Studies
+09,Kunst Kunstwissenschaft,Art and Art Studies,74,Kunst Kunstwissenschaft allgemein,Art and Art Studies General,101,Restaurierungskunde,Restoration Studies
+09,Kunst Kunstwissenschaft,Art and Art Studies,75,Bildende Kunst,Fine Arts,023,Bildende Kunst/Graphik,Fine Arts/Graphics
+09,Kunst Kunstwissenschaft,Art and Art Studies,75,Bildende Kunst,Fine Arts,205,Bildhauerei/Plastik,Sculpture/Plastic Arts
+09,Kunst Kunstwissenschaft,Art and Art Studies,75,Bildende Kunst,Fine Arts,204,Malerei,Painting
+09,Kunst Kunstwissenschaft,Art and Art Studies,75,Bildende Kunst,Fine Arts,287,Neue Medien,New Media
+09,Kunst Kunstwissenschaft,Art and Art Studies,76,Gestaltung,Design,007,Angewandte Kunst,Applied Arts
+09,Kunst Kunstwissenschaft,Art and Art Studies,76,Gestaltung,Design,159,Edelstein- und Schmuckdesign,Gemstone and Jewelry Design
+09,Kunst Kunstwissenschaft,Art and Art Studies,76,Gestaltung,Design,069,Graphikdesign/Kommunikationsgestaltung,Graphic Design/Communication Design
+09,Kunst Kunstwissenschaft,Art and Art Studies,76,Gestaltung,Design,203,Industriedesign/Produktgestaltung,Industrial Design/Product Design
+09,Kunst Kunstwissenschaft,Art and Art Studies,76,Gestaltung,Design,116,Textilgestaltung,Textile Design
+09,Kunst Kunstwissenschaft,Art and Art Studies,76,Gestaltung,Design,176,Werkerziehung,Craft Education
+09,Kunst Kunstwissenschaft,Art and Art Studies,77,Darstellende Kunst Film und Fernsehen Theaterwissenschaft,Performing Arts Film and Television Theater Studies,035,Darstellende Kunst/Bühnenkunst/Regie,Performing Arts/Stage Arts/Directing
+09,Kunst Kunstwissenschaft,Art and Art Studies,77,Darstellende Kunst Film und Fernsehen Theaterwissenschaft,Performing Arts Film and Television Theater Studies,054,Film und Fernsehen,Film and Television
+09,Kunst Kunstwissenschaft,Art and Art Studies,77,Darstellende Kunst Film und Fernsehen Theaterwissenschaft,Performing Arts Film and Television Theater Studies,102,Schauspiel,Acting
+09,Kunst Kunstwissenschaft,Art and Art Studies,77,Darstellende Kunst Film und Fernsehen Theaterwissenschaft,Performing Arts Film and Television Theater Studies,106,Tanzpädagogik,Dance Pedagogy
+09,Kunst Kunstwissenschaft,Art and Art Studies,77,Darstellende Kunst Film und Fernsehen Theaterwissenschaft,Performing Arts Film and Television Theater Studies,155,Theaterwissenschaft,Theater Studies
+09,Kunst Kunstwissenschaft,Art and Art Studies,78,Musik Musikwissenschaft,Music Music Studies,192,Dirigieren,Conducting
+09,Kunst Kunstwissenschaft,Art and Art Studies,78,Musik Musikwissenschaft,Music Music Studies,230,Gesang,Vocal Studies
+09,Kunst Kunstwissenschaft,Art and Art Studies,78,Musik Musikwissenschaft,Music Music Studies,080,Instrumentalmusik,Instrumental Music
+09,Kunst Kunstwissenschaft,Art and Art Studies,78,Musik Musikwissenschaft,Music Music Studies,164,Jazz und Popularmusik,Jazz and Popular Music
+09,Kunst Kunstwissenschaft,Art and Art Studies,78,Musik Musikwissenschaft,Music Music Studies,193,Kirchenmusik,Church Music
+09,Kunst Kunstwissenschaft,Art and Art Studies,78,Musik Musikwissenschaft,Music Music Studies,191,Komposition,Composition
+09,Kunst Kunstwissenschaft,Art and Art Studies,78,Musik Musikwissenschaft,Music Music Studies,113,Musikerziehung,Music Education
+09,Kunst Kunstwissenschaft,Art and Art Studies,78,Musik Musikwissenschaft,Music Music Studies,114,Musikwissenschaft/-geschichte,Musicology/Music History
+09,Kunst Kunstwissenschaft,Art and Art Studies,78,Musik Musikwissenschaft,Music Music Studies,165,Orchestermusik,Orchestral Music
+09,Kunst Kunstwissenschaft,Art and Art Studies,78,Musik Musikwissenschaft,Music Music Studies,163,Rhythmik,Rhythmics
+09,Kunst Kunstwissenschaft,Art and Art Studies,78,Musik Musikwissenschaft,Music Music Studies,194,Tonmeister,Sound Engineering
+10,Außerhalb der Studienbereichsgliederung,Outside the Subject Area Classification,83,Außerhalb der Studienbereichsgliederung,Outside the Subject Area Classification,041,Sonstiges Orientierungsstudium,Other Orientation Studies
+10,Außerhalb der Studienbereichsgliederung,Outside the Subject Area Classification,83,Außerhalb der Studienbereichsgliederung,Outside the Subject Area Classification,196,Studienkolleg,Preparatory College
+10,Außerhalb der Studienbereichsgliederung,Outside the Subject Area Classification,83,Außerhalb der Studienbereichsgliederung,Outside the Subject Area Classification,290,Sonstige Fächer,Other Subjects

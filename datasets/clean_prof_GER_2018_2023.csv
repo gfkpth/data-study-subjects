@@ -1,0 +1,145 @@
+,year,subj_grp_code,subj_grp_name,gender,number
+0,2021,FACHGR-SPR,Sport,m,212
+1,2020,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),f,6
+2,2022,FACHGR-AGRW,"Agrar-, Forst- und Ernährungswissenschaften",f,0
+3,2023,FACHGR-MEDVET,Veterinärmedizin,f,0
+4,2021,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),m,435
+5,2021,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",m,10161
+6,2019,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",m,9969
+7,2021,FACHGR-NATW,"Mathematik, Naturwissenschaften",f,1392
+8,2022,FACHGR-INGW,Ingenieurwissenschaften,m,11099
+9,2018,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",f,4369
+10,2020,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",f,4743
+11,2019,FACHGR-NATW,"Mathematik, Naturwissenschaften",f,1286
+12,2022,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",f,1462
+13,2020,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,m,3487
+14,2018,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",m,886
+15,2019,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),m,459
+16,2018,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",f,1278
+17,2020,FACHGR-SKW,Geisteswissenschaften,m,2809
+18,2022,FACHGR-NATW,"Mathematik, Naturwissenschaften",m,5070
+19,2023,FACHGR-AGRW,"Agrar-, Forst- und Ernährungswissenschaften",f,0
+20,2018,FACHGR-SPR,Sport,m,209
+21,2022,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),f,220
+22,2019,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),f,6
+23,2019,FACHGR-MEDVET,Veterinärmedizin,f,0
+24,2020,FACHGR-INGW,Ingenieurwissenschaften,f,1821
+25,2023,FACHGR-NATW,"Mathematik, Naturwissenschaften",m,5077
+26,2021,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",m,826
+27,2023,FACHGR-SKW,Geisteswissenschaften,f,2057
+28,2022,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",m,826
+29,2023,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),f,218
+30,2018,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),f,7
+31,2019,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",f,1320
+32,2021,FACHGR-SKW,Geisteswissenschaften,f,1967
+33,2021,FACHGR-INGW,Ingenieurwissenschaften,f,1912
+34,2018,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),m,484
+35,2022,FACHGR-SKW,Geisteswissenschaften,m,2742
+36,2020,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",m,10091
+37,2018,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",m,9927
+38,2018,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),m,26
+39,2020,FACHGR-AGRW,"Agrar-, Forst- und Ernährungswissenschaften",m,0
+40,2020,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),m,427
+41,2023,FACHGR-SPR,Sport,m,220
+42,2022,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),m,444
+43,2019,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",m,2445
+44,2022,FACHGR-MEDVET,Veterinärmedizin,f,0
+45,2023,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,f,1508
+46,2018,FACHGR-AGRW,"Agrar-, Forst- und Ernährungswissenschaften",m,0
+47,2023,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",m,2461
+48,2019,FACHGR-SPR,Sport,f,73
+49,2019,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",m,837
+50,2023,FACHGR-INGW,Ingenieurwissenschaften,m,11140
+51,2019,FACHGR-AGRW,"Agrar-, Forst- und Ernährungswissenschaften",f,0
+52,2019,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",f,4558
+53,2018,FACHGR-NATW,"Mathematik, Naturwissenschaften",m,5179
+54,2020,FACHGR-INGW,Ingenieurwissenschaften,m,10919
+55,2023,FACHGR-AGRW,"Agrar-, Forst- und Ernährungswissenschaften",m,0
+56,2018,FACHGR-SKW,Geisteswissenschaften,f,1797
+57,2018,FACHGR-INGW,Ingenieurwissenschaften,f,1604
+58,2019,FACHGR-SKW,Geisteswissenschaften,m,2854
+59,2019,FACHGR-NATW,"Mathematik, Naturwissenschaften",m,5170
+60,2021,FACHGR-INGW,Ingenieurwissenschaften,m,10970
+61,2022,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",m,2489
+62,2021,FACHGR-AGRW,"Agrar-, Forst- und Ernährungswissenschaften",m,0
+63,2021,FACHGR-SKW,Geisteswissenschaften,m,2763
+64,2022,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",m,10262
+65,2020,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",m,2467
+66,2021,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",m,2497
+67,2022,FACHGR-AGRW,"Agrar-, Forst- und Ernährungswissenschaften",m,0
+68,2022,FACHGR-SPR,Sport,f,85
+69,2021,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),m,43
+70,2020,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),m,30
+71,2023,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",m,10311
+72,2020,FACHGR-SKW,Geisteswissenschaften,f,1884
+73,2019,FACHGR-INGW,Ingenieurwissenschaften,f,1706
+74,2022,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),m,39
+75,2023,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),m,39
+76,2020,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",f,1354
+77,2018,FACHGR-AGRW,"Agrar-, Forst- und Ernährungswissenschaften",f,0
+78,2020,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),f,177
+79,2019,FACHGR-SPR,Sport,m,211
+80,2019,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),m,21
+81,2022,FACHGR-MEDVET,Veterinärmedizin,m,0
+82,2023,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,m,3721
+83,2022,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",f,5179
+84,2019,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",f,346
+85,2022,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),f,10
+86,2023,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),m,446
+87,2018,FACHGR-MEDVET,Veterinärmedizin,m,0
+88,2019,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,m,3344
+89,2020,FACHGR-SPR,Sport,m,206
+90,2019,FACHGR-SKW,Geisteswissenschaften,f,1839
+91,2018,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",m,2475
+92,2023,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",f,434
+93,2020,FACHGR-AGRW,"Agrar-, Forst- und Ernährungswissenschaften",f,0
+94,2018,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,f,1023
+95,2020,FACHGR-NATW,"Mathematik, Naturwissenschaften",m,5076
+96,2020,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",m,832
+97,2021,FACHGR-MEDVET,Veterinärmedizin,f,0
+98,2022,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,f,1445
+99,2022,FACHGR-INGW,Ingenieurwissenschaften,f,2046
+100,2021,FACHGR-NATW,"Mathematik, Naturwissenschaften",m,5096
+101,2019,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),f,176
+102,2019,FACHGR-AGRW,"Agrar-, Forst- und Ernährungswissenschaften",m,0
+103,2023,FACHGR-INGW,Ingenieurwissenschaften,f,2104
+104,2022,FACHGR-SPR,Sport,m,225
+105,2020,FACHGR-MEDVET,Veterinärmedizin,f,0
+106,2023,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),f,17
+107,2018,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),f,184
+108,2018,FACHGR-SKW,Geisteswissenschaften,m,2892
+109,2018,FACHGR-INGW,Ingenieurwissenschaften,m,10836
+110,2021,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,f,1327
+111,2021,FACHGR-SPR,Sport,f,84
+112,2021,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),f,196
+113,2023,FACHGR-SPR,Sport,f,85
+114,2020,FACHGR-SPR,Sport,f,81
+115,2018,FACHGR-MEDVET,Veterinärmedizin,f,0
+116,2019,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,f,1098
+117,2021,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),f,16
+118,2021,FACHGR-AGRW,"Agrar-, Forst- und Ernährungswissenschaften",f,0
+119,2018,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",f,336
+120,2020,FACHGR-NATW,"Mathematik, Naturwissenschaften",f,1325
+121,2018,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,m,3295
+122,2020,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,f,1208
+123,2021,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",f,1412
+124,2018,FACHGR-SPR,Sport,f,65
+125,2023,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",m,796
+126,2019,FACHGR-INGW,Ingenieurwissenschaften,m,10829
+127,2023,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",f,5427
+128,2018,FACHGR-NATW,"Mathematik, Naturwissenschaften",f,1239
+129,2022,FACHGR-NATW,"Mathematik, Naturwissenschaften",f,1459
+130,2023,FACHGR-MEDVET,Veterinärmedizin,m,0
+131,2021,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",f,4972
+132,2023,FACHGR-NATW,"Mathematik, Naturwissenschaften",f,1575
+133,2023,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",f,1509
+134,2021,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",f,386
+135,2023,FACHGR-SKW,Geisteswissenschaften,m,2728
+136,2022,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",f,404
+137,2021,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,m,3593
+138,2020,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",f,350
+139,2022,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,m,3639
+140,2021,FACHGR-MEDVET,Veterinärmedizin,m,0
+141,2022,FACHGR-SKW,Geisteswissenschaften,f,2016
+142,2019,FACHGR-MEDVET,Veterinärmedizin,m,0
+143,2020,FACHGR-MEDVET,Veterinärmedizin,m,0

@@ -1,0 +1,3885 @@
+[
+  {
+    "code": "01",
+    "name": "Geisteswissenschaften",
+    "name_en": "Humanities",
+    "clusters": [
+      {
+        "code": "010",
+        "name": "Geisteswissenschaften allgemein 1",
+        "name_en": "Humanities in general 1",
+        "subjects": [
+          {
+            "code": "0100",
+            "name": "Geisteswissenschaften allgemein 2",
+            "name_en": "Humanities in general 2"
+          },
+          {
+            "code": "0120",
+            "name": "Interdisziplinare Studien (Schwerpunkt Geisteswissenschaften)",
+            "name_en": "Interdisciplinary Studies (Focus Humanities)"
+          }
+        ]
+      },
+      {
+        "code": "020",
+        "name": "Evang. Theologie",
+        "name_en": "Protestant Theology",
+        "subjects": [
+          {
+            "code": "0200",
+            "name": "Evang. Theologie allgemein 2",
+            "name_en": "Protestant Theology in general 2"
+          },
+          {
+            "code": "0210",
+            "name": "Altes Testament (evang. Th.)",
+            "name_en": "Old Testament (Protestant Th.)"
+          },
+          {
+            "code": "0215",
+            "name": "Diakoniewissenschaft",
+            "name_en": "Diaconal Studies"
+          },
+          {
+            "code": "0230",
+            "name": "Historische Theologie (evang. Th.)",
+            "name_en": "Historical Theology (Protestant Th.)"
+          },
+          {
+            "code": "0220",
+            "name": "Neues Testament (evang. Th.)",
+            "name_en": "New Testament (Protestant Th.)"
+          },
+          {
+            "code": "0250",
+            "name": "Praktische Theologie und Religionspädagogik (evang. Th.)",
+            "name_en": "Practical Theology and Religious Education (Protestant Th.)"
+          },
+          {
+            "code": "0260",
+            "name": "Religionsgeschichte und Missionswissenschaft (evang. Th.)",
+            "name_en": "History of Religion and Missiology (Protestant Th.)"
+          },
+          {
+            "code": "0240",
+            "name": "Systematische Theologie (evang. Th.)",
+            "name_en": "Systematic Theology (Protestant Th.)"
+          }
+        ]
+      },
+      {
+        "code": "030",
+        "name": "Kath. Theologie",
+        "name_en": "Catholic Theology",
+        "subjects": [
+          {
+            "code": "0300",
+            "name": "Kath. Theologie allgemein 2",
+            "name_en": "Catholic Theology in general 2"
+          },
+          {
+            "code": "0390",
+            "name": "Altkatholische Theologie",
+            "name_en": "Old Catholic Theology"
+          },
+          {
+            "code": "0310",
+            "name": "Biblische Theologie (kath. Th.)",
+            "name_en": "Biblical Theology (Catholic Th.)"
+          },
+          {
+            "code": "0315",
+            "name": "Caritaswissenschaft",
+            "name_en": "Caritas Studies"
+          },
+          {
+            "code": "0320",
+            "name": "Historische Theologie (kath. Th.)",
+            "name_en": "Historical Theology (Catholic Th.)"
+          },
+          {
+            "code": "0350",
+            "name": "Kanonistik (kath. Th.)",
+            "name_en": "Canon Law (Catholic Th.)"
+          },
+          {
+            "code": "0340",
+            "name": "Praktische Theologie und Religionspadagogik (kath. Th.)",
+            "name_en": "Practical Theology and Religious Education (Catholic Th.)"
+          },
+          {
+            "code": "0330",
+            "name": "Systematische Theologie (kath. Th.)",
+            "name_en": "Systematic Theology (Catholic Th.)"
+          }
+        ]
+      },
+      {
+        "code": "040",
+        "name": "Philosophie",
+        "name_en": "Philosophy",
+        "subjects": [
+          {
+            "code": "0400",
+            "name": "Philosophie allgemein 2",
+            "name_en": "Philosophy in general 2"
+          },
+          {
+            "code": "0420",
+            "name": "Didaktik der Philosophie/der Ethik",
+            "name_en": "Didactics of Philosophy/Ethics"
+          },
+          {
+            "code": "0425",
+            "name": "Geschichte der Philosophie",
+            "name_en": "History of Philosophy"
+          },
+          {
+            "code": "0426",
+            "name": "Logik",
+            "name_en": "Logic"
+          },
+          {
+            "code": "0410",
+            "name": "Religionswissenschaft",
+            "name_en": "Religious Studies"
+          },
+          {
+            "code": "0430",
+            "name": "Wissenschaftsforschung/-lehre",
+            "name_en": "Science Research/-Teaching"
+          }
+        ]
+      },
+      {
+        "code": "050",
+        "name": "Geschichte",
+        "name_en": "History",
+        "subjects": [
+          {
+            "code": "0500",
+            "name": "Geschichte allgemein 2",
+            "name_en": "History in general 2"
+          },
+          {
+            "code": "0520",
+            "name": "Alte Geschichte",
+            "name_en": "Ancient History"
+          },
+          {
+            "code": "0570",
+            "name": "Archäologie",
+            "name_en": "Archaeology"
+          },
+          {
+            "code": "0580",
+            "name": "Didaktik der Geschichte",
+            "name_en": "Didactics of History"
+          },
+          {
+            "code": "0585",
+            "name": "Kultur- und Geistesgeschichte",
+            "name_en": "Cultural and Intellectual History"
+          },
+          {
+            "code": "0550",
+            "name": "Länder-, Landesgeschichte",
+            "name_en": "Regional History, Local History"
+          },
+          {
+            "code": "0530",
+            "name": "Mittelalterliche Geschichte",
+            "name_en": "Medieval History"
+          },
+          {
+            "code": "0540",
+            "name": "Neuere und neueste Geschichte",
+            "name_en": "Modern and Contemporary History"
+          },
+          {
+            "code": "0510",
+            "name": "Ur-und Frühgeschichte",
+            "name_en": "Prehistory and Early History"
+          },
+          {
+            "code": "0560",
+            "name": "Wirtschafts- und Sozialgeschichte",
+            "name_en": "Economic and Social History"
+          },
+          {
+            "code": "0595",
+            "name": "Wissenschaftsgeschichte/Technikgeschichte",
+            "name_en": "History of Science/History of Technology"
+          }
+        ]
+      },
+      {
+        "code": "070",
+        "name": "Informations- und Bibliothekswissenschaften",
+        "name_en": "Information and Library Sciences",
+        "subjects": [
+          {
+            "code": "0700",
+            "name": "Informations- und Bibliothekswissenschaften allgemein 2",
+            "name_en": "Information and Library Sciences in general 2"
+          },
+          {
+            "code": "0720",
+            "name": "Archiv- und Dokumentationswissenschaft",
+            "name_en": "Archival and Documentation Science"
+          },
+          {
+            "code": "0710",
+            "name": "Bibliothekswissenschaft (nicht für Verwaltungs-FH)",
+            "name_en": "Library Science (not for Administrative Universities of Applied Sciences)"
+          },
+          {
+            "code": "0730",
+            "name": "Informationswissenschaft",
+            "name_en": "Information Science"
+          }
+        ]
+      },
+      {
+        "code": "080",
+        "name": "Allgemeine und vergleichende Literatur- und Sprachwissenschaft",
+        "name_en": "General and Comparative Literature and Linguistics",
+        "subjects": [
+          {
+            "code": "0800",
+            "name": "Allg, und vergleichende Literatur- und Sprachwissenschaft allgemein 2",
+            "name_en": "General and Comparative Literature and Linguistics in general 2"
+          },
+          {
+            "code": "0820",
+            "name": "Allg. und vergleichende Literaturwissenschaft",
+            "name_en": "General and Comparative Literature"
+          },
+          {
+            "code": "0810",
+            "name": "Allg. und vergleichende Sprachwissenschaft",
+            "name_en": "General and Comparative Linguistics"
+          },
+          {
+            "code": "0830",
+            "name": "Angewandte Sprachwissenschaft, berufsbezogene Fremdsprachenausbildung",
+            "name_en": "Applied Linguistics, Professional Foreign Language Training"
+          },
+          {
+            "code": "0835",
+            "name": "Computerlinguistik",
+            "name_en": "Computational Linguistics"
+          },
+          {
+            "code": "0840",
+            "name": "Fremdsprachenausbildung (f. Hörer aller Fakultäten)",
+            "name_en": "Foreign Language Training (for students of all faculties)"
+          },
+          {
+            "code": "0845",
+            "name": "Indogermanistik",
+            "name_en": "Indo-European Studies"
+          }
+        ]
+      },
+      {
+        "code": "090",
+        "name": "Altphilologie (klass. Philologie)",
+        "name_en": "Classical Philology",
+        "subjects": [
+          {
+            "code": "0900",
+            "name": "Altphilologie allgemein 2",
+            "name_en": "Classical Philology in general 2"
+          },
+          {
+            "code": "0930",
+            "name": "Byzantinistik",
+            "name_en": "Byzantine Studies"
+          },
+          {
+            "code": "0960",
+            "name": "Didaktik der Altphilologie",
+            "name_en": "Didactics of Classical Philology"
+          },
+          {
+            "code": "0910",
+            "name": "Griechische Philologie",
+            "name_en": "Greek Philology"
+          },
+          {
+            "code": "0920",
+            "name": "Lateinische Philologie",
+            "name_en": "Latin Philology"
+          },
+          {
+            "code": "0940",
+            "name": "Neugriechisch",
+            "name_en": "Modern Greek"
+          },
+          {
+            "code": "0950",
+            "name": "Papyrologie",
+            "name_en": "Papyrology"
+          }
+        ]
+      },
+      {
+        "code": "100",
+        "name": "Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",
+        "name_en": "German Studies (German, Germanic Languages excluding English Studies)",
+        "subjects": [
+          {
+            "code": "1000",
+            "name": "Germanistik (Deutsch, germanische Sprachen ohne Anglistik) allgemein 2",
+            "name_en": "German Studies (German, Germanic Languages excluding English Studies) in general 2"
+          },
+          {
+            "code": "1040",
+            "name": "Deutsch als Fremdsprache oder als Zweitsprache",
+            "name_en": "German as a Foreign Language or as a Second Language"
+          },
+          {
+            "code": "1080",
+            "name": "Deutsche Literaturwissenschaft",
+            "name_en": "German Literary Studies"
+          },
+          {
+            "code": "1090",
+            "name": "Deutsche Sprachwissenschaft",
+            "name_en": "German Linguistics"
+          },
+          {
+            "code": "1050",
+            "name": "Didaktik der deutschen Sprache",
+            "name_en": "Didactics of the German Language"
+          },
+          {
+            "code": "1030",
+            "name": "Niederlandistik",
+            "name_en": "Dutch Studies"
+          },
+          {
+            "code": "1020",
+            "name": "Skandinavistik",
+            "name_en": "Scandinavian Studies"
+          },
+          {
+            "code": "1070",
+            "name": "Sonstige germanische Sprachen (ohne Anglistik)",
+            "name_en": "Other Germanic Languages (excluding English Studies)"
+          }
+        ]
+      },
+      {
+        "code": "110",
+        "name": "Anglistik. Amerikanistik",
+        "name_en": "English Studies. American Studies",
+        "subjects": [
+          {
+            "code": "1110",
+            "name": "Amerikanistik",
+            "name_en": "American Studies"
+          },
+          {
+            "code": "1100",
+            "name": "Anglistik",
+            "name_en": "English Studies"
+          },
+          {
+            "code": "1120",
+            "name": "Didaktik des Englischen",
+            "name_en": "Didactics of English"
+          },
+          {
+            "code": "1125",
+            "name": "Wirtschaftsenglisch, Englische Fachsprachen",
+            "name_en": "Business English, English for Specific Purposes"
+          }
+        ]
+      },
+      {
+        "code": "120",
+        "name": "Romanistik",
+        "name_en": "Romance Studies",
+        "subjects": [
+          {
+            "code": "1200",
+            "name": "Romanistik allgemein 2",
+            "name_en": "Romance Studies in general 2"
+          },
+          {
+            "code": "1215",
+            "name": "Didaktik des Franzosischen",
+            "name_en": "Didactics of French"
+          },
+          {
+            "code": "1225",
+            "name": "Didaktik des Italienischen",
+            "name_en": "Didactics of Italian"
+          },
+          {
+            "code": "1235",
+            "name": "Didaktik des Spanischen",
+            "name_en": "Didactics of Spanish"
+          },
+          {
+            "code": "1210",
+            "name": "Französische Sprach- und Literaturwissenschaft",
+            "name_en": "French Linguistics and Literary Studies"
+          },
+          {
+            "code": "1230",
+            "name": "Iberoromanische Sprach- und Literaturwissenschaft",
+            "name_en": "Ibero-Romance Linguistics and Literary Studies"
+          },
+          {
+            "code": "1220",
+            "name": "Italienische Sprach- und Literaturwissenschaft",
+            "name_en": "Italian Linguistics and Literary Studies"
+          },
+          {
+            "code": "1240",
+            "name": "Sonstige romanische Sprachen",
+            "name_en": "Other Romance Languages"
+          }
+        ]
+      },
+      {
+        "code": "130",
+        "name": "Slawistik. Baltistik. Finno-Ugristik",
+        "name_en": "Slavic Studies. Baltic Studies. Finno-Ugric Studies",
+        "subjects": [
+          {
+            "code": "1300",
+            "name": "Slawistik, Baltistik, Finno-Ugristik allgemein 2",
+            "name_en": "Slavic Studies, Baltic Studies, Finno-Ugric Studies in general 2"
+          },
+          {
+            "code": "1310",
+            "name": "Slawistik allgemein 2",
+            "name_en": "Slavic Studies in general 2"
+          },
+          {
+            "code": "1380",
+            "name": "Balkanologie",
+            "name_en": "Balkan Studies"
+          },
+          {
+            "code": "1350",
+            "name": "Baltistik",
+            "name_en": "Baltic Studies"
+          },
+          {
+            "code": "1370",
+            "name": "Finno-Ugristik",
+            "name_en": "Finno-Ugric Studies"
+          },
+          {
+            "code": "1315",
+            "name": "Ostslawische Philologien",
+            "name_en": "East Slavic Philologies"
+          },
+          {
+            "code": "1346",
+            "name": "Polnisch",
+            "name_en": "Polish"
+          },
+          {
+            "code": "1320",
+            "name": "Russische Sprach- und Literaturwissenschaft",
+            "name_en": "Russian Linguistics and Literary Studies"
+          },
+          {
+            "code": "1347",
+            "name": "Sorabistik",
+            "name_en": "Sorbian Studies"
+          },
+          {
+            "code": "1340",
+            "name": "Südslawische Philologien",
+            "name_en": "South Slavic Philologies"
+          },
+          {
+            "code": "1348",
+            "name": "Tschechisch",
+            "name_en": "Czech"
+          },
+          {
+            "code": "1345",
+            "name": "Westslawische Philologien",
+            "name_en": "West Slavic Philologies"
+          }
+        ]
+      },
+      {
+        "code": "140",
+        "name": "Sonstige Sprach- und Kulturwissenschaften",
+        "name_en": "Other Language and Cultural Studies",
+        "subjects": [
+          {
+            "code": "1400",
+            "name": "Sonstige Sprach- und Kulturwissenschaften allgemein 2",
+            "name_en": "Other Language and Cultural Studies in general 2"
+          },
+          {
+            "code": "1420",
+            "name": "Afrikanistik",
+            "name_en": "African Studies"
+          },
+          {
+            "code": "1410",
+            "name": "Agyptologie",
+            "name_en": "Egyptology"
+          },
+          {
+            "code": "1430",
+            "name": "Altorientalistik",
+            "name_en": "Ancient Near Eastern Studies"
+          },
+          {
+            "code": "1570",
+            "name": "Außereuropäische Sprachen und Kulturen Amerikas",
+            "name_en": "Non-European Languages and Cultures of the Americas"
+          },
+          {
+            "code": "1575",
+            "name": "Außereuropäische Sprachen und Kulturen Australiens",
+            "name_en": "Non-European Languages and Cultures of Australia"
+          },
+          {
+            "code": "1490",
+            "name": "Indologie",
+            "name_en": "Indology"
+          },
+          {
+            "code": "1480",
+            "name": "Iranistik",
+            "name_en": "Iranian Studies"
+          },
+          {
+            "code": "1470",
+            "name": "Islamwissenschaft",
+            "name_en": "Islamic Studies"
+          },
+          {
+            "code": "1540",
+            "name": "Japanologie",
+            "name_en": "Japanese Studies"
+          },
+          {
+            "code": "1460",
+            "name": "Judaistik/Hebräisch",
+            "name_en": "Judaic Studies/Hebrew"
+          },
+          {
+            "code": "1465",
+            "name": "Kaukasistik",
+            "name_en": "Caucasian Studies"
+          },
+          {
+            "code": "1550",
+            "name": "Koreanistik",
+            "name_en": "Korean Studies"
+          },
+          {
+            "code": "1576",
+            "name": "Orientalistik allgemein 2",
+            "name_en": "Oriental Studies in general 2"
+          },
+          {
+            "code": "1450",
+            "name": "Semitistik, Arabistik",
+            "name_en": "Semitic Studies, Arabic Studies"
+          },
+          {
+            "code": "1530",
+            "name": "Sinologie",
+            "name_en": "Sinology"
+          },
+          {
+            "code": "1440",
+            "name": "Sprachen und Kulturen des christlichen Orients",
+            "name_en": "Languages and Cultures of the Christian Orient"
+          },
+          {
+            "code": "1445",
+            "name": "Sprachen und Kulturen des Nahen und Mittleren Ostens",
+            "name_en": "Languages and Cultures of the Near and Middle East"
+          },
+          {
+            "code": "1495",
+            "name": "Sprachen und Kulturen Ostasiens allgemein 2",
+            "name_en": "Languages and Cultures of East Asia in general 2"
+          },
+          {
+            "code": "1560",
+            "name": "Sprachen und Kulturen Sudostasiens und Ozeaniens",
+            "name_en": "Languages and Cultures of Southeast Asia and Oceania"
+          },
+          {
+            "code": "1520",
+            "name": "Sprachen und Kulturen Zentralasiens",
+            "name_en": "Languages and Cultures of Central Asia"
+          },
+          {
+            "code": "1510",
+            "name": "Turkologie",
+            "name_en": "Turkology"
+          },
+          {
+            "code": "1610",
+            "name": "Sonstige Sprachwissenschaften",
+            "name_en": "Other Linguistics"
+          }
+        ]
+      },
+      {
+        "code": "160",
+        "name": "Kulturwissenschaften",
+        "name_en": "Cultural Studies",
+        "subjects": [
+          {
+            "code": "1650",
+            "name": "Allgemeine Kulturwissenschaft",
+            "name_en": "General Cultural Studies"
+          },
+          {
+            "code": "1580",
+            "name": "Ethnologie",
+            "name_en": "Ethnology"
+          },
+          {
+            "code": "1660",
+            "name": "Europaische Ethnologie",
+            "name_en": "European Ethnology"
+          },
+          {
+            "code": "1590",
+            "name": "Volkskunde",
+            "name_en": "Folklore Studies"
+          }
+        ]
+      },
+      {
+        "code": "195",
+        "name": "Islamische Studien/Islamische Theologie",
+        "name_en": "Islamic Studies/Islamic Theology",
+        "subjects": [
+          {
+            "code": "1950",
+            "name": "Islamische Studien/Islamische Theologie",
+            "name_en": "Islamic Studies/Islamic Theology"
+          }
+        ]
+      },
+      {
+        "code": "197",
+        "name": "Medienwissenschaft",
+        "name_en": "Media Studies",
+        "subjects": [
+          {
+            "code": "0130",
+            "name": "Medienwissenschaft",
+            "name_en": "Media Studies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "02",
+    "name": "Sport",
+    "name_en": "Sport",
+    "clusters": [
+      {
+        "code": "200",
+        "name": "Sport",
+        "name_en": "Sport",
+        "subjects": [
+          {
+            "code": "2000",
+            "name": "Sportwissenschaften allgemein 2",
+            "name_en": "Sports Sciences in general 2"
+          },
+          {
+            "code": "2005",
+            "name": "Didaktik des Sports",
+            "name_en": "Didactics of Sport"
+          },
+          {
+            "code": "2010",
+            "name": "Sportmedizin",
+            "name_en": "Sports Medicine"
+          },
+          {
+            "code": "2020",
+            "name": "Sportpädagogik/Sportpsychologie",
+            "name_en": "Sports Pedagogy/Sports Psychology"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "03",
+    "name": "Rechts-, Wirtschafts- und Sozialwissenschaften",
+    "name_en": "Law, Economics and Social Sciences",
+    "clusters": [
+      {
+        "code": "220",
+        "name": "Rechts Wirtschafts- und Sozialwissenschaften allgemein",
+        "name_en": "Law, Economics and Social Sciences in general",
+        "subjects": [
+          {
+            "code": "2200",
+            "name": "Rechts-, Wirtschafts- und Sozialwissenschaften allgemein 2",
+            "name_en": "Law, Economics and Social Sciences in general 2"
+          },
+          {
+            "code": "2210",
+            "name": "Interdisziplinäre Studien (Schwerpunkt Rechts-, Wirtschafts- und Sozialwissenschaften)",
+            "name_en": "Interdisciplinary Studies (Focus Law, Economics and Social Sciences)"
+          },
+          {
+            "code": "2230",
+            "name": "Wirtschafts- und Sozialpolitik",
+            "name_en": "Economic and Social Policy"
+          }
+        ]
+      },
+      {
+        "code": "225",
+        "name": "Regionalwissenschaften (soweit nicht einzelnen Lehr- und Forschungsbereichen oder anderen Facheroruppen zuzuordnen)",
+        "name_en": "Regional Studies (unless assigned to individual teaching and research areas or other subject groups)",
+        "subjects": [
+          {
+            "code": "2250",
+            "name": "Afrika-Studien",
+            "name_en": "African Studies"
+          },
+          {
+            "code": "2255",
+            "name": "Lateinamerika-Studien",
+            "name_en": "Latin American Studies"
+          },
+          {
+            "code": "2265",
+            "name": "Naher und Mittlerer Osten-Studien",
+            "name_en": "Near and Middle East Studies"
+          },
+          {
+            "code": "2260",
+            "name": "Nordamerika-Studien",
+            "name_en": "North American Studies"
+          },
+          {
+            "code": "2290",
+            "name": "Nord-und Westeuropa-Studien",
+            "name_en": "Northern and Western European Studies"
+          },
+          {
+            "code": "2270",
+            "name": "Ostasien-Studien",
+            "name_en": "East Asian Studies"
+          },
+          {
+            "code": "2285",
+            "name": "Ost- und Sudosteuropa-Studien",
+            "name_en": "Eastern and Southeastern European Studies"
+          },
+          {
+            "code": "2275",
+            "name": "Sudasien-Studien",
+            "name_en": "South Asian Studies"
+          },
+          {
+            "code": "2280",
+            "name": "Südostasien und Ozeanien-Studien",
+            "name_en": "Southeast Asian and Oceanian Studies"
+          }
+        ]
+      },
+      {
+        "code": "230",
+        "name": "Politikwissenschaft",
+        "name_en": "Political Science",
+        "subjects": [
+          {
+            "code": "2300",
+            "name": "Politikwissenschaft allgemein 2",
+            "name_en": "Political Science in general 2"
+          },
+          {
+            "code": "2350",
+            "name": "Internationale Politik, Internationale Beziehungen",
+            "name_en": "International Politics, International Relations"
+          },
+          {
+            "code": "2360",
+            "name": "Politische Bildung",
+            "name_en": "Political Education"
+          },
+          {
+            "code": "2370",
+            "name": "Politische Systeme",
+            "name_en": "Political Systems"
+          },
+          {
+            "code": "2380",
+            "name": "Politische Theorie und Ideengeschichte",
+            "name_en": "Political Theory and History of Ideas"
+          }
+        ]
+      },
+      {
+        "code": "235",
+        "name": "Sozialwissenschaften/Soziologie",
+        "name_en": "Social Sciences/Sociology",
+        "subjects": [
+          {
+            "code": "2320",
+            "name": "Sozialwissenschaften/Soziologie allgemein 2",
+            "name_en": "Social Sciences/Sociology in general 2"
+          },
+          {
+            "code": "2340",
+            "name": "Bevölkerungswissenschaft (Demographie)",
+            "name_en": "Demography"
+          },
+          {
+            "code": "2355",
+            "name": "Empirie und Methoden",
+            "name_en": "Empirical Research and Methods"
+          },
+          {
+            "code": "2345",
+            "name": "Sozialkunde",
+            "name_en": "Social Studies"
+          },
+          {
+            "code": "2365",
+            "name": "Soziologische Theorie",
+            "name_en": "Sociological Theory"
+          },
+          {
+            "code": "2375",
+            "name": "Spezielle Soziologien",
+            "name_en": "Special Sociologies"
+          }
+        ]
+      },
+      {
+        "code": "240",
+        "name": "Sozialwesen",
+        "name_en": "Social Work",
+        "subjects": [
+          {
+            "code": "2400",
+            "name": "Sozialwesen allgemein 2",
+            "name_en": "Social Work in general 2"
+          },
+          {
+            "code": "2410",
+            "name": "Soziale Arbeit",
+            "name_en": "Social Work"
+          },
+          {
+            "code": "2420",
+            "name": "Sozialpädagogik",
+            "name_en": "Social Pedagogy"
+          }
+        ]
+      },
+      {
+        "code": "250",
+        "name": "Rechtswissenschaften",
+        "name_en": "Law",
+        "subjects": [
+          {
+            "code": "2500",
+            "name": "Rechtswissenschaften allgemein 2",
+            "name_en": "Law in general 2"
+          },
+          {
+            "code": "2630",
+            "name": "Arbeitsrecht",
+            "name_en": "Labor Law"
+          },
+          {
+            "code": "2670",
+            "name": "Bürgerliches Recht",
+            "name_en": "Civil Law"
+          },
+          {
+            "code": "2665",
+            "name": "Europarecht",
+            "name_en": "European Law"
+          },
+          {
+            "code": "2620",
+            "name": "Handelsrecht",
+            "name_en": "Commercial Law"
+          },
+          {
+            "code": "2580",
+            "name": "Internationales Recht und Rechtsvergleichung",
+            "name_en": "International Law and Comparative Law"
+          },
+          {
+            "code": "2540",
+            "name": "Kirchenrecht",
+            "name_en": "Canon Law"
+          },
+          {
+            "code": "2545",
+            "name": "Kriminologie",
+            "name_en": "Criminology"
+          },
+          {
+            "code": "2560",
+            "name": "Öffentliches Recht",
+            "name_en": "Public Law"
+          },
+          {
+            "code": "2550",
+            "name": "Privatrecht (ohne Arbeitsrecht)",
+            "name_en": "Private Law (excluding Labor Law)"
+          },
+          {
+            "code": "2650",
+            "name": "Prozessrecht",
+            "name_en": "Procedural Law"
+          },
+          {
+            "code": "2520",
+            "name": "Rechts- und Staatsphilosophie",
+            "name_en": "Philosophy of Law and State"
+          },
+          {
+            "code": "2510",
+            "name": "Rechtsgeschichte",
+            "name_en": "Legal History"
+          },
+          {
+            "code": "2515",
+            "name": "Rechtsinformatik",
+            "name_en": "Legal Informatics"
+          },
+          {
+            "code": "2530",
+            "name": "Rechtssoziologie",
+            "name_en": "Sociology of Law"
+          },
+          {
+            "code": "2680",
+            "name": "Sozialrecht",
+            "name_en": "Social Law"
+          },
+          {
+            "code": "2590",
+            "name": "Steuerrecht",
+            "name_en": "Tax Law"
+          },
+          {
+            "code": "2570",
+            "name": "Strafrecht",
+            "name_en": "Criminal Law"
+          },
+          {
+            "code": "2690",
+            "name": "Versicherungsrecht",
+            "name_en": "Insurance Law"
+          },
+          {
+            "code": "2640",
+            "name": "Wirtschaftsrecht",
+            "name_en": "Business Law"
+          }
+        ]
+      },
+      {
+        "code": "270",
+        "name": "Verwaltungswissenschaften",
+        "name_en": "Administrative Sciences",
+        "subjects": [
+          {
+            "code": "2700",
+            "name": "Verwaltungswissenschaft allgemein 2",
+            "name_en": "Administrative Science in general 2"
+          },
+          {
+            "code": "2770",
+            "name": "Allgemeine innere Verwaltung",
+            "name_en": "General Internal Administration"
+          },
+          {
+            "code": "2710",
+            "name": "Arbeits- und Berufsberatung",
+            "name_en": "Labor and Career Counseling"
+          },
+          {
+            "code": "2720",
+            "name": "Arbeitsverwaltung",
+            "name_en": "Labor Administration"
+          },
+          {
+            "code": "2810",
+            "name": "Post-und Fernmeldewesen",
+            "name_en": "Postal and Telecommunications Services"
+          },
+          {
+            "code": "2610",
+            "name": "Rechtspflege",
+            "name_en": "Judiciary"
+          },
+          {
+            "code": "2820",
+            "name": "Sozialverwaltung",
+            "name_en": "Social Administration"
+          },
+          {
+            "code": "2830",
+            "name": "Verkehrswesen",
+            "name_en": "Transport"
+          },
+          {
+            "code": "2840",
+            "name": "Zoll- und Steuerverwaltung",
+            "name_en": "Customs and Tax Administration"
+          },
+          {
+            "code": "2711",
+            "name": "Archivwesen",
+            "name_en": "Archival Science"
+          },
+          {
+            "code": "2730",
+            "name": "Auswärtige Angelegenheiten",
+            "name_en": "Foreign Affairs"
+          },
+          {
+            "code": "2740",
+            "name": "Bankwesen",
+            "name_en": "Banking"
+          },
+          {
+            "code": "2712",
+            "name": "Bibliothekswesen",
+            "name_en": "Library Science"
+          },
+          {
+            "code": "2750",
+            "name": "Bundeswehrverwaltung",
+            "name_en": "Federal Armed Forces Administration"
+          },
+          {
+            "code": "2760",
+            "name": "Finanzverwaltung",
+            "name_en": "Financial Administration"
+          },
+          {
+            "code": "2780",
+            "name": "Justizvollzug",
+            "name_en": "Correctional Services"
+          },
+          {
+            "code": "2790",
+            "name": "Polizei/Verfassungsschutz",
+            "name_en": "Police/Constitutional Protection"
+          }
+        ]
+      },
+      {
+        "code": "290",
+        "name": "Wirtschaftswissenschaften",
+        "name_en": "Economics and Business Administration",
+        "subjects": [
+          {
+            "code": "2900",
+            "name": "Wirtschaftswissenschaften allgemein 2",
+            "name_en": "Economics and Business Administration in general 2"
+          },
+          {
+            "code": "3010",
+            "name": "Arbeitslehre/-wissenschaft",
+            "name_en": "Labor Studies/-Science"
+          },
+          {
+            "code": "2960",
+            "name": "Betriebswirtschaftslehre",
+            "name_en": "Business Administration"
+          },
+          {
+            "code": "2980",
+            "name": "Finanzwissenschaft",
+            "name_en": "Finance"
+          },
+          {
+            "code": "2966",
+            "name": "Internationale Wirtschaft",
+            "name_en": "International Economics"
+          },
+          {
+            "code": "2985",
+            "name": "Medienwirtschaft/Medienmanagement",
+            "name_en": "Media Economics/Media Management"
+          },
+          {
+            "code": "2940",
+            "name": "Ökonometrie",
+            "name_en": "Econometrics"
+          },
+          {
+            "code": "2925",
+            "name": "Sportmanagement/Sportökonomie",
+            "name_en": "Sports Management/Sports Economics"
+          },
+          {
+            "code": "2815",
+            "name": "Tourismuswirtschaft",
+            "name_en": "Tourism Economics"
+          },
+          {
+            "code": "2905",
+            "name": "Umweltwirtschaft/Umweltökonomie",
+            "name_en": "Environmental Economics/Environmental Management"
+          },
+          {
+            "code": "2971",
+            "name": "Verkehrswirtschaft",
+            "name_en": "Transport Economics"
+          },
+          {
+            "code": "2835",
+            "name": "Versicherungswesen",
+            "name_en": "Insurance"
+          },
+          {
+            "code": "2930",
+            "name": "Volkswirtschaftslehre",
+            "name_en": "Economics"
+          },
+          {
+            "code": "2920",
+            "name": "Wirtschaftsinformatik (f. Wirtschaftsingenieure)",
+            "name_en": "Business Informatics (for Industrial Engineers)"
+          },
+          {
+            "code": "2935",
+            "name": "Wirtschaftsinformatik (f. Wirtschaftswiss.)",
+            "name_en": "Business Informatics (for Economists)"
+          },
+          {
+            "code": "2936",
+            "name": "Wirtschaftsmathematik",
+            "name_en": "Business Mathematics"
+          },
+          {
+            "code": "2910",
+            "name": "Wirtschaftspädagogik",
+            "name_en": "Business Education"
+          },
+          {
+            "code": "2915",
+            "name": "Wirtschaftsstatistik",
+            "name_en": "Business Statistics"
+          }
+        ]
+      },
+      {
+        "code": "310",
+        "name": "Wirtschaftsingenieurwesen mit wirtschafts- wissenschaftlichem Schwerpunkt",
+        "name_en": "Industrial Engineering with a focus on Economics",
+        "subjects": [
+          {
+            "code": "3100",
+            "name": "Wirtschaftsingenieurwesen mit wirtschafts- wissenschaftlichem Schwerpunkt",
+            "name_en": "Industrial Engineering with a focus on Economics"
+          },
+          {
+            "code": "3110",
+            "name": "Facility Management",
+            "name_en": "Facility Management"
+          }
+        ]
+      },
+      {
+        "code": "315",
+        "name": "Psychologie",
+        "name_en": "Psychology",
+        "subjects": [
+          {
+            "code": "1700",
+            "name": "Psychologie allgemein 2",
+            "name_en": "Psychology in general 2"
+          },
+          {
+            "code": "1750",
+            "name": "Allgemeine und kognitive Psychologie",
+            "name_en": "General and Cognitive Psychology"
+          },
+          {
+            "code": "1715",
+            "name": "Arbeits-, Organisations- und Wirtschaftspsychologie",
+            "name_en": "Work, Organizational and Economic Psychology"
+          },
+          {
+            "code": "1760",
+            "name": "Biologische und Neuropsychologie",
+            "name_en": "Biological and Neuropsychology"
+          },
+          {
+            "code": "1710",
+            "name": "Differentielle Psychologie, Persönlichkeits- psychologie und Diagnostik",
+            "name_en": "Differential Psychology, Personality Psychology and Diagnostics"
+          },
+          {
+            "code": "1720",
+            "name": "Entwicklungspsychologie",
+            "name_en": "Developmental Psychology"
+          },
+          {
+            "code": "1740",
+            "name": "Klinische Psychologie, Diagnostik und Psychotherapie",
+            "name_en": "Clinical Psychology, Diagnostics and Psychotherapy"
+          },
+          {
+            "code": "1770",
+            "name": "Methoden und Evaluation der Psychologie",
+            "name_en": "Methods and Evaluation in Psychology"
+          },
+          {
+            "code": "1725",
+            "name": "Pädagogische Psychologie",
+            "name_en": "Educational Psychology"
+          },
+          {
+            "code": "1730",
+            "name": "Sozialpsychologie",
+            "name_en": "Social Psychology"
+          }
+        ]
+      },
+      {
+        "code": "320",
+        "name": "Erziehungswissenschaften",
+        "name_en": "Educational Sciences",
+        "subjects": [
+          {
+            "code": "1800",
+            "name": "Erziehungswissenschaft allgemein 2",
+            "name_en": "Educational Science in general 2"
+          },
+          {
+            "code": "1805",
+            "name": "Berufs- und Wirtschaftspädagogik",
+            "name_en": "Vocational and Business Education"
+          },
+          {
+            "code": "1801",
+            "name": "Didaktik",
+            "name_en": "Didactics"
+          },
+          {
+            "code": "1802",
+            "name": "Empirische Bildungsforschung",
+            "name_en": "Empirical Educational Research"
+          },
+          {
+            "code": "1820",
+            "name": "Erwachsenenbildung",
+            "name_en": "Adult Education"
+          },
+          {
+            "code": "1803",
+            "name": "Grundschul- und Primarstufenpädagogik",
+            "name_en": "Primary School and Primary Education"
+          },
+          {
+            "code": "1804",
+            "name": "Historische Bildungsforschung",
+            "name_en": "Historical Educational Research"
+          },
+          {
+            "code": "1829",
+            "name": "Interkulturelle und International Vergleichende Erziehungswissenschaft",
+            "name_en": "Intercultural and International Comparative Educational Science"
+          },
+          {
+            "code": "1828",
+            "name": "Kultur-und Medienpädagogik",
+            "name_en": "Cultural and Media Education"
+          },
+          {
+            "code": "1826",
+            "name": "Pädagogik der frühen Kindheit",
+            "name_en": "Early Childhood Pedagogy"
+          },
+          {
+            "code": "1825",
+            "name": "Pädagogische Freizeitforschung und Sportpädagogik",
+            "name_en": "Educational Leisure Research and Sports Pedagogy"
+          },
+          {
+            "code": "1827",
+            "name": "Schulpadagogik",
+            "name_en": "School Pedagogy"
+          },
+          {
+            "code": "1806",
+            "name": "Sonderpadagogik",
+            "name_en": "Special Education"
+          }
+        ]
+      },
+      {
+        "code": "325",
+        "name": "Kommunikationswissenschaft/Publizistik",
+        "name_en": "Communication Science/Journalism",
+        "subjects": [
+          {
+            "code": "2240",
+            "name": "Kommunikationswissenschaft/Publizistik",
+            "name_en": "Communication Science/Journalism"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "04",
+    "name": "Mathematik, Naturwissenschaften",
+    "name_en": "Mathematics, Natural Sciences",
+    "clusters": [
+      {
+        "code": "330",
+        "name": "Mathematik, Naturwissenschaften allgemein 1",
+        "name_en": "Mathematics, Natural Sciences in general 1",
+        "subjects": [
+          {
+            "code": "3300",
+            "name": "Mathematik, Naturwissenschaften allgemein 2",
+            "name_en": "Mathematics, Natural Sciences in general 2"
+          },
+          {
+            "code": "3320",
+            "name": "Interdisziplinare Studien (Schwerpunkt Naturwissenschaft)",
+            "name_en": "Interdisciplinary Studies (Focus Natural Science)"
+          },
+          {
+            "code": "3315",
+            "name": "Naturwissenschaftliche Fachdidaktiken, soweit nicht auftellbar",
+            "name_en": "Natural Science Didactics, where not assignable"
+          },
+          {
+            "code": "3330",
+            "name": "Statistik",
+            "name_en": "Statistics"
+          }
+        ]
+      },
+      {
+        "code": "340",
+        "name": "Mathematik",
+        "name_en": "Mathematics",
+        "subjects": [
+          {
+            "code": "3400",
+            "name": "Mathematik allgemein 2",
+            "name_en": "Mathematics in general 2"
+          },
+          {
+            "code": "3440",
+            "name": "Algebra, Diskrete Mathematik u. Zahlentheorie",
+            "name_en": "Algebra, Discrete Mathematics and Number Theory"
+          },
+          {
+            "code": "3445",
+            "name": "Analysis",
+            "name_en": "Analysis"
+          },
+          {
+            "code": "3450",
+            "name": "Didaktik der Mathematik",
+            "name_en": "Didactics of Mathematics"
+          },
+          {
+            "code": "3460",
+            "name": "Geometrie und Topologie",
+            "name_en": "Geometry and Topology"
+          },
+          {
+            "code": "3470",
+            "name": "Mathematik in Naturwissenschaften u. Technik",
+            "name_en": "Mathematics in Natural Sciences and Technology"
+          },
+          {
+            "code": "3480",
+            "name": "Mathematische Stochastik, Finanz- und Versicherungsmathematik",
+            "name_en": "Mathematical Stochastics, Financial and Actuarial Mathematics"
+          },
+          {
+            "code": "3490",
+            "name": "Numerische Mathematik und Mathematische Optimierung",
+            "name_en": "Numerical Mathematics and Mathematical Optimization"
+          }
+        ]
+      },
+      {
+        "code": "360",
+        "name": "Physik, Astronomie",
+        "name_en": "Physics, Astronomy",
+        "subjects": [
+          {
+            "code": "3600",
+            "name": "Physik, Astronomie allgemein 2",
+            "name_en": "Physics, Astronomy in general 2"
+          },
+          {
+            "code": "3690",
+            "name": "Astrophysik und Astronomie",
+            "name_en": "Astrophysics and Astronomy"
+          },
+          {
+            "code": "3670",
+            "name": "Chemische Physik und Polymerphysik",
+            "name_en": "Chemical Physics and Polymer Physics"
+          },
+          {
+            "code": "3650",
+            "name": "Didaktik der Physik",
+            "name_en": "Didactics of Physics"
+          },
+          {
+            "code": "3636",
+            "name": "Elementarteilchen, Kerne und Felder",
+            "name_en": "Elementary Particles, Nuclei and Fields"
+          },
+          {
+            "code": "3680",
+            "name": "Festkörper-, Oberflächen- und Materialphysik",
+            "name_en": "Solid State, Surface and Materials Physics"
+          },
+          {
+            "code": "3637",
+            "name": "Optik, Quantenoptik, Physik der Atome, Moleküle und Plasmen",
+            "name_en": "Optics, Quantum Optics, Physics of Atoms, Molecules and Plasmas"
+          },
+          {
+            "code": "3660",
+            "name": "Statistische und Biologische Physik, nichtlineare Dynamik und weiche Materie",
+            "name_en": "Statistical and Biological Physics, Nonlinear Dynamics and Soft Matter"
+          }
+        ]
+      },
+      {
+        "code": "370",
+        "name": "Chemie",
+        "name_en": "Chemistry",
+        "subjects": [
+          {
+            "code": "3700",
+            "name": "Chemie allgemein 2",
+            "name_en": "Chemistry in general 2"
+          },
+          {
+            "code": "3750",
+            "name": "Analytische Chemie",
+            "name_en": "Analytical Chemistry"
+          },
+          {
+            "code": "3710",
+            "name": "Anorganische Chemie",
+            "name_en": "Inorganic Chemistry"
+          },
+          {
+            "code": "3760",
+            "name": "Biochemie (f. Chemiker)",
+            "name_en": "Biochemistry (for Chemists)"
+          },
+          {
+            "code": "3800",
+            "name": "Didaktik der Chemie",
+            "name_en": "Didactics of Chemistry"
+          },
+          {
+            "code": "3830",
+            "name": "Elektrochemie",
+            "name_en": "Electrochemistry"
+          },
+          {
+            "code": "3810",
+            "name": "Lebensmittelchemie",
+            "name_en": "Food Chemistry"
+          },
+          {
+            "code": "3770",
+            "name": "Makromolekulare Chemie",
+            "name_en": "Macromolecular Chemistry"
+          },
+          {
+            "code": "3820",
+            "name": "Materialchemie",
+            "name_en": "Materials Chemistry"
+          },
+          {
+            "code": "3780",
+            "name": "Nuklearchemie",
+            "name_en": "Nuclear Chemistry"
+          },
+          {
+            "code": "3840",
+            "name": "Oberflächen- und Nanochemie",
+            "name_en": "Surface and Nanochemistry"
+          },
+          {
+            "code": "3720",
+            "name": "Organische Chemie",
+            "name_en": "Organic Chemistry"
+          },
+          {
+            "code": "3730",
+            "name": "Physikalische Chemie",
+            "name_en": "Physical Chemistry"
+          },
+          {
+            "code": "3740",
+            "name": "Technische Chemie",
+            "name_en": "Technical Chemistry"
+          },
+          {
+            "code": "3790",
+            "name": "Theoretische Chemie",
+            "name_en": "Theoretical Chemistry"
+          },
+          {
+            "code": "3850",
+            "name": "Umwelt- und Atmosphärenchemie",
+            "name_en": "Environmental and Atmospheric Chemistry"
+          }
+        ]
+      },
+      {
+        "code": "390",
+        "name": "Pharmazie",
+        "name_en": "Pharmacy",
+        "subjects": [
+          {
+            "code": "3900",
+            "name": "Pharmazie allgemein 2",
+            "name_en": "Pharmacy in general 2"
+          },
+          {
+            "code": "3950",
+            "name": "Klinische Pharmazie",
+            "name_en": "Clinical Pharmacy"
+          },
+          {
+            "code": "3940",
+            "name": "Pharmakologie und Toxikologie (Pharmazie)",
+            "name_en": "Pharmacology and Toxicology (Pharmacy)"
+          },
+          {
+            "code": "3910",
+            "name": "Pharmazeutische Biologie/Pharmakognosie",
+            "name_en": "Pharmaceutical Biology/Pharmacognosy"
+          },
+          {
+            "code": "3920",
+            "name": "Pharmazeutische Chemie",
+            "name_en": "Pharmaceutical Chemistry"
+          },
+          {
+            "code": "3930",
+            "name": "Pharmazeutische Technologie",
+            "name_en": "Pharmaceutical Technology"
+          }
+        ]
+      },
+      {
+        "code": "400",
+        "name": "Biologie",
+        "name_en": "Biology",
+        "subjects": [
+          {
+            "code": "4000",
+            "name": "Biologie allgemein 2",
+            "name_en": "Biology in general 2"
+          },
+          {
+            "code": "4060",
+            "name": "Anthropologie (Humanbiologie)",
+            "name_en": "Anthropology (Human Biology)"
+          },
+          {
+            "code": "4065",
+            "name": "Biochemie (f. Biologen)",
+            "name_en": "Biochemistry (for Biologists)"
+          },
+          {
+            "code": "4030",
+            "name": "Biophysik",
+            "name_en": "Biophysics"
+          },
+          {
+            "code": "4035",
+            "name": "Biotechnologie (f. Biologen)",
+            "name_en": "Biotechnology (for Biologists)"
+          },
+          {
+            "code": "4040",
+            "name": "Botanik",
+            "name_en": "Botany"
+          },
+          {
+            "code": "4070",
+            "name": "Didaktik der Biologie",
+            "name_en": "Didactics of Biology"
+          },
+          {
+            "code": "4010",
+            "name": "Genetik",
+            "name_en": "Genetics"
+          },
+          {
+            "code": "4020",
+            "name": "Mikrobiologie",
+            "name_en": "Microbiology"
+          },
+          {
+            "code": "4080",
+            "name": "Neurobiologie",
+            "name_en": "Neurobiology"
+          },
+          {
+            "code": "4090",
+            "name": "Ökologie",
+            "name_en": "Ecology"
+          },
+          {
+            "code": "4050",
+            "name": "Zoologie",
+            "name_en": "Zoology"
+          }
+        ]
+      },
+      {
+        "code": "410",
+        "name": "Geowissenschaften (ohne Geographie)",
+        "name_en": "Geosciences (excluding Geography)",
+        "subjects": [
+          {
+            "code": "4100",
+            "name": "Geowissenschaften allgemein 2",
+            "name_en": "Geosciences in general 2"
+          },
+          {
+            "code": "4180",
+            "name": "Geochemie",
+            "name_en": "Geochemistry"
+          },
+          {
+            "code": "4110",
+            "name": "Geologie",
+            "name_en": "Geology"
+          },
+          {
+            "code": "4190",
+            "name": "Geoökologie",
+            "name_en": "Geoecology"
+          },
+          {
+            "code": "4150",
+            "name": "Geophysik",
+            "name_en": "Geophysics"
+          },
+          {
+            "code": "4155",
+            "name": "Hydrologie",
+            "name_en": "Hydrology"
+          },
+          {
+            "code": "4170",
+            "name": "Kristallographie",
+            "name_en": "Crystallography"
+          },
+          {
+            "code": "4160",
+            "name": "Meteorologie",
+            "name_en": "Meteorology"
+          },
+          {
+            "code": "4130",
+            "name": "Mineralogie",
+            "name_en": "Mineralogy"
+          },
+          {
+            "code": "4135",
+            "name": "Ozeanographie",
+            "name_en": "Oceanography"
+          },
+          {
+            "code": "4120",
+            "name": "Paläontologie",
+            "name_en": "Paleontology"
+          },
+          {
+            "code": "4140",
+            "name": "Petrologie, -graphie",
+            "name_en": "Petrology, -graphy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "420",
+    "name": "Geographie",
+    "name_en": "Geography",
+    "clusters": [
+      {
+        "code": "420",
+        "name": "Geographie",
+        "name_en": "Geography",
+        "subjects": [
+          {
+            "code": "4200",
+            "name": "Geographie allgemein 2",
+            "name_en": "Geography in general 2"
+          },
+          {
+            "code": "4220",
+            "name": "Anthropogeographie",
+            "name_en": "Human Geography"
+          },
+          {
+            "code": "4250",
+            "name": "Didaktik der Geographie",
+            "name_en": "Didactics of Geography"
+          },
+          {
+            "code": "4230",
+            "name": "Geographische Länder- und Landschaftskunde",
+            "name_en": "Regional Geography and Landscape Studies"
+          },
+          {
+            "code": "4205",
+            "name": "Geoinformatik/Geoinformationssysteme",
+            "name_en": "Geoinformatics/Geoinformation Systems"
+          },
+          {
+            "code": "4240",
+            "name": "Landschaftsokologie/Biogeographie",
+            "name_en": "Landscape Ecology/Biogeography"
+          },
+          {
+            "code": "4210",
+            "name": "Physische Geographie",
+            "name_en": "Physical Geography"
+          },
+          {
+            "code": "4215",
+            "name": "Wirtschafts- und Sozialgeographie",
+            "name_en": "Economic and Social Geography"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "05",
+    "name": "Humanmedizin/Gesundheitswissenschaften",
+    "name_en": "Human Medicine/Health Sciences",
+    "clusters": [
+      {
+        "code": "440",
+        "name": "Humanmedizin allgemein 1",
+        "name_en": "Human Medicine in general 1",
+        "subjects": [
+          {
+            "code": "4400",
+            "name": "Humanmedizin allgemein 2",
+            "name_en": "Human Medicine in general 2"
+          },
+          {
+            "code": "4410",
+            "name": "Didaktik der Medizin",
+            "name_en": "Didactics of Medicine"
+          }
+        ]
+      },
+      {
+        "code": "445",
+        "name": "Gesundheitswissenschaften",
+        "name_en": "Health Sciences",
+        "subjects": [
+          {
+            "code": "4450",
+            "name": "Gesundheitswissenschaften allgemein 2",
+            "name_en": "Health Sciences in general 2"
+          },
+          {
+            "code": "4459",
+            "name": "Gesundheitsökonomie",
+            "name_en": "Health Economics"
+          },
+          {
+            "code": "4451",
+            "name": "Gesundheitspadagogik",
+            "name_en": "Health Education"
+          },
+          {
+            "code": "4453",
+            "name": "Gesundheitswissenschaft/-management",
+            "name_en": "Health Science/-Management"
+          },
+          {
+            "code": "4455",
+            "name": "Nichtärztliche Heilberufe/Therapien",
+            "name_en": "Non-Medical Healing Professions/Therapies"
+          },
+          {
+            "code": "4457",
+            "name": "Pflegewissenschaft/-management",
+            "name_en": "Nursing Science/-Management"
+          }
+        ]
+      },
+      {
+        "code": "450",
+        "name": "Vorklinische Humanmedizin (einschl Zahnmedizin)",
+        "name_en": "Preclinical Human Medicine (including Dentistry)",
+        "subjects": [
+          {
+            "code": "4500",
+            "name": "Vorklinische Humanmedizin allgemein 2",
+            "name_en": "Preclinical Human Medicine in general 2"
+          },
+          {
+            "code": "4560",
+            "name": "Anatomie",
+            "name_en": "Anatomy"
+          },
+          {
+            "code": "4530",
+            "name": "Medizinische Biologie",
+            "name_en": "Medical Biology"
+          },
+          {
+            "code": "4520",
+            "name": "Medizinische Chemie",
+            "name_en": "Medical Chemistry"
+          },
+          {
+            "code": "4510",
+            "name": "Medizinische Physik",
+            "name_en": "Medical Physics"
+          },
+          {
+            "code": "4580",
+            "name": "Medizinische Psychologie",
+            "name_en": "Medical Psychology"
+          },
+          {
+            "code": "4585",
+            "name": "Medizinische Soziologie",
+            "name_en": "Medical Sociology"
+          },
+          {
+            "code": "4590",
+            "name": "Medizinische Terminologie",
+            "name_en": "Medical Terminology"
+          },
+          {
+            "code": "4540",
+            "name": "Physiologie",
+            "name_en": "Physiology"
+          },
+          {
+            "code": "4550",
+            "name": "Physiologische Chemie (Biochemie)",
+            "name_en": "Physiological Chemistry (Biochemistry)"
+          },
+          {
+            "code": "4595",
+            "name": "Radiologie/Strahlentherapie/Nuklearmedizin",
+            "name_en": "Radiology/Radiation Therapy/Nuclear Medicine"
+          },
+          {
+            "code": "4610",
+            "name": "Vorklin. Zahnheilkunde",
+            "name_en": "Preclin. Dentistry"
+          }
+        ]
+      },
+      {
+        "code": "470",
+        "name": "Klinisch-Theoretische Humanmedizin (einschl Zahnmedizin)",
+        "name_en": "Clinical-Theoretical Human Medicine (including Dentistry)",
+        "subjects": [
+          {
+            "code": "4700",
+            "name": "Klin.-Theor. Humanmedizin allgemein 2",
+            "name_en": "Clin.-Theor. Human Medicine in general 2"
+          },
+          {
+            "code": "4705",
+            "name": "Arbeitsmedizin (klin.-theor.)",
+            "name_en": "Occupational Medicine (clin.-theor.)"
+          },
+          {
+            "code": "4720",
+            "name": "Biomathematik (f. Mediziner)",
+            "name_en": "Biomathematics (for Physicians)"
+          },
+          {
+            "code": "4725",
+            "name": "Biomedizinische Technik",
+            "name_en": "Biomedical Engineering"
+          },
+          {
+            "code": "4745",
+            "name": "Epidemiologie",
+            "name_en": "Epidemiology"
+          },
+          {
+            "code": "4820",
+            "name": "Experimentelle Medizin/Medizinforschung (ohne klinische Medizin)",
+            "name_en": "Experimental Medicine/Medical Research (excluding Clinical Medicine)"
+          },
+          {
+            "code": "4760",
+            "name": "Geschichte der Medizin",
+            "name_en": "History of Medicine"
+          },
+          {
+            "code": "4750",
+            "name": "Humangenetik",
+            "name_en": "Human Genetics"
+          },
+          {
+            "code": "4780",
+            "name": "Hygiene und medizinische Mikrobiologie",
+            "name_en": "Hygiene and Medical Microbiology"
+          },
+          {
+            "code": "4810",
+            "name": "Immunologie",
+            "name_en": "Immunology"
+          },
+          {
+            "code": "4730",
+            "name": "Klinische Chemie und Hamatologie",
+            "name_en": "Clinical Chemistry and Hematology"
+          },
+          {
+            "code": "4732",
+            "name": "Klinische Krebsforschung und molekulare Tumorforschung",
+            "name_en": "Clinical Cancer Research and Molecular Tumor Research"
+          },
+          {
+            "code": "4735",
+            "name": "Medizinische Balneologie und Klimatologie",
+            "name_en": "Medical Balneology and Climatology"
+          },
+          {
+            "code": "4736",
+            "name": "Medizinische Biophysik und Elektronen- mikroskopie",
+            "name_en": "Medical Biophysics and Electron Microscopy"
+          },
+          {
+            "code": "4525",
+            "name": "Medizinische Informatik (nur fur Mediziner)",
+            "name_en": "Medical Informatics (only for Physicians)"
+          },
+          {
+            "code": "4737",
+            "name": "Medizinische Statistik und Dokumentation",
+            "name_en": "Medical Statistics and Documentation"
+          },
+          {
+            "code": "4738",
+            "name": "Parasitologie",
+            "name_en": "Parasitology"
+          },
+          {
+            "code": "4710",
+            "name": "Pathologie, Neuropathologie",
+            "name_en": "Pathology, Neuropathology"
+          },
+          {
+            "code": "4715",
+            "name": "Pharmakologie und Toxikologie (medizinisch)",
+            "name_en": "Pharmacology and Toxicology (medical)"
+          },
+          {
+            "code": "4716",
+            "name": "Präventiv- und Vorsorgemedizin",
+            "name_en": "Preventive and Prophylactic Medicine"
+          },
+          {
+            "code": "4740",
+            "name": "Radiologie (diagnostisch, ohne Betten)",
+            "name_en": "Radiology (diagnostic, without beds)"
+          },
+          {
+            "code": "4770",
+            "name": "Rechtsmedizin",
+            "name_en": "Forensic Medicine"
+          },
+          {
+            "code": "4775",
+            "name": "Sexualmedizin",
+            "name_en": "Sexual Medicine"
+          },
+          {
+            "code": "4776",
+            "name": "Sozialmedizin (klinisch-theoretisch)",
+            "name_en": "Social Medicine (clinical-theoretical)"
+          },
+          {
+            "code": "4790",
+            "name": "Virologie",
+            "name_en": "Virology"
+          }
+        ]
+      },
+      {
+        "code": "490",
+        "name": "Klinisch-Praktische Humanmedizin (ohne Zahnmedizin)",
+        "name_en": "Clinical-Practical Human Medicine (excluding Dentistry)",
+        "subjects": [
+          {
+            "code": "4900",
+            "name": "Klin.-Prakt. Humanmedizin allgemein 2",
+            "name_en": "Clin.-Pract. Human Medicine in general 2"
+          },
+          {
+            "code": "4910",
+            "name": "Allgemeinmedizin",
+            "name_en": "General Medicine"
+          },
+          {
+            "code": "5070",
+            "name": "Anästhesiologie",
+            "name_en": "Anesthesiology"
+          },
+          {
+            "code": "5090",
+            "name": "Arbeitsmedizin (klin.-prakt.)",
+            "name_en": "Occupational Medicine (clin.-pract.)"
+          },
+          {
+            "code": "5020",
+            "name": "Augenheilkunde",
+            "name_en": "Ophthalmology"
+          },
+          {
+            "code": "4980",
+            "name": "Chirurgie",
+            "name_en": "Surgery"
+          },
+          {
+            "code": "4960",
+            "name": "Dermato-Venerologie",
+            "name_en": "Dermatology and Venereology"
+          },
+          {
+            "code": "5120",
+            "name": "Geriatrie/Gerontologie",
+            "name_en": "Geriatrics/Gerontology"
+          },
+          {
+            "code": "4990",
+            "name": "Gynäkologie",
+            "name_en": "Gynecology"
+          },
+          {
+            "code": "5030",
+            "name": "Hals-, Nasen-, Ohrenheilkunde",
+            "name_en": "Otorhinolaryngology (ENT)"
+          },
+          {
+            "code": "4940",
+            "name": "Innere Medizin",
+            "name_en": "Internal Medicine"
+          },
+          {
+            "code": "4950",
+            "name": "Kinderheilkunde",
+            "name_en": "Pediatrics"
+          },
+          {
+            "code": "5160",
+            "name": "Kinder- und Jugendpsychiatrie",
+            "name_en": "Child and Adolescent Psychiatry"
+          },
+          {
+            "code": "5130",
+            "name": "Neurochirurgie",
+            "name_en": "Neurosurgery"
+          },
+          {
+            "code": "5040",
+            "name": "Neurologie",
+            "name_en": "Neurology"
+          },
+          {
+            "code": "5010",
+            "name": "Orthopädie",
+            "name_en": "Orthopedics"
+          },
+          {
+            "code": "4920",
+            "name": "Pathologie (klinisch-praktisch)",
+            "name_en": "Pathology (clinical-practical)"
+          },
+          {
+            "code": "4930",
+            "name": "Pharmakologie (klinisch-praktisch)",
+            "name_en": "Pharmacology (clinical-practical)"
+          },
+          {
+            "code": "5015",
+            "name": "Physikalische Medizin",
+            "name_en": "Physical Medicine"
+          },
+          {
+            "code": "5050",
+            "name": "Psychiatrie",
+            "name_en": "Psychiatry"
+          },
+          {
+            "code": "5060",
+            "name": "Psychosomatische Medizin und Psychotherapie",
+            "name_en": "Psychosomatic Medicine and Psychotherapy"
+          },
+          {
+            "code": "5150",
+            "name": "Radiologie/Strahlentherapie/Nuklearmedizin (mit Betten)",
+            "name_en": "Radiology/Radiation Therapy/Nuclear Medicine (with beds)"
+          },
+          {
+            "code": "5080",
+            "name": "Rehabilitation",
+            "name_en": "Rehabilitation"
+          },
+          {
+            "code": "5140",
+            "name": "Rheumatologie",
+            "name_en": "Rheumatology"
+          },
+          {
+            "code": "5110",
+            "name": "Sozialmedizin (klinisch-praktisch)",
+            "name_en": "Social Medicine (clinical-practical)"
+          },
+          {
+            "code": "4935",
+            "name": "Sportmedizin (klinisch-praktisch)",
+            "name_en": "Sports Medicine (clinical-practical)"
+          },
+          {
+            "code": "4936",
+            "name": "Tumorzentrum und Transfusionsmedizin",
+            "name_en": "Tumor Center and Transfusion Medicine"
+          },
+          {
+            "code": "4970",
+            "name": "Urologie",
+            "name_en": "Urology"
+          }
+        ]
+      },
+      {
+        "code": "520",
+        "name": "Zahnmedizin (klinisch-praktisch)",
+        "name_en": "Dentistry (clinical-practical)",
+        "subjects": [
+          {
+            "code": "5200",
+            "name": "Zahnmedizin allgemein 2",
+            "name_en": "Dentistry in general 2"
+          },
+          {
+            "code": "5240",
+            "name": "Kieferorthopädie",
+            "name_en": "Orthodontics"
+          },
+          {
+            "code": "5220",
+            "name": "Zahnärztliche Prothetik",
+            "name_en": "Dental Prosthetics"
+          },
+          {
+            "code": "5210",
+            "name": "Zahnerhaltung und Parodontologie",
+            "name_en": "Conservative Dentistry and Periodontology"
+          },
+          {
+            "code": "5230",
+            "name": "Zahn-, Mund- und Kieferchirurgie",
+            "name_en": "Oral and Maxillofacial Surgery"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "07",
+    "name": "Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",
+    "name_en": "Agricultural, Forest and Nutritional Sciences, Veterinary Medicine",
+    "clusters": [
+      {
+        "code": "540",
+        "name": "Veterinärmedizin allgemein 1",
+        "name_en": "Veterinary Medicine in general 1",
+        "subjects": [
+          {
+            "code": "5400",
+            "name": "Veterinärmedizin allgemein 2",
+            "name_en": "Veterinary Medicine in general 2"
+          }
+        ]
+      },
+      {
+        "code": "550",
+        "name": "Vorklinische Veterinärmedizin",
+        "name_en": "Preclinical Veterinary Medicine",
+        "subjects": [
+          {
+            "code": "5500",
+            "name": "Vorklinische Veterinärmedizin allgemein 2",
+            "name_en": "Preclinical Veterinary Medicine in general 2"
+          },
+          {
+            "code": "5510",
+            "name": "Anatomie, Embryologie und Histologie",
+            "name_en": "Anatomy, Embryology and Histology"
+          },
+          {
+            "code": "5520",
+            "name": "Physiologie, Biochemie und Ernährungsphysiologie",
+            "name_en": "Physiology, Biochemistry and Nutritional Physiology"
+          },
+          {
+            "code": "5530",
+            "name": "Tierschutz, Medizinische Terminologie, Geschichte der Veterinärmedizin",
+            "name_en": "Animal Welfare, Medical Terminology, History of Veterinary Medicine"
+          },
+          {
+            "code": "5535",
+            "name": "Veterinarmedizinische Zoologie und Hydrobiologie",
+            "name_en": "Veterinary Zoology and Hydrobiology"
+          }
+        ]
+      },
+      {
+        "code": "560",
+        "name": "Klinisch-Theoretische Veterinärmedizin",
+        "name_en": "Clinical-Theoretical Veterinary Medicine",
+        "subjects": [
+          {
+            "code": "5600",
+            "name": "Klin.-Theor. Veterinärmedizin allgemein 2",
+            "name_en": "Clin.-Theor. Veterinary Medicine in general 2"
+          },
+          {
+            "code": "5670",
+            "name": "Fleisch-, Lebensmittel- und Milchhygiene",
+            "name_en": "Meat, Food and Milk Hygiene"
+          },
+          {
+            "code": "5640",
+            "name": "Mikrobiologie, Virologie, Tierhygiene und Tierseuchenbekämpfung",
+            "name_en": "Microbiology, Virology, Animal Hygiene and Animal Disease Control"
+          },
+          {
+            "code": "5650",
+            "name": "Parasitologie, Tropenveterinarmedizin",
+            "name_en": "Parasitology, Tropical Veterinary Medicine"
+          },
+          {
+            "code": "5660",
+            "name": "Pharmakologie, Toxikologie und Arzneiverordnungslehre",
+            "name_en": "Pharmacology, Toxicology and Prescription Science"
+          },
+          {
+            "code": "5620",
+            "name": "Tierernährung, allg. Landwirtschaftslehre, Verhaltenskunde",
+            "name_en": "Animal Nutrition, General Agricultural Science, Ethology"
+          },
+          {
+            "code": "5610",
+            "name": "Tierzucht, vet -med. Genetik und Zuchthygiene",
+            "name_en": "Animal Breeding, Vet-Med. Genetics and Breeding Hygiene"
+          },
+          {
+            "code": "5680",
+            "name": "Versuchstierkunde und Fischkunde einschl. Krankheiten",
+            "name_en": "Laboratory Animal Science and Ichthyology including Diseases"
+          },
+          {
+            "code": "5630",
+            "name": "Veterinärmedizinische Pathologie",
+            "name_en": "Veterinary Pathology"
+          }
+        ]
+      },
+      {
+        "code": "580",
+        "name": "Klinisch-Praktische Veterinärmedizin",
+        "name_en": "Clinical-Practical Veterinary Medicine",
+        "subjects": [
+          {
+            "code": "5800",
+            "name": "Klin.-Prakt. Veterinärmedizin allgemein 2",
+            "name_en": "Clin.-Pract. Veterinary Medicine in general 2"
+          },
+          {
+            "code": "5840",
+            "name": "Andrologie und Haustierbesamung",
+            "name_en": "Andrology and Artificial Insemination in Domestic Animals"
+          },
+          {
+            "code": "5850",
+            "name": "Gerichtliche Veterinarmedizin",
+            "name_en": "Forensic Veterinary Medicine"
+          },
+          {
+            "code": "5860",
+            "name": "Innere Veterinarmedizin einschl. Labordiagnostik",
+            "name_en": "Internal Veterinary Medicine including Laboratory Diagnostics"
+          },
+          {
+            "code": "5920",
+            "name": "Krankheiten des Geflügels",
+            "name_en": "Poultry Diseases"
+          },
+          {
+            "code": "5910",
+            "name": "Krankheiten der kleinen Haustiere",
+            "name_en": "Diseases of Small Pets"
+          },
+          {
+            "code": "5890",
+            "name": "Krankheiten der kleinen Klauentiere",
+            "name_en": "Diseases of Small Ruminants"
+          },
+          {
+            "code": "5870",
+            "name": "Krankheiten der Pferde",
+            "name_en": "Horse Diseases"
+          },
+          {
+            "code": "5880",
+            "name": "Krankheiten der Rinder",
+            "name_en": "Cattle Diseases"
+          },
+          {
+            "code": "5810",
+            "name": "Tierklinik allgemein 2",
+            "name_en": "Veterinary Clinic in general 2"
+          },
+          {
+            "code": "5820",
+            "name": "Veterinärmedizinische Chirurgie",
+            "name_en": "Veterinary Surgery"
+          },
+          {
+            "code": "5830",
+            "name": "Veterinärmedizinische Geburtshilfe und Gynakologie",
+            "name_en": "Veterinary Obstetrics and Gynecology"
+          }
+        ]
+      },
+      {
+        "code": "610",
+        "name": "Agrar Forst- und Ernährungswissenschaften allgemein 1",
+        "name_en": "Agricultural, Forest and Nutritional Sciences in general 1",
+        "subjects": [
+          {
+            "code": "6100",
+            "name": "Agrar, Forst- und Ernährungswissenschaften allgemein 2",
+            "name_en": "Agricultural, Forest and Nutritional Sciences in general 2"
+          },
+          {
+            "code": "6105",
+            "name": "Angewandte Biotechnologie (Agrar-, F.- u. E.-wiss.)",
+            "name_en": "Applied Biotechnology (Agricultural, F. & N. Sciences)"
+          },
+          {
+            "code": "6106",
+            "name": "Angewandte Maschinenbautechnik (Agrar-, F.- u. E-wiss.)",
+            "name_en": "Applied Mechanical Engineering (Agricultural, F. & N. Sciences)"
+          },
+          {
+            "code": "6107",
+            "name": "Angewandte Naturwissenschaften (Agrar-, F.- u. E-wiss.)",
+            "name_en": "Applied Natural Sciences (Agricultural, F. & N. Sciences)"
+          },
+          {
+            "code": "6108",
+            "name": "Angewandte Verfahrenstechnik (Agrar-, F.- u. E.-wiss.)",
+            "name_en": "Applied Process Engineering (Agricultural, F. & N. Sciences)"
+          }
+        ]
+      },
+      {
+        "code": "615",
+        "name": "Landespflege, Umweltgestaltung",
+        "name_en": "Landscape Management, Environmental Design",
+        "subjects": [
+          {
+            "code": "6310",
+            "name": "Landespflege allgemein 2",
+            "name_en": "Landscape Management in general 2"
+          },
+          {
+            "code": "6315",
+            "name": "Landschaftsarchitektur (ohne Gartenbau)",
+            "name_en": "Landscape Architecture (excluding Horticulture)"
+          },
+          {
+            "code": "6320",
+            "name": "Landschaftsökologie",
+            "name_en": "Landscape Ecology"
+          },
+          {
+            "code": "6330",
+            "name": "Landschaftsplanung und Landschafts- entwicklung",
+            "name_en": "Landscape Planning and Landscape Development"
+          },
+          {
+            "code": "6340",
+            "name": "Meliorationswesen",
+            "name_en": "Land Improvement"
+          },
+          {
+            "code": "6350",
+            "name": "Naturschutz",
+            "name_en": "Nature Conservation"
+          }
+        ]
+      },
+      {
+        "code": "620",
+        "name": "Agrarwissenschaften. Lebensmittel-und Getranketechnologie",
+        "name_en": "Agricultural Sciences. Food and Beverage Technology",
+        "subjects": [
+          {
+            "code": "6200",
+            "name": "Agrarwissenschaften allgemein 2",
+            "name_en": "Agricultural Sciences in general 2"
+          },
+          {
+            "code": "6205",
+            "name": "Agrarbiologie",
+            "name_en": "Agricultural Biology"
+          },
+          {
+            "code": "6210",
+            "name": "Agrartechnik",
+            "name_en": "Agricultural Engineering"
+          },
+          {
+            "code": "6260",
+            "name": "Brauwesen/Getränketechnik",
+            "name_en": "Brewing/Beverage Technology"
+          },
+          {
+            "code": "6300",
+            "name": "Gartenbau",
+            "name_en": "Horticulture"
+          },
+          {
+            "code": "6250",
+            "name": "Lebensmitteltechnologie/Getränketechnologie",
+            "name_en": "Food Technology/Beverage Technology"
+          },
+          {
+            "code": "6255",
+            "name": "Milch- und Molkereiwirtschaft",
+            "name_en": "Dairy Science and Technology"
+          },
+          {
+            "code": "6220",
+            "name": "Pflanzenproduktion",
+            "name_en": "Crop Production"
+          },
+          {
+            "code": "6230",
+            "name": "Tierproduktion",
+            "name_en": "Animal Production"
+          },
+          {
+            "code": "6235",
+            "name": "Weinbau- und Kellerwirtschaft",
+            "name_en": "Viticulture and Cellar Management"
+          },
+          {
+            "code": "6240",
+            "name": "Wirtschafts- und Sozialwissenschaften des Landbaus",
+            "name_en": "Economic and Social Sciences of Agriculture"
+          }
+        ]
+      },
+      {
+        "code": "640",
+        "name": "Forstwissenschaft, Holzwirtschaft",
+        "name_en": "Forestry Science, Wood Industry",
+        "subjects": [
+          {
+            "code": "6400",
+            "name": "Forstwissenschaft, Holzwirtschaft allgemein 2",
+            "name_en": "Forestry Science, Wood Industry in general 2"
+          },
+          {
+            "code": "6420",
+            "name": "Forstliche Fachwissenschaften",
+            "name_en": "Forestry Sciences"
+          },
+          {
+            "code": "6410",
+            "name": "Forstliche Grundlagenwissenschaften",
+            "name_en": "Forestry Basic Sciences"
+          },
+          {
+            "code": "6415",
+            "name": "Holzwirtschaft",
+            "name_en": "Wood Industry"
+          },
+          {
+            "code": "6430",
+            "name": "Holzwissenschaften",
+            "name_en": "Wood Sciences"
+          }
+        ]
+      },
+      {
+        "code": "650",
+        "name": "Ernährungs- und Haushaltswissenschaften",
+        "name_en": "Nutritional and Home Economics",
+        "subjects": [
+          {
+            "code": "6500",
+            "name": "Ernährungs- und Haushaltswissenschaften allgemein 2",
+            "name_en": "Nutritional and Home Economics in general 2"
+          },
+          {
+            "code": "6520",
+            "name": "Ernährungswissenschaften",
+            "name_en": "Nutritional Sciences"
+          },
+          {
+            "code": "6510",
+            "name": "Haushaltswissenschaften",
+            "name_en": "Home Economics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "08",
+    "name": "Ingenieurwissenschaften",
+    "name_en": "Engineering Sciences",
+    "clusters": [
+      {
+        "code": "670",
+        "name": "Ingenieurwissenschaften allgemein 1",
+        "name_en": "Engineering Sciences in general 1",
+        "subjects": [
+          {
+            "code": "6700",
+            "name": "Ingenieurwissenschaften allgemein 2",
+            "name_en": "Engineering Sciences in general 2"
+          },
+          {
+            "code": "6740",
+            "name": "Interdisziplinäre Studien (Schwerpunkt Ingenieurwesen - ohne Mechatronik)",
+            "name_en": "Interdisciplinary Studies (Focus Engineering - excluding Mechatronics)"
+          },
+          {
+            "code": "6750",
+            "name": "Mechatronik",
+            "name_en": "Mechatronics"
+          },
+          {
+            "code": "6780",
+            "name": "Medientechnik",
+            "name_en": "Media Technology"
+          },
+          {
+            "code": "6710",
+            "name": "Polytechnik/Arbeitslehre",
+            "name_en": "Polytechnics/Technology Education"
+          },
+          {
+            "code": "6790",
+            "name": "Regenerative Energien",
+            "name_en": "Renewable Energies"
+          },
+          {
+            "code": "6720",
+            "name": "Techn. Gesundheitswesen",
+            "name_en": "Technical Healthcare"
+          }
+        ]
+      },
+      {
+        "code": "675",
+        "name": "Wirtschaftsingenieurwesen mit ingenieur- wissenschaftlichem Schwerpunkt",
+        "name_en": "Industrial Engineering with a focus on Engineering",
+        "subjects": [
+          {
+            "code": "6755",
+            "name": "Wirtschaftsingenieurwesen mit ingenieur- wissenschaftlichem Schwerpunkt",
+            "name_en": "Industrial Engineering with a focus on Engineering"
+          }
+        ]
+      },
+      {
+        "code": "680",
+        "name": "Bergbau, Huttenwesen",
+        "name_en": "Mining, Metallurgy",
+        "subjects": [
+          {
+            "code": "6800",
+            "name": "Bergbau, Hüttenwesen allgemein 2",
+            "name_en": "Mining, Metallurgy in general 2"
+          },
+          {
+            "code": "6870",
+            "name": "Archaometrie (Ingenieurarchaologie)",
+            "name_en": "Archaeometry (Engineering Archaeology)"
+          },
+          {
+            "code": "6860",
+            "name": "Aufbereitung und Veredelung",
+            "name_en": "Mineral Processing and Refining"
+          },
+          {
+            "code": "6830",
+            "name": "Bergbauliche Betriebswirtschaft",
+            "name_en": "Mining Business Administration"
+          },
+          {
+            "code": "6810",
+            "name": "Bergbau und mineralische Rohstoffwirtschaft",
+            "name_en": "Mining and Mineral Resources Management"
+          },
+          {
+            "code": "6820",
+            "name": "Bergtechnik",
+            "name_en": "Mining Technology"
+          },
+          {
+            "code": "6840",
+            "name": "Bergwirtschaft, Bergrecht",
+            "name_en": "Mining Economics, Mining Law"
+          },
+          {
+            "code": "6845",
+            "name": "Hütten- und Gießereiwesen",
+            "name_en": "Metallurgy and Foundry Technology"
+          },
+          {
+            "code": "6850",
+            "name": "Markscheidewesen, Bergschadenkunde, Geophysik im Bergbau",
+            "name_en": "Mine Surveying, Mining Damage, Geophysics in Mining"
+          }
+        ]
+      },
+      {
+        "code": "690",
+        "name": "Maschinenbau/Verfahrenstechnik",
+        "name_en": "Mechanical Engineering/Process Engineering",
+        "subjects": [
+          {
+            "code": "6900",
+            "name": "Maschinenbau allgemein 2",
+            "name_en": "Mechanical Engineering in general 2"
+          },
+          {
+            "code": "6760",
+            "name": "Automatisierungstechnik",
+            "name_en": "Automation Technology"
+          },
+          {
+            "code": "6905",
+            "name": "Bioverfahrenstechnik",
+            "name_en": "Bioprocess Engineering"
+          },
+          {
+            "code": "6955",
+            "name": "Chemische Verfahrenstechnik",
+            "name_en": "Chemical Process Engineering"
+          },
+          {
+            "code": "6930",
+            "name": "Energieverfahrenstechnik",
+            "name_en": "Energy Process Engineering"
+          },
+          {
+            "code": "7190",
+            "name": "Feinwerktechnik (mechanisch)",
+            "name_en": "Precision Engineering (mechanical)"
+          },
+          {
+            "code": "7040",
+            "name": "Holztechnik",
+            "name_en": "Wood Technology"
+          },
+          {
+            "code": "7030",
+            "name": "Kunststofftechnik",
+            "name_en": "Plastics Technology"
+          },
+          {
+            "code": "6935",
+            "name": "Logistik",
+            "name_en": "Logistics"
+          },
+          {
+            "code": "7010",
+            "name": "Medizintechnik",
+            "name_en": "Medical Engineering"
+          },
+          {
+            "code": "7020",
+            "name": "Physikalische Technik/Mechanische Verfahrenstechnik",
+            "name_en": "Physical Engineering/Mechanical Process Engineering"
+          },
+          {
+            "code": "6907",
+            "name": "Print-und Medientechnik",
+            "name_en": "Print and Media Technology"
+          },
+          {
+            "code": "6940",
+            "name": "Produktions- und Fertigungstechnologie",
+            "name_en": "Production and Manufacturing Technology"
+          },
+          {
+            "code": "6945",
+            "name": "Sicherheitstechnik",
+            "name_en": "Safety Engineering"
+          },
+          {
+            "code": "6970",
+            "name": "Steuerungs-, Mess- und Regelungstechnik",
+            "name_en": "Control, Measurement and Regulation Technology"
+          },
+          {
+            "code": "6975",
+            "name": "Technische/angewandte Optik",
+            "name_en": "Technical/Applied Optics"
+          },
+          {
+            "code": "6976",
+            "name": "Textiltechnik",
+            "name_en": "Textile Technology"
+          },
+          {
+            "code": "6995",
+            "name": "Thermische Verfahrenstechnik",
+            "name_en": "Thermal Process Engineering"
+          },
+          {
+            "code": "6950",
+            "name": "Transport- und Verteiltechnik",
+            "name_en": "Transport and Distribution Technology"
+          },
+          {
+            "code": "6985",
+            "name": "Umwelttechnik (einschl. Recycling)",
+            "name_en": "Environmental Technology (incl. Recycling)"
+          },
+          {
+            "code": "6965",
+            "name": "Versorgungs-/Entsorgungstechnik",
+            "name_en": "Supply/Disposal Technology"
+          }
+        ]
+      },
+      {
+        "code": "710",
+        "name": "Elektrotechnik und Informationstechnik",
+        "name_en": "Electrical Engineering and Information Technology",
+        "subjects": [
+          {
+            "code": "7100",
+            "name": "Elektrotechnik allgemein 2",
+            "name_en": "Electrical Engineering in general 2"
+          },
+          {
+            "code": "7110",
+            "name": "Allgemeine Elektrotechnik",
+            "name_en": "General Electrical Engineering"
+          },
+          {
+            "code": "7120",
+            "name": "Elektrische Energietechnik",
+            "name_en": "Electrical Power Engineering"
+          },
+          {
+            "code": "7125",
+            "name": "Feinwerktechnik (elektrisch)",
+            "name_en": "Precision Engineering (electrical)"
+          },
+          {
+            "code": "7130",
+            "name": "Kommunikations- und Informationstechnik",
+            "name_en": "Communication and Information Technology"
+          },
+          {
+            "code": "7160",
+            "name": "Mikro-und Nanoelektronik",
+            "name_en": "Micro- and Nanoelectronics"
+          },
+          {
+            "code": "7140",
+            "name": "Mikrosystemtechnik",
+            "name_en": "Microsystems Technology"
+          },
+          {
+            "code": "7150",
+            "name": "Optoelektronik",
+            "name_en": "Optoelectronics"
+          },
+          {
+            "code": "7170",
+            "name": "Sensorik und Messtechnik",
+            "name_en": "Sensor Technology and Measurement Engineering"
+          },
+          {
+            "code": "7155",
+            "name": "Steuerungs-, Mess- und Regelungstechnik (elektrisch)",
+            "name_en": "Control, Measurement and Regulation Technology (electrical)"
+          }
+        ]
+      },
+      {
+        "code": "720",
+        "name": "Verkehrstechnik. Nautik",
+        "name_en": "Traffic Engineering. Nautical Science",
+        "subjects": [
+          {
+            "code": "7200",
+            "name": "Verkehrstechnik, Nautik allgemein 2",
+            "name_en": "Traffic Engineering, Nautical Science in general 2"
+          },
+          {
+            "code": "7240",
+            "name": "Fahrzeug- und Flugzeugbau",
+            "name_en": "Vehicle and Aircraft Construction"
+          },
+          {
+            "code": "7245",
+            "name": "Fahrzeugtechnik",
+            "name_en": "Vehicle Engineering"
+          },
+          {
+            "code": "7246",
+            "name": "Luft-und Raumfahrttechnik",
+            "name_en": "Aerospace Engineering"
+          },
+          {
+            "code": "7230",
+            "name": "Nautik, Seefahrt",
+            "name_en": "Nautical Science, Seafaring"
+          },
+          {
+            "code": "7220",
+            "name": "Schiffbau, Meerestechnik",
+            "name_en": "Shipbuilding, Ocean Engineering"
+          },
+          {
+            "code": "7210",
+            "name": "Schiffsbetriebstechnik",
+            "name_en": "Ship Operations Engineering"
+          },
+          {
+            "code": "7215",
+            "name": "Verkehrsingenieurwesen",
+            "name_en": "Transportation Engineering"
+          }
+        ]
+      },
+      {
+        "code": "730",
+        "name": "Architektur",
+        "name_en": "Architecture",
+        "subjects": [
+          {
+            "code": "7300",
+            "name": "Architektur allgemein 2",
+            "name_en": "Architecture in general 2"
+          },
+          {
+            "code": "7350",
+            "name": "Baugeschichte",
+            "name_en": "Architectural History"
+          },
+          {
+            "code": "7330",
+            "name": "Bautechnik und Baubetrieb",
+            "name_en": "Building Technology and Construction Management"
+          },
+          {
+            "code": "7335",
+            "name": "Denkmalpflege (Architekt.)",
+            "name_en": "Monument Preservation (Arch.)"
+          },
+          {
+            "code": "7340",
+            "name": "Gebäudeplanung",
+            "name_en": "Building Planning"
+          },
+          {
+            "code": "7320",
+            "name": "Gestaltung und Darstellung",
+            "name_en": "Design and Representation"
+          },
+          {
+            "code": "7310",
+            "name": "Grundlagen und Hilfswissenschaften der Architektur",
+            "name_en": "Fundamentals and Auxiliary Sciences of Architecture"
+          },
+          {
+            "code": "7390",
+            "name": "Innenarchitektur",
+            "name_en": "Interior Architecture"
+          },
+          {
+            "code": "7395",
+            "name": "Städtebau und Siedlungswesen",
+            "name_en": "Urban Planning and Settlement"
+          }
+        ]
+      },
+      {
+        "code": "740",
+        "name": "Raumplanung",
+        "name_en": "Spatial Planning",
+        "subjects": [
+          {
+            "code": "7400",
+            "name": "Raumplanung allgemein 2",
+            "name_en": "Spatial Planning in general 2"
+          },
+          {
+            "code": "7410",
+            "name": "Grundlagen der Raumplanung",
+            "name_en": "Fundamentals of Spatial Planning"
+          },
+          {
+            "code": "7450",
+            "name": "Infrastrukturplanung",
+            "name_en": "Infrastructure Planning"
+          },
+          {
+            "code": "7440",
+            "name": "Raumordnung",
+            "name_en": "Spatial Development"
+          },
+          {
+            "code": "7430",
+            "name": "Regional- und Landesplanung",
+            "name_en": "Regional and State Planning"
+          },
+          {
+            "code": "7420",
+            "name": "Stadtplanung (Ortsplanung)",
+            "name_en": "Urban Planning (Local Planning)"
+          },
+          {
+            "code": "7460",
+            "name": "Umweltschutz",
+            "name_en": "Environmental Protection"
+          }
+        ]
+      },
+      {
+        "code": "750",
+        "name": "Bauingenieurwesen",
+        "name_en": "Civil Engineering",
+        "subjects": [
+          {
+            "code": "7500",
+            "name": "Bauingenieurwesen allgemein 2",
+            "name_en": "Civil Engineering in general 2"
+          },
+          {
+            "code": "7540",
+            "name": "Baubetriebswesen/Baumanagement",
+            "name_en": "Construction Operations/Construction Management"
+          },
+          {
+            "code": "7580",
+            "name": "Bauinformatik",
+            "name_en": "Construction Informatics"
+          },
+          {
+            "code": "7570",
+            "name": "Baustofftechnik",
+            "name_en": "Building Materials Technology"
+          },
+          {
+            "code": "7560",
+            "name": "Holzbau",
+            "name_en": "Timber Construction"
+          },
+          {
+            "code": "7510",
+            "name": "Konstruktiver Ingenieurbau",
+            "name_en": "Structural Engineering"
+          },
+          {
+            "code": "7530",
+            "name": "Verkehrsbau, -wesen",
+            "name_en": "Transportation Construction, -Engineering"
+          },
+          {
+            "code": "7520",
+            "name": "Wasserbau, -wesen",
+            "name_en": "Hydraulic Engineering, -Systems"
+          },
+          {
+            "code": "7550",
+            "name": "Sonstige Bereiche des Bauingenieurwesens",
+            "name_en": "Other Areas of Civil Engineering"
+          }
+        ]
+      },
+      {
+        "code": "760",
+        "name": "Vermessungswesen",
+        "name_en": "Surveying",
+        "subjects": [
+          {
+            "code": "7600",
+            "name": "Vermessungswesen allgemein 2",
+            "name_en": "Surveying in general 2"
+          },
+          {
+            "code": "7610",
+            "name": "Kartographie",
+            "name_en": "Cartography"
+          },
+          {
+            "code": "7620",
+            "name": "Photogrammetrie",
+            "name_en": "Photogrammetry"
+          }
+        ]
+      },
+      {
+        "code": "765",
+        "name": "Informatik",
+        "name_en": "Computer Science",
+        "subjects": [
+          {
+            "code": "3500",
+            "name": "Informatik allgemein 2",
+            "name_en": "Computer Science in general 2"
+          },
+          {
+            "code": "3520",
+            "name": "Angewandte Informatik",
+            "name_en": "Applied Computer Science"
+          },
+          {
+            "code": "3540",
+            "name": "Bioinformatik",
+            "name_en": "Bioinformatics"
+          },
+          {
+            "code": "3550",
+            "name": "Computer- und Kommunikationstechniken",
+            "name_en": "Computer and Communication Technologies"
+          },
+          {
+            "code": "3530",
+            "name": "Ingenieurinformatik/Technische Informatik",
+            "name_en": "Engineering Informatics/Technical Informatics"
+          },
+          {
+            "code": "3560",
+            "name": "Künstliche Intelligenz",
+            "name_en": "Artificial Intelligence"
+          },
+          {
+            "code": "3570",
+            "name": "Softwaretechnologie",
+            "name_en": "Software Technology"
+          },
+          {
+            "code": "3510",
+            "name": "Theoretische Informatik",
+            "name_en": "Theoretical Computer Science"
+          },
+          {
+            "code": "2990",
+            "name": "Wirtschaftsinformatik (f. Informatiker)",
+            "name_en": "Business Informatics (for Computer Scientists)"
+          }
+        ]
+      },
+      {
+        "code": "770",
+        "name": "Materialwissenschaft und Werkstofftechnik",
+        "name_en": "Materials Science and Engineering",
+        "subjects": [
+          {
+            "code": "7700",
+            "name": "Materialwissenschaft",
+            "name_en": "Materials Science"
+          },
+          {
+            "code": "6990",
+            "name": "Werkstofftechnik",
+            "name_en": "Materials Engineering"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "09",
+    "name": "Kunst, Kunstwissenschaft",
+    "name_en": "Art, Art History",
+    "clusters": [
+      {
+        "code": "780",
+        "name": "Kunst, Kunstwissenschaft",
+        "name_en": "Art, Art History",
+        "subjects": [
+          {
+            "code": "7800",
+            "name": "Kunst. Kunstwissenschaft allgemein 2",
+            "name_en": "Art. Art History in general 2"
+          },
+          {
+            "code": "7820",
+            "name": "Kunsterziehung",
+            "name_en": "Art Education"
+          },
+          {
+            "code": "7810",
+            "name": "Kunstgeschichte",
+            "name_en": "Art History"
+          },
+          {
+            "code": "7840",
+            "name": "Kunsttherapie",
+            "name_en": "Art Therapy"
+          },
+          {
+            "code": "7830",
+            "name": "Restaurierungskunde",
+            "name_en": "Conservation Science"
+          }
+        ]
+      },
+      {
+        "code": "790",
+        "name": "Bildende Kunst",
+        "name_en": "Fine Arts",
+        "subjects": [
+          {
+            "code": "7900",
+            "name": "Bildende Kunst allgemein 2",
+            "name_en": "Fine Arts in general 2"
+          },
+          {
+            "code": "7950",
+            "name": "Aktionen. Performance, Environment. Fotografie",
+            "name_en": "Actions. Performance, Environment. Photography"
+          },
+          {
+            "code": "7940",
+            "name": "Graphik",
+            "name_en": "Graphics"
+          },
+          {
+            "code": "7920",
+            "name": "Malerel",
+            "name_en": "Painting"
+          },
+          {
+            "code": "7960",
+            "name": "Neue Medien",
+            "name_en": "New Media"
+          },
+          {
+            "code": "7930",
+            "name": "Plastik, Bildhauerei",
+            "name_en": "Plastic Arts, Sculpture"
+          }
+        ]
+      },
+      {
+        "code": "800",
+        "name": "Gestaltung",
+        "name_en": "Design",
+        "subjects": [
+          {
+            "code": "8000",
+            "name": "Gestaltung allgemein 2",
+            "name_en": "Design in general 2"
+          },
+          {
+            "code": "8050",
+            "name": "Angewandte Kunst",
+            "name_en": "Applied Arts"
+          },
+          {
+            "code": "8060",
+            "name": "Bühnenbild, Kostüm",
+            "name_en": "Stage Design, Costume Design"
+          },
+          {
+            "code": "8070",
+            "name": "Designtheorie, -geschichte",
+            "name_en": "Design Theory, -History"
+          },
+          {
+            "code": "8075",
+            "name": "Edelstein- und Schmuckdesign",
+            "name_en": "Gemstone and Jewelry Design"
+          },
+          {
+            "code": "8076",
+            "name": "Graphikdesign/Kommunikationsgestaltung",
+            "name_en": "Graphic Design/Communication Design"
+          },
+          {
+            "code": "8010",
+            "name": "Industriedesign/Produktgestaltung",
+            "name_en": "Industrial Design/Product Design"
+          },
+          {
+            "code": "8020",
+            "name": "Modedesign",
+            "name_en": "Fashion Design"
+          },
+          {
+            "code": "8040",
+            "name": "Textildesign",
+            "name_en": "Textile Design"
+          },
+          {
+            "code": "8030",
+            "name": "Visuelle Kommunikation",
+            "name_en": "Visual Communication"
+          },
+          {
+            "code": "8035",
+            "name": "Werkerziehung (Gestaltung)",
+            "name_en": "Art and Craft Education (Design)"
+          }
+        ]
+      },
+      {
+        "code": "820",
+        "name": "Darstellende Kunst. Film und Fernsehen. Theaterwissenschaft",
+        "name_en": "Performing Arts. Film and Television. Theatre Studies",
+        "subjects": [
+          {
+            "code": "8200",
+            "name": "Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft allgemein 2",
+            "name_en": "Performing Arts, Film and Television, Theatre Studies in general 2"
+          },
+          {
+            "code": "8210",
+            "name": "Darstellende Kunst",
+            "name_en": "Performing Arts"
+          },
+          {
+            "code": "8250",
+            "name": "Film und Fernsehen.",
+            "name_en": "Film and Television."
+          },
+          {
+            "code": "8270",
+            "name": "Musiktheater",
+            "name_en": "Musical Theatre"
+          },
+          {
+            "code": "8275",
+            "name": "Produktionswirtschaft im Bereich Darstellende Kunst, Theater, Film und Fernsehen",
+            "name_en": "Production Management in Performing Arts, Theatre, Film and Television"
+          },
+          {
+            "code": "8230",
+            "name": "Regle",
+            "name_en": "Directing"
+          },
+          {
+            "code": "8220",
+            "name": "Schauspiel",
+            "name_en": "Acting"
+          },
+          {
+            "code": "8225",
+            "name": "Tanzwissenschaft",
+            "name_en": "Dance Studies"
+          },
+          {
+            "code": "8240",
+            "name": "Theaterwissenschaft",
+            "name_en": "Theatre Studies"
+          }
+        ]
+      },
+      {
+        "code": "830",
+        "name": "Musik. Musikwissenschaft",
+        "name_en": "Music. Musicology",
+        "subjects": [
+          {
+            "code": "8300",
+            "name": "Musik, Musikwissenschaft allgemein 2",
+            "name_en": "Music, Musicology in general 2"
+          },
+          {
+            "code": "8340",
+            "name": "Dirigieren",
+            "name_en": "Conducting"
+          },
+          {
+            "code": "8320",
+            "name": "Gesang",
+            "name_en": "Vocal Performance"
+          },
+          {
+            "code": "8310",
+            "name": "Instrumentalmusik",
+            "name_en": "Instrumental Music"
+          },
+          {
+            "code": "8315",
+            "name": "Jazz und Popularmusik",
+            "name_en": "Jazz and Popular Music"
+          },
+          {
+            "code": "8325",
+            "name": "Kirchenmusik",
+            "name_en": "Church Music"
+          },
+          {
+            "code": "8330",
+            "name": "Komposition",
+            "name_en": "Composition"
+          },
+          {
+            "code": "8360",
+            "name": "Musikerziehung",
+            "name_en": "Music Education"
+          },
+          {
+            "code": "8350",
+            "name": "Musikwissenschaft, -geschichte",
+            "name_en": "Musicology, -History"
+          },
+          {
+            "code": "8363",
+            "name": "Orchestermusik",
+            "name_en": "Orchestral Music"
+          },
+          {
+            "code": "8364",
+            "name": "Rhythmik",
+            "name_en": "Rhythmics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "15",
+    "name": "Zentrale Einrichtungen (ohne klinikspezifische Einrichtungen)",
+    "name_en": "Central Facilities (excluding clinic-specific facilities)",
+    "clusters": [
+      {
+        "code": "870",
+        "name": "Hochschule insgesamt",
+        "name_en": "University overall",
+        "subjects": [
+          {
+            "code": "8700",
+            "name": "Hochschule allgemein 2",
+            "name_en": "University in general 2"
+          },
+          {
+            "code": "8730",
+            "name": "Hochschulkommission",
+            "name_en": "University Commission"
+          },
+          {
+            "code": "8720",
+            "name": "Nicht nutzbare Räume",
+            "name_en": "Unusable Rooms"
+          },
+          {
+            "code": "8710",
+            "name": "Nicht zugeteilte Stellen/Raume/Mittel",
+            "name_en": "Unassigned Positions/Rooms/Funds"
+          }
+        ]
+      },
+      {
+        "code": "880",
+        "name": "Zentrale Hochschulverwaltung",
+        "name_en": "Central University Administration",
+        "subjects": [
+          {
+            "code": "8800",
+            "name": "Allgemeine Hochschulverwaltung",
+            "name_en": "General University Administration"
+          },
+          {
+            "code": "8805",
+            "name": "Akademische Selbstverwaltung",
+            "name_en": "Academic Self-Administration"
+          },
+          {
+            "code": "8810",
+            "name": "Fakultäts-/Fachbereichsverwaltung",
+            "name_en": "Faculty/Department Administration"
+          },
+          {
+            "code": "8806",
+            "name": "Personalvertretung einschl. Vertretungen fur Datenschutz, Behinderte, Frauen etc.",
+            "name_en": "Staff Representation including Representatives for Data Protection, Disabled, Women etc."
+          },
+          {
+            "code": "8820",
+            "name": "Studentische Selbstverwaltung",
+            "name_en": "Student Self-Governance"
+          },
+          {
+            "code": "8830",
+            "name": "Zentrale Studienberatung",
+            "name_en": "Central Student Advisory Service"
+          }
+        ]
+      },
+      {
+        "code": "890",
+        "name": "Zentral verwaltete Hörsäle und Lehrräume",
+        "name_en": "Centrally Managed Lecture Halls and Classrooms",
+        "subjects": [
+          {
+            "code": "8600",
+            "name": "Hörsaal/Lehrraum",
+            "name_en": "Lecture Hall/Classroom"
+          }
+        ]
+      },
+      {
+        "code": "900",
+        "name": "Zentralbibliothek",
+        "name_en": "Central Library",
+        "subjects": [
+          {
+            "code": "9050",
+            "name": "Archiv",
+            "name_en": "Archive"
+          },
+          {
+            "code": "9000",
+            "name": "Bibliothek",
+            "name_en": "Library"
+          }
+        ]
+      },
+      {
+        "code": "910",
+        "name": "Hochschulrechenzentrum",
+        "name_en": "University Computing Center",
+        "subjects": [
+          {
+            "code": "9100",
+            "name": "Rechenzentrum",
+            "name_en": "Computing Center"
+          }
+        ]
+      },
+      {
+        "code": "920",
+        "name": "Zentrale wissenschaftliche Einrichtungen",
+        "name_en": "Central Scientific Institutions",
+        "subjects": [
+          {
+            "code": "9200",
+            "name": "Zentrale wissenschaftliche Einrichtungen allgemein 2",
+            "name_en": "Central Scientific Institutions in general 2"
+          },
+          {
+            "code": "9230",
+            "name": "Akademisches Auslandsamt",
+            "name_en": "International Office"
+          },
+          {
+            "code": "9280",
+            "name": "Forschungs-/Technologie-/Transferstellen",
+            "name_en": "Research/Technology/Transfer Offices"
+          },
+          {
+            "code": "9210",
+            "name": "Sprachenzentrum",
+            "name_en": "Language Center"
+          },
+          {
+            "code": "9220",
+            "name": "Sprachlabor",
+            "name_en": "Language Laboratory"
+          },
+          {
+            "code": "9250",
+            "name": "Strahlenlabor",
+            "name_en": "Radiation Laboratory"
+          },
+          {
+            "code": "9240",
+            "name": "Tierversuchsanlage",
+            "name_en": "Animal Testing Facility"
+          },
+          {
+            "code": "9290",
+            "name": "Weiterbildungszentrum",
+            "name_en": "Continuing Education Center"
+          },
+          {
+            "code": "9260",
+            "name": "Wissenschaftliche/Kunstlerische Werkstätten",
+            "name_en": "Scientific/Artistic Workshops"
+          }
+        ]
+      },
+      {
+        "code": "930",
+        "name": "Zentrale Betriebs- und Versorgungsein-richtungen",
+        "name_en": "Central Operations and Supply Facilities",
+        "subjects": [
+          {
+            "code": "9300",
+            "name": "Zentrale Betriebs- und Versorgungsein-richtungen allgemein 2",
+            "name_en": "Central Operations and Supply Facilities in general 2"
+          },
+          {
+            "code": "9305",
+            "name": "Arbeitssicherheit, Feuerwehr",
+            "name_en": "Occupational Safety, Fire Department"
+          },
+          {
+            "code": "9350",
+            "name": "Fahrbereitschaft",
+            "name_en": "Motor Pool"
+          },
+          {
+            "code": "9320",
+            "name": "Foto-, Reprostelle",
+            "name_en": "Photo, Reprographics Department"
+          },
+          {
+            "code": "9310",
+            "name": "Hausverwaltung",
+            "name_en": "Facility Management"
+          },
+          {
+            "code": "9340",
+            "name": "Materialversorgungslager der Hochschule",
+            "name_en": "University Material Supply Warehouse"
+          },
+          {
+            "code": "9360",
+            "name": "Versorgungseinrichtungen",
+            "name_en": "Supply Facilities"
+          },
+          {
+            "code": "9330",
+            "name": "Zentrale Betriebswerkstätten",
+            "name_en": "Central Operations Workshops"
+          }
+        ]
+      },
+      {
+        "code": "940",
+        "name": "Soziale Einrichtungen",
+        "name_en": "Social Facilities",
+        "subjects": [
+          {
+            "code": "9400",
+            "name": "Soziale Einrichtungen allgemein 2",
+            "name_en": "Social Facilities in general 2"
+          },
+          {
+            "code": "9420",
+            "name": "Wohnheim",
+            "name_en": "Dormitory"
+          },
+          {
+            "code": "9410",
+            "name": "Wohnung/Gastehaus",
+            "name_en": "Apartment/Guest House"
+          },
+          {
+            "code": "9430",
+            "name": "Sonstige soziale Einrichtungen",
+            "name_en": "Other Social Facilities"
+          }
+        ]
+      },
+      {
+        "code": "950",
+        "name": "Übrige Ausbildungseinrichtungen",
+        "name_en": "Other Educational Institutions",
+        "subjects": [
+          {
+            "code": "9500",
+            "name": "Übrige Ausbildungseinrichtungen allgemein",
+            "name_en": "Other Educational Institutions in general"
+          },
+          {
+            "code": "9520",
+            "name": "Schulen für nichtakademische Ausbildungs-gange",
+            "name_en": "Schools for Non-Academic Training Programs"
+          },
+          {
+            "code": "9540",
+            "name": "Sportstätten",
+            "name_en": "Sports Facilities"
+          },
+          {
+            "code": "9510",
+            "name": "Studienkolleg",
+            "name_en": "Preparatory College"
+          },
+          {
+            "code": "9530",
+            "name": "Sonstige Bildungseinrichtungen",
+            "name_en": "Other Educational Institutions"
+          }
+        ]
+      },
+      {
+        "code": "960",
+        "name": "Mit der Hochschule verbundene sowie hochschulfremde Einrichtungen",
+        "name_en": "Institutions affiliated with the university and external institutions",
+        "subjects": [
+          {
+            "code": "9600",
+            "name": "Mit der Hochschule verbundene Einrichtungen allgemein 2",
+            "name_en": "Institutions affiliated with the university in general 2"
+          },
+          {
+            "code": "9650",
+            "name": "Einrichtungen des offentlichen Gesundheitswesens",
+            "name_en": "Public Health Institutions"
+          },
+          {
+            "code": "9675",
+            "name": "Fraunhofer-Institute",
+            "name_en": "Fraunhofer Institutes"
+          },
+          {
+            "code": "9660",
+            "name": "Hochschulbauamt",
+            "name_en": "University Building Authority"
+          },
+          {
+            "code": "9665",
+            "name": "Kirchliche Prufungsamter",
+            "name_en": "Ecclesiastical Examination Offices"
+          },
+          {
+            "code": "9670",
+            "name": "Landesanstalten",
+            "name_en": "State Institutes"
+          },
+          {
+            "code": "9640",
+            "name": "Materialprüfungsanstalten",
+            "name_en": "Materials Testing Institutes"
+          },
+          {
+            "code": "9630",
+            "name": "Max-Planck-Institute",
+            "name_en": "Max Planck Institutes"
+          },
+          {
+            "code": "9620",
+            "name": "Staatliche Prüfungsamter",
+            "name_en": "State Examination Offices"
+          },
+          {
+            "code": "9610",
+            "name": "Studentenwerk",
+            "name_en": "Student Services Organization"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "20",
+    "name": "Zentrale Einrichtungen der Hochschulkliniken (nur Humanmedizin)",
+    "name_en": "Central Facilities of University Hospitals (Human Medicine only)",
+    "clusters": [
+      {
+        "code": "970",
+        "name": "Kliniken Insgesamt, Zentrale Dienste",
+        "name_en": "Hospitals Total, Central Services",
+        "subjects": [
+          {
+            "code": "8900",
+            "name": "Zentrale Dienste der Kliniken allgemein 2",
+            "name_en": "Central Services of the Clinics in general 2"
+          },
+          {
+            "code": "8905",
+            "name": "Ambulanz, Konsiliardienst, soweit nicht fachlich zuzuordnen",
+            "name_en": "Outpatient Clinic, Consultation Service, unless professionally assignable"
+          },
+          {
+            "code": "8930",
+            "name": "Apotheke",
+            "name_en": "Pharmacy"
+          },
+          {
+            "code": "9730",
+            "name": "Energie, Wasser, Transport",
+            "name_en": "Energy, Water, Transport"
+          },
+          {
+            "code": "8910",
+            "name": "Klinikverwaltung (einschl. Rechenzentrum)",
+            "name_en": "Clinic Administration (incl. Computing Center)"
+          },
+          {
+            "code": "8915",
+            "name": "Pflegedienst, soweit nicht fachlich zuzuordnen",
+            "name_en": "Nursing Service, unless professionally assignable"
+          },
+          {
+            "code": "8940",
+            "name": "Reinigung, Wäsche, Sterilisation",
+            "name_en": "Cleaning, Laundry, Sterilization"
+          },
+          {
+            "code": "9740",
+            "name": "Werkstätten",
+            "name_en": "Workshops"
+          },
+          {
+            "code": "9710",
+            "name": "Zentral verwaltete Hörsäle und Lehrräume",
+            "name_en": "Centrally Managed Lecture Halls and Classrooms"
+          },
+          {
+            "code": "8920",
+            "name": "Zentrale Blutbank",
+            "name_en": "Central Blood Bank"
+          },
+          {
+            "code": "9720",
+            "name": "Zentrale wissenschaftliche Einrichtungen (einschl. Bibliothek)",
+            "name_en": "Central Scientific Institutions (incl. Library)"
+          },
+          {
+            "code": "8950",
+            "name": "Zentrallabor",
+            "name_en": "Central Laboratory"
+          }
+        ]
+      },
+      {
+        "code": "980",
+        "name": "Soziale Einrichtungen der Kliniken",
+        "name_en": "Social Facilities of the Clinics",
+        "subjects": [
+          {
+            "code": "9800",
+            "name": "Soziale Einrichtungen der Kliniken allgemein 2",
+            "name_en": "Social Facilities of the Clinics in general 2"
+          },
+          {
+            "code": "9820",
+            "name": "Dienstwohnung",
+            "name_en": "Official Residence"
+          },
+          {
+            "code": "9830",
+            "name": "Kindergarten",
+            "name_en": "Kindergarten"
+          },
+          {
+            "code": "9810",
+            "name": "Krankenhausseelsorge",
+            "name_en": "Hospital Chaplaincy"
+          },
+          {
+            "code": "9815",
+            "name": "Patientenbücherei",
+            "name_en": "Patient Library"
+          },
+          {
+            "code": "9805",
+            "name": "Sozialdienst, Patientenbetreuung",
+            "name_en": "Social Service, Patient Care"
+          },
+          {
+            "code": "9825",
+            "name": "Wohnheime",
+            "name_en": "Dormitories"
+          }
+        ]
+      },
+      {
+        "code": "986",
+        "name": "Übrige Ausbildungseinrichtungen der Kliniken",
+        "name_en": "Other Educational Institutions of the Clinics",
+        "subjects": [
+          {
+            "code": "9860",
+            "name": "Schulen für nichtakademische Ausbildungs-gange (z. B. Krankenpflegeschulen, Schulen fur Logopäden, med.-techn. Assistenten)",
+            "name_en": "Schools for non-academic training programs (e.g., nursing schools, schools for speech therapists, medical-technical assistants)"
+          }
+        ]
+      },
+      {
+        "code": "990",
+        "name": "Mit den Kliniken verbundene sowie klinikfremde Einrichtungen",
+        "name_en": "Institutions affiliated with the clinics and external clinics",
+        "subjects": [
+          {
+            "code": "9900",
+            "name": "Mit den Kliniken verbundene Einrichtungen allgemein 2",
+            "name_en": "Institutions affiliated with the clinics in general 2"
+          },
+          {
+            "code": "9920",
+            "name": "Blutbank anderer Trager",
+            "name_en": "Blood Bank of other providers"
+          },
+          {
+            "code": "9930",
+            "name": "Geschäft, Gaststätte, Bank, Friseur",
+            "name_en": "Shop, Restaurant, Bank, Hairdresser"
+          },
+          {
+            "code": "9910",
+            "name": "Offentliches Gesundheitswesen (z. B. Blut-alkoholuntersuchungsstelle, Medizinal-untersuchungsamt)",
+            "name_en": "Public Health Service (e.g., blood alcohol testing center, medical examination office)"
+          }
+        ]
+      }
+    ]
+  }
+]

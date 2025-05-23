@@ -1,0 +1,1886 @@
+[
+  {
+    "code": "01",
+    "name": "Geisteswissenschaften",
+    "name_en": "Humanities",
+    "Studienbereiche": [
+      {
+        "code": "01",
+        "name": "Geisteswissenschaften allgemein",
+        "name_en": "Humanities, General",
+        "Studienfächer": [
+          {
+            "code": "004",
+            "name": "Interdisziplinäre Studien (Schwerpunkt Geisteswissenschaften)",
+            "name_en": "Interdisciplinary Studies (Humanities Focus)"
+          },
+          {
+            "code": "090",
+            "name": "Lernbereich Geisteswissenschaften",
+            "name_en": "Humanities Learning Area"
+          }
+        ]
+      },
+      {
+        "code": "02",
+        "name": "Evang. Theologie, Religionslehre",
+        "name_en": "Protestant Theology, Religious Studies",
+        "Studienfächer": [
+          {
+            "code": "161",
+            "name": "Diakoniewissenschaft",
+            "name_en": "Diaconal Studies"
+          },
+          {
+            "code": "544",
+            "name": "Evang. Religionspädagogik, kirchliche Bildungsarbeit",
+            "name_en": "Protestant Religious Education, Church Educational Work"
+          },
+          {
+            "code": "053",
+            "name": "Evang. Theologie, Religionslehre",
+            "name_en": "Protestant Theology, Religious Studies"
+          }
+        ]
+      },
+      {
+        "code": "03",
+        "name": "Kath. Theologie, Religionslehre",
+        "name_en": "Catholic Theology, Religious Studies",
+        "Studienfächer": [
+          {
+            "code": "162",
+            "name": "Caritaswissenschaft",
+            "name_en": "Caritas Studies"
+          },
+          {
+            "code": "545",
+            "name": "Kath. Religionspädagogik, kirchliche Bildungsarbeit",
+            "name_en": "Catholic Religious Education, Church Educational Work"
+          },
+          {
+            "code": "086",
+            "name": "Kath. Theologie, -Religionslehre",
+            "name_en": "Catholic Theology, Religious Studies"
+          }
+        ]
+      },
+      {
+        "code": "04",
+        "name": "Philosophie",
+        "name_en": "Philosophy",
+        "Studienfächer": [
+          {
+            "code": "169",
+            "name": "Ethik",
+            "name_en": "Ethics"
+          },
+          {
+            "code": "127",
+            "name": "Philosophie",
+            "name_en": "Philosophy"
+          },
+          {
+            "code": "136",
+            "name": "Religionswissenschaft",
+            "name_en": "Religious Studies"
+          }
+        ]
+      },
+      {
+        "code": "05",
+        "name": "Geschichte",
+        "name_en": "History",
+        "Studienfächer": [
+          {
+            "code": "272",
+            "name": "Alte Geschichte",
+            "name_en": "Ancient History"
+          },
+          {
+            "code": "012",
+            "name": "Archäologie",
+            "name_en": "Archaeology"
+          },
+          {
+            "code": "068",
+            "name": "Geschichte",
+            "name_en": "History"
+          },
+          {
+            "code": "273",
+            "name": "Mittlere und neuere Geschichte",
+            "name_en": "Medieval and Modern History"
+          },
+          {
+            "code": "548",
+            "name": "Ur- und Frühgeschichte",
+            "name_en": "Prehistory and Early History"
+          },
+          {
+            "code": "183",
+            "name": "Wirtschafts-/Sozialgeschichte",
+            "name_en": "Economic/Social History"
+          },
+          {
+            "code": "275",
+            "name": "Wissenschaftsgeschichte/Technikgeschichte",
+            "name_en": "History of Science/History of Technology"
+          }
+        ]
+      },
+      {
+        "code": "06",
+        "name": "Informations- und Bibliothekswissenschaften",
+        "name_en": "Information and Library Sciences",
+        "Studienfächer": [
+          {
+            "code": "037",
+            "name": "Archiv- und Dokumentationswissenschaft",
+            "name_en": "Archival and Documentation Sciences"
+          },
+          {
+            "code": "022",
+            "name": "Informations- und Bibliothekswissenschaften (nicht für Verwaltungsfachhochschulen)",
+            "name_en": "Information and Library Sciences (not for Public Administration Universities of Applied Sciences)"
+          }
+        ]
+      },
+      {
+        "code": "07",
+        "name": "Allgemeine und vergleichende Literatur- und Sprachwissenschaft",
+        "name_en": "General and Comparative Literature and Linguistics",
+        "Studienfächer": [
+          {
+            "code": "188",
+            "name": "Allgemeine Literaturwissenschaft",
+            "name_en": "General Literary Studies"
+          },
+          {
+            "code": "152",
+            "name": "Allgemeine Sprachwissenschaft/Indogermanistik",
+            "name_en": "General Linguistics/Indo-European Studies"
+          },
+          {
+            "code": "284",
+            "name": "Angewandte Sprachwissenschaft",
+            "name_en": "Applied Linguistics"
+          },
+          {
+            "code": "018",
+            "name": "Berufsbezogene Fremdsprachenausbildung",
+            "name_en": "Vocational Foreign Language Training"
+          },
+          {
+            "code": "160",
+            "name": "Computerlinguistik",
+            "name_en": "Computational Linguistics"
+          }
+        ]
+      },
+      {
+        "code": "08",
+        "name": "Altphilologie (klass. Philologie), Neugriechisch",
+        "name_en": "Classical Philology, Modern Greek",
+        "Studienfächer": [
+          {
+            "code": "031",
+            "name": "Byzantinistik",
+            "name_en": "Byzantine Studies"
+          },
+          {
+            "code": "005",
+            "name": "Klassische Philologie",
+            "name_en": "Classical Philology"
+          },
+          {
+            "code": "070",
+            "name": "Griechisch",
+            "name_en": "Greek"
+          },
+          {
+            "code": "095",
+            "name": "Latein",
+            "name_en": "Latin"
+          },
+          {
+            "code": "043",
+            "name": "Neugriechisch",
+            "name_en": "Modern Greek"
+          }
+        ]
+      },
+      {
+        "code": "09",
+        "name": "Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",
+        "name_en": "German Studies (German, Germanic Languages excluding English Studies)",
+        "Studienfächer": [
+          {
+            "code": "034",
+            "name": "Dänisch",
+            "name_en": "Danish"
+          },
+          {
+            "code": "271",
+            "name": "Deutsch als Fremdsprache oder als Zweitsprache",
+            "name_en": "German as a Foreign or Second Language"
+          },
+          {
+            "code": "067",
+            "name": "Germanistik/Deutsch",
+            "name_en": "German Studies/German"
+          },
+          {
+            "code": "189",
+            "name": "Niederdeutsch",
+            "name_en": "Low German"
+          },
+          {
+            "code": "119",
+            "name": "Niederländisch",
+            "name_en": "Dutch"
+          },
+          {
+            "code": "120",
+            "name": "Nordistik/Skandinavistik (Nordische Philologie, Einzelsprachen a.n.g.)",
+            "name_en": "Nordic Studies/Scandinavian Studies (Nordic Philology, specific languages n.e.c.)"
+          }
+        ]
+      },
+      {
+        "code": "10",
+        "name": "Anglistik, Amerikanistik",
+        "name_en": "English Studies, American Studies",
+        "Studienfächer": [
+          {
+            "code": "006",
+            "name": "Amerikanistik/Amerikakunde",
+            "name_en": "American Studies/American Culture"
+          },
+          {
+            "code": "008",
+            "name": "Anglistik/Englisch",
+            "name_en": "English Studies/English"
+          }
+        ]
+      },
+      {
+        "code": "11",
+        "name": "Romanistik",
+        "name_en": "Romance Studies",
+        "Studienfächer": [
+          {
+            "code": "059",
+            "name": "Französisch",
+            "name_en": "French"
+          },
+          {
+            "code": "084",
+            "name": "Italienisch",
+            "name_en": "Italian"
+          },
+          {
+            "code": "131",
+            "name": "Portugiesisch",
+            "name_en": "Portuguese"
+          },
+          {
+            "code": "137",
+            "name": "Romanistik (Roman. Philologie, Einzelsprachen a.n.g.)",
+            "name_en": "Romance Studies (Romance Philology, specific languages n.e.c.)"
+          },
+          {
+            "code": "150",
+            "name": "Spanisch",
+            "name_en": "Spanish"
+          }
+        ]
+      },
+      {
+        "code": "12",
+        "name": "Slawistik, Baltistik, Finno-Ugristik",
+        "name_en": "Slavic Studies, Baltic Studies, Finno-Ugric Studies",
+        "Studienfächer": [
+          {
+            "code": "016",
+            "name": "Baltistik",
+            "name_en": "Baltic Studies"
+          },
+          {
+            "code": "056",
+            "name": "Finno-Ugristik",
+            "name_en": "Finno-Ugric Studies"
+          },
+          {
+            "code": "206",
+            "name": "Polnisch",
+            "name_en": "Polish"
+          },
+          {
+            "code": "139",
+            "name": "Russisch",
+            "name_en": "Russian"
+          },
+          {
+            "code": "146",
+            "name": "Slawistik (Slaw. Philologie)",
+            "name_en": "Slavic Studies (Slavic Philology)"
+          },
+          {
+            "code": "207",
+            "name": "Sorabistik",
+            "name_en": "Sorbian Studies"
+          },
+          {
+            "code": "153",
+            "name": "Südslawisch (Bulgarisch, Serbokroatisch, Slowenisch usw.)",
+            "name_en": "South Slavic (Bulgarian, Serbo-Croatian, Slovenian etc.)"
+          },
+          {
+            "code": "209",
+            "name": "Tschechisch",
+            "name_en": "Czech"
+          },
+          {
+            "code": "130",
+            "name": "Westslawisch (allgemein und a.n.g.)",
+            "name_en": "West Slavic (general and n.e.c.)"
+          }
+        ]
+      },
+      {
+        "code": "13",
+        "name": "Sonstige Sprach- und Kulturwissenschaften",
+        "name_en": "Other Language and Cultural Studies",
+        "Studienfächer": [
+          {
+            "code": "001",
+            "name": "Ägyptologie",
+            "name_en": "Egyptology"
+          },
+          {
+            "code": "002",
+            "name": "Afrikanistik",
+            "name_en": "African Studies"
+          },
+          {
+            "code": "010",
+            "name": "Arabisch/Arabistik",
+            "name_en": "Arabic/Arabic Studies"
+          },
+          {
+            "code": "015",
+            "name": "Außereuropäische Sprachen und Kulturen in Ozeanien und Amerika",
+            "name_en": "Non-European Languages and Cultures in Oceania and America"
+          },
+          {
+            "code": "073",
+            "name": "Judaistik/Hebräisch",
+            "name_en": "Jewish Studies/Hebrew"
+          },
+          {
+            "code": "078",
+            "name": "Indologie",
+            "name_en": "Indology"
+          },
+          {
+            "code": "081",
+            "name": "Iranistik",
+            "name_en": "Iranian Studies"
+          },
+          {
+            "code": "083",
+            "name": "Islamwissenschaft",
+            "name_en": "Islamic Studies"
+          },
+          {
+            "code": "085",
+            "name": "Japanologie",
+            "name_en": "Japanese Studies"
+          },
+          {
+            "code": "180",
+            "name": "Kaukasistik",
+            "name_en": "Caucasian Studies"
+          },
+          {
+            "code": "122",
+            "name": "Orientalistik/Altorientalistik",
+            "name_en": "Oriental Studies/Ancient Near Eastern Studies"
+          },
+          {
+            "code": "145",
+            "name": "Sinologie/Koreanistik",
+            "name_en": "Sinology/Korean Studies"
+          },
+          {
+            "code": "158",
+            "name": "Turkologie",
+            "name_en": "Turkic Studies"
+          },
+          {
+            "code": "187",
+            "name": "Asiatische Sprachen und Kulturen/Asienwissenschaften",
+            "name_en": "Asian Languages and Cultures/Asian Studies"
+          }
+        ]
+      },
+      {
+        "code": "14",
+        "name": "Kulturwissenschaften i.e.S.",
+        "name_en": "Cultural Studies proper",
+        "Studienfächer": [
+          {
+            "code": "024",
+            "name": "Europäische Ethnologie und Kulturwissenschaft",
+            "name_en": "European Ethnology and Cultural Studies"
+          },
+          {
+            "code": "173",
+            "name": "Ethnologie",
+            "name_en": "Ethnology"
+          },
+          {
+            "code": "174",
+            "name": "Volkskunde",
+            "name_en": "Folklore Studies"
+          }
+        ]
+      },
+      {
+        "code": "18",
+        "name": "Islamische Studien/Islamische Theologie",
+        "name_en": "Islamic Studies/Islamic Theology",
+        "Studienfächer": [
+          {
+            "code": "292",
+            "name": "Islamische Studien/Islamische Theologie",
+            "name_en": "Islamic Studies/Islamic Theology"
+          }
+        ]
+      },
+      {
+        "code": "19",
+        "name": "Medienwissenschaft",
+        "name_en": "Media Studies",
+        "Studienfächer": [
+          {
+            "code": "302",
+            "name": "Medienwissenschaft",
+            "name_en": "Media Studies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "02",
+    "name": "Sport",
+    "name_en": "Sport",
+    "Studienbereiche": [
+      {
+        "code": "22",
+        "name": "Sport, Sportwissenschaft",
+        "name_en": "Sport, Sport Science",
+        "Studienfächer": [
+          {
+            "code": "098",
+            "name": "Sportpädagogik/Sportpsychologie",
+            "name_en": "Sport Pedagogy/Sport Psychology"
+          },
+          {
+            "code": "029",
+            "name": "Sportwissenschaft",
+            "name_en": "Sport Science"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "03",
+    "name": "Rechts-, Wirtschafts- und Sozialwissenschaften",
+    "name_en": "Law, Economics and Social Sciences",
+    "Studienbereiche": [
+      {
+        "code": "23",
+        "name": "Rechts-, Wirtschafts- und Sozialwissenschaften allgemein",
+        "name_en": "Law, Economics and Social Sciences, General",
+        "Studienfächer": [
+          {
+            "code": "030",
+            "name": "Interdisziplinäre Studien (Schwerpunkt Rechts-, Wirtschafts- und Sozialwissenschaften)",
+            "name_en": "Interdisciplinary Studies (Law, Economics and Social Sciences Focus)"
+          },
+          {
+            "code": "154",
+            "name": "Lernbereich Gesellschaftslehre",
+            "name_en": "Social Studies Learning Area"
+          },
+          {
+            "code": "055",
+            "name": "Orientierungsstudium",
+            "name_en": "Orientation Studies"
+          }
+        ]
+      },
+      {
+        "code": "24",
+        "name": "Regionalwissenschaften",
+        "name_en": "Regional Studies",
+        "Studienfächer": [
+          {
+            "code": "038",
+            "name": "Lateinamerika-Studien",
+            "name_en": "Latin American Studies"
+          },
+          {
+            "code": "044",
+            "name": "Ost- und Südosteuropa-Studien",
+            "name_en": "East and Southeast European Studies"
+          },
+          {
+            "code": "036",
+            "name": "Sonstige Regionalwissenschaften",
+            "name_en": "Other Regional Studies"
+          }
+        ]
+      },
+      {
+        "code": "25",
+        "name": "Politikwissenschaft",
+        "name_en": "Political Science",
+        "Studienfächer": [
+          {
+            "code": "129",
+            "name": "Politikwissenschaft/Politologie",
+            "name_en": "Political Science/Politology"
+          }
+        ]
+      },
+      {
+        "code": "26",
+        "name": "Sozialwissenschaften/Soziologie",
+        "name_en": "Social Sciences/Sociology",
+        "Studienfächer": [
+          {
+            "code": "147",
+            "name": "Sozialkunde",
+            "name_en": "Social Studies"
+          },
+          {
+            "code": "148",
+            "name": "Sozialwissenschaften",
+            "name_en": "Social Sciences"
+          },
+          {
+            "code": "149",
+            "name": "Soziologie",
+            "name_en": "Sociology"
+          }
+        ]
+      },
+      {
+        "code": "27",
+        "name": "Sozialwesen",
+        "name_en": "Social Work",
+        "Studienfächer": [
+          {
+            "code": "208",
+            "name": "Soziale Arbeit",
+            "name_en": "Social Work"
+          },
+          {
+            "code": "245",
+            "name": "Sozialpädagogik",
+            "name_en": "Social Pedagogy"
+          },
+          {
+            "code": "253",
+            "name": "Sozialwesen",
+            "name_en": "Social Work"
+          }
+        ]
+      },
+      {
+        "code": "28",
+        "name": "Rechtswissenschaften",
+        "name_en": "Law",
+        "Studienfächer": [
+          {
+            "code": "135",
+            "name": "Rechtswissenschaft",
+            "name_en": "Law"
+          },
+          {
+            "code": "042",
+            "name": "Wirtschaftsrecht",
+            "name_en": "Business Law"
+          }
+        ]
+      },
+      {
+        "code": "29",
+        "name": "Verwaltungswissenschaften",
+        "name_en": "Administrative Sciences",
+        "Studienfächer": [
+          {
+            "code": "257",
+            "name": "Arbeits- und Berufsberatung",
+            "name_en": "Labour and Career Counseling"
+          },
+          {
+            "code": "258",
+            "name": "Arbeitsverwaltung",
+            "name_en": "Labour Administration"
+          },
+          {
+            "code": "255",
+            "name": "Archivwesen",
+            "name_en": "Archival Studies"
+          },
+          {
+            "code": "259",
+            "name": "Auswärtige Angelegenheiten",
+            "name_en": "Foreign Affairs"
+          },
+          {
+            "code": "265",
+            "name": "Bankwesen",
+            "name_en": "Banking"
+          },
+          {
+            "code": "262",
+            "name": "Bibliothekswesen",
+            "name_en": "Library Science"
+          },
+          {
+            "code": "260",
+            "name": "Bundeswehrverwaltung",
+            "name_en": "Federal Armed Forces Administration"
+          },
+          {
+            "code": "266",
+            "name": "Finanzverwaltung",
+            "name_en": "Financial Administration"
+          },
+          {
+            "code": "261",
+            "name": "Innere Verwaltung",
+            "name_en": "Internal Administration"
+          },
+          {
+            "code": "168",
+            "name": "Justizvollzug",
+            "name_en": "Correctional Services"
+          },
+          {
+            "code": "263",
+            "name": "Polizei/Verfassungsschutz",
+            "name_en": "Police/Constitutional Protection"
+          },
+          {
+            "code": "256",
+            "name": "Rechtspflege",
+            "name_en": "Judicial Administration"
+          },
+          {
+            "code": "264",
+            "name": "Sozialversicherung",
+            "name_en": "Social Security"
+          },
+          {
+            "code": "268",
+            "name": "Verkehrswesen",
+            "name_en": "Transportation"
+          },
+          {
+            "code": "172",
+            "name": "Verwaltungswissenschaft/-wesen",
+            "name_en": "Administrative Science/Administration"
+          },
+          {
+            "code": "269",
+            "name": "Zoll- und Steuerverwaltung",
+            "name_en": "Customs and Tax Administration"
+          }
+        ]
+      },
+      {
+        "code": "30",
+        "name": "Wirtschaftswissenschaften",
+        "name_en": "Economics and Business Administration",
+        "Studienfächer": [
+          {
+            "code": "011",
+            "name": "Arbeitslehre/Wirtschaftslehre",
+            "name_en": "Work Studies/Economics"
+          },
+          {
+            "code": "021",
+            "name": "Betriebswirtschaftslehre",
+            "name_en": "Business Administration"
+          },
+          {
+            "code": "167",
+            "name": "Europäische Wirtschaft",
+            "name_en": "European Economics"
+          },
+          {
+            "code": "304",
+            "name": "Medienwirtschaft/Medienmanagement",
+            "name_en": "Media Economics/Media Management"
+          },
+          {
+            "code": "182",
+            "name": "Internationale Betriebswirtschaft/Management",
+            "name_en": "International Business Administration/Management"
+          },
+          {
+            "code": "166",
+            "name": "Sportmanagement/Sportökonomie",
+            "name_en": "Sport Management/Sport Economics"
+          },
+          {
+            "code": "274",
+            "name": "Tourismuswirtschaft",
+            "name_en": "Tourism Economics"
+          },
+          {
+            "code": "210",
+            "name": "Verkehrswirtschaft",
+            "name_en": "Transport Economics"
+          },
+          {
+            "code": "175",
+            "name": "Volkswirtschaftslehre",
+            "name_en": "Economics"
+          },
+          {
+            "code": "181",
+            "name": "Wirtschaftspädagogik",
+            "name_en": "Business Education"
+          },
+          {
+            "code": "184",
+            "name": "Wirtschaftswissenschaften",
+            "name_en": "Economic Sciences"
+          }
+        ]
+      },
+      {
+        "code": "31",
+        "name": "Wirtschaftsingenieurwesen mit wirtschaftswiss. Schwerpunkt",
+        "name_en": "Industrial Engineering with Business Administration Focus",
+        "Studienfächer": [
+          {
+            "code": "464",
+            "name": "Facility Management",
+            "name_en": "Facility Management"
+          },
+          {
+            "code": "179",
+            "name": "Wirtschaftsingenieurwesen mit wirtschaftswiss. Schwerpunkt",
+            "name_en": "Industrial Engineering with Business Administration Focus"
+          }
+        ]
+      },
+      {
+        "code": "32",
+        "name": "Psychologie",
+        "name_en": "Psychology",
+        "Studienfächer": [
+          {
+            "code": "132",
+            "name": "Psychologie",
+            "name_en": "Psychology"
+          }
+        ]
+      },
+      {
+        "code": "33",
+        "name": "Erziehungswissenschaften",
+        "name_en": "Educational Sciences",
+        "Studienfächer": [
+          {
+            "code": "117",
+            "name": "Ausländerpädagogik",
+            "name_en": "Pedagogy for Foreigners"
+          },
+          {
+            "code": "270",
+            "name": "Berufs- und Wirtschaftspädagogik",
+            "name_en": "Vocational and Business Education"
+          },
+          {
+            "code": "321",
+            "name": "Erwachsenenbildung und außerschulische Jugendbildung",
+            "name_en": "Adult Education and Non-School Youth Education"
+          },
+          {
+            "code": "052",
+            "name": "Erziehungswissenschaft (Pädagogik)",
+            "name_en": "Educational Science (Pedagogy)"
+          },
+          {
+            "code": "365",
+            "name": "Pädagogik der frühen Kindheit",
+            "name_en": "Early Childhood Education"
+          },
+          {
+            "code": "115",
+            "name": "Grundschul-/Primarstufenpädagogik",
+            "name_en": "Primary/Elementary School Pedagogy"
+          },
+          {
+            "code": "254",
+            "name": "Sachunterricht (einschl. Schulgarten)",
+            "name_en": "General Studies (incl. School Garden)"
+          },
+          {
+            "code": "361",
+            "name": "Schulpädagogik",
+            "name_en": "School Pedagogy"
+          },
+          {
+            "code": "190",
+            "name": "Sonderpädagogik",
+            "name_en": "Special Needs Education"
+          }
+        ]
+      },
+      {
+        "code": "34",
+        "name": "Kommunikationswissenschaft/Publizistik",
+        "name_en": "Communication Studies/Journalism",
+        "Studienfächer": [
+          {
+            "code": "303",
+            "name": "Kommunikationswissenschaft/Publizistik",
+            "name_en": "Communication Studies/Journalism"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "04",
+    "name": "Mathematik, Naturwissenschaften",
+    "name_en": "Mathematics, Natural Sciences",
+    "Studienbereiche": [
+      {
+        "code": "36",
+        "name": "Mathematik, Naturwissenschaften allgemein",
+        "name_en": "Mathematics, Natural Sciences, General",
+        "Studienfächer": [
+          {
+            "code": "049",
+            "name": "Interdisziplinäre Studien (Schwerpunkt Naturwissenschaften)",
+            "name_en": "Interdisciplinary Studies (Natural Sciences Focus)"
+          },
+          {
+            "code": "093",
+            "name": "Lernbereich Naturwissenschaften/Sachunterricht",
+            "name_en": "Natural Sciences/General Studies Learning Area"
+          },
+          {
+            "code": "019",
+            "name": "Orientierungsstudium MINT",
+            "name_en": "MINT Orientation Studies"
+          },
+          {
+            "code": "312",
+            "name": "Statistik",
+            "name_en": "Statistics"
+          }
+        ]
+      },
+      {
+        "code": "37",
+        "name": "Mathematik",
+        "name_en": "Mathematics",
+        "Studienfächer": [
+          {
+            "code": "105",
+            "name": "Mathematik",
+            "name_en": "Mathematics"
+          },
+          {
+            "code": "118",
+            "name": "Technomathematik",
+            "name_en": "Technical Mathematics"
+          },
+          {
+            "code": "276",
+            "name": "Wirtschaftsmathematik",
+            "name_en": "Business Mathematics"
+          }
+        ]
+      },
+      {
+        "code": "39",
+        "name": "Physik, Astronomie",
+        "name_en": "Physics, Astronomy",
+        "Studienfächer": [
+          {
+            "code": "014",
+            "name": "Astrophysik und Astronomie",
+            "name_en": "Astrophysics and Astronomy"
+          },
+          {
+            "code": "128",
+            "name": "Physik",
+            "name_en": "Physics"
+          }
+        ]
+      },
+      {
+        "code": "40",
+        "name": "Chemie",
+        "name_en": "Chemistry",
+        "Studienfächer": [
+          {
+            "code": "025",
+            "name": "Biochemie",
+            "name_en": "Biochemistry"
+          },
+          {
+            "code": "032",
+            "name": "Chemie",
+            "name_en": "Chemistry"
+          },
+          {
+            "code": "096",
+            "name": "Lebensmittelchemie",
+            "name_en": "Food Chemistry"
+          }
+        ]
+      },
+      {
+        "code": "41",
+        "name": "Pharmazie",
+        "name_en": "Pharmacy",
+        "Studienfächer": [
+          {
+            "code": "126",
+            "name": "Pharmazie",
+            "name_en": "Pharmacy"
+          }
+        ]
+      },
+      {
+        "code": "42",
+        "name": "Biologie",
+        "name_en": "Biology",
+        "Studienfächer": [
+          {
+            "code": "009",
+            "name": "Anthropologie (Humanbiologie)",
+            "name_en": "Anthropology (Human Biology)"
+          },
+          {
+            "code": "026",
+            "name": "Biologie",
+            "name_en": "Biology"
+          },
+          {
+            "code": "300",
+            "name": "Biomedizin",
+            "name_en": "Biomedicine"
+          },
+          {
+            "code": "282",
+            "name": "Biotechnologie",
+            "name_en": "Biotechnology"
+          }
+        ]
+      },
+      {
+        "code": "43",
+        "name": "Geowissenschaften (ohne Geographie)",
+        "name_en": "Geosciences (excluding Geography)",
+        "Studienfächer": [
+          {
+            "code": "065",
+            "name": "Geologie/Paläontologie",
+            "name_en": "Geology/Paleontology"
+          },
+          {
+            "code": "066",
+            "name": "Geophysik",
+            "name_en": "Geophysics"
+          },
+          {
+            "code": "385",
+            "name": "Geoökologie",
+            "name_en": "Geoecology"
+          },
+          {
+            "code": "039",
+            "name": "Geowissenschaften allgemein",
+            "name_en": "Geosciences, General"
+          },
+          {
+            "code": "110",
+            "name": "Meteorologie",
+            "name_en": "Meteorology"
+          },
+          {
+            "code": "111",
+            "name": "Mineralogie",
+            "name_en": "Mineralogy"
+          },
+          {
+            "code": "124",
+            "name": "Ozeanographie",
+            "name_en": "Oceanography"
+          }
+        ]
+      },
+      {
+        "code": "44",
+        "name": "Geographie",
+        "name_en": "Geography",
+        "Studienfächer": [
+          {
+            "code": "050",
+            "name": "Geographie/Erdkunde",
+            "name_en": "Geography"
+          },
+          {
+            "code": "283",
+            "name": "Landschaftsökologie/Biogeographie",
+            "name_en": "Landscape Ecology/Biogeography"
+          },
+          {
+            "code": "178",
+            "name": "Wirtschafts-/Sozialgeographie",
+            "name_en": "Economic/Social Geography"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "05",
+    "name": "Humanmedizin/Gesundheitswissenschaften",
+    "name_en": "Human Medicine/Health Sciences",
+    "Studienbereiche": [
+      {
+        "code": "48",
+        "name": "Gesundheitswissenschaften allgemein",
+        "name_en": "Health Sciences, General",
+        "Studienfächer": [
+          {
+            "code": "195",
+            "name": "Gesundheitspädagogik",
+            "name_en": "Health Pedagogy"
+          },
+          {
+            "code": "232",
+            "name": "Gesundheitswissenschaften/-management",
+            "name_en": "Health Sciences/-Management"
+          },
+          {
+            "code": "233",
+            "name": "Nichtärztliche Heilberufe/Therapien",
+            "name_en": "Non-Medical Health Professions/Therapies"
+          },
+          {
+            "code": "234",
+            "name": "Pflegewissenschaft/-management",
+            "name_en": "Nursing Science/-Management"
+          }
+        ]
+      },
+      {
+        "code": "49",
+        "name": "Humanmedizin (ohne Zahnmedizin)",
+        "name_en": "Human Medicine (excluding Dentistry)",
+        "Studienfächer": [
+          {
+            "code": "107",
+            "name": "Medizin (Allgemein-Medizin)",
+            "name_en": "Medicine (General Medicine)"
+          }
+        ]
+      },
+      {
+        "code": "50",
+        "name": "Zahnmedizin",
+        "name_en": "Dentistry",
+        "Studienfächer": [
+          {
+            "code": "185",
+            "name": "Zahnmedizin",
+            "name_en": "Dentistry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "07",
+    "name": "Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",
+    "name_en": "Agricultural, Forest and Nutritional Sciences, Veterinary Medicine",
+    "Studienbereiche": [
+      {
+        "code": "51",
+        "name": "Veterinärmedizin",
+        "name_en": "Veterinary Medicine",
+        "Studienfächer": [
+          {
+            "code": "156",
+            "name": "Tiermedizin/Veterinärmedizin",
+            "name_en": "Veterinary Medicine"
+          }
+        ]
+      },
+      {
+        "code": "57",
+        "name": "Landespflege, Umweltgestaltung",
+        "name_en": "Landscape Management, Environmental Design",
+        "Studienfächer": [
+          {
+            "code": "186",
+            "name": "Landespflege/Landschaftsgestaltung",
+            "name_en": "Landscape Management/Landscape Design"
+          },
+          {
+            "code": "061",
+            "name": "Meliorationswesen",
+            "name_en": "Land Reclamation"
+          },
+          {
+            "code": "064",
+            "name": "Naturschutz",
+            "name_en": "Nature Conservation"
+          }
+        ]
+      },
+      {
+        "code": "58",
+        "name": "Agrarwissenschaften, Lebensmittel- und Getränketechnologie",
+        "name_en": "Agricultural Sciences, Food and Beverage Technology",
+        "Studienfächer": [
+          {
+            "code": "138",
+            "name": "Agrarbiologie",
+            "name_en": "Agrobiology"
+          },
+          {
+            "code": "125",
+            "name": "Agrarökonomie",
+            "name_en": "Agricultural Economics"
+          },
+          {
+            "code": "003",
+            "name": "Agrarwissenschaft/Landwirtschaft",
+            "name_en": "Agricultural Science/Agriculture"
+          },
+          {
+            "code": "028",
+            "name": "Brauwesen/Getränketechnologie",
+            "name_en": "Brewing/Beverage Technology"
+          },
+          {
+            "code": "060",
+            "name": "Gartenbau",
+            "name_en": "Horticulture"
+          },
+          {
+            "code": "097",
+            "name": "Lebensmitteltechnologie",
+            "name_en": "Food Technology"
+          },
+          {
+            "code": "220",
+            "name": "Milch- und Molkereiwirtschaft",
+            "name_en": "Dairy Farming and Dairy Industry"
+          },
+          {
+            "code": "353",
+            "name": "Pflanzenproduktion",
+            "name_en": "Crop Production"
+          },
+          {
+            "code": "371",
+            "name": "Tierproduktion",
+            "name_en": "Animal Production"
+          },
+          {
+            "code": "227",
+            "name": "Weinbau und Kellerwirtschaft",
+            "name_en": "Viticulture and Oenology"
+          }
+        ]
+      },
+      {
+        "code": "59",
+        "name": "Forstwissenschaft, Holzwirtschaft",
+        "name_en": "Forestry, Timber Industry",
+        "Studienfächer": [
+          {
+            "code": "058",
+            "name": "Forstwissenschaft, wirtschaft",
+            "name_en": "Forestry, Economics"
+          },
+          {
+            "code": "075",
+            "name": "Holzwirtschaft",
+            "name_en": "Timber Industry"
+          }
+        ]
+      },
+      {
+        "code": "60",
+        "name": "Haushaltswissenschaften, Ernährungswissenschaft",
+        "name_en": "Home Economics, Nutritional Science",
+        "Studienfächer": [
+          {
+            "code": "320",
+            "name": "Ernährungswissenschaft",
+            "name_en": "Nutritional Science"
+          },
+          {
+            "code": "071",
+            "name": "Haushalts- und Ernährungswissenschaft",
+            "name_en": "Home and Nutritional Science"
+          },
+          {
+            "code": "333",
+            "name": "Haushaltswissenschaft",
+            "name_en": "Home Economics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "08",
+    "name": "Ingenieurwissenschaften",
+    "name_en": "Engineering Sciences",
+    "Studienbereiche": [
+      {
+        "code": "61",
+        "name": "Ingenieurwesen allgemein",
+        "name_en": "Engineering, General",
+        "Studienfächer": [
+          {
+            "code": "140",
+            "name": "Angewandte Systemwissenschaften",
+            "name_en": "Applied Systems Sciences"
+          },
+          {
+            "code": "072",
+            "name": "Interdisziplinäre Studien (Schwerpunkt Ingenieurwissenschaften)",
+            "name_en": "Interdisciplinary Studies (Engineering Focus)"
+          },
+          {
+            "code": "199",
+            "name": "Lernbereich Technik",
+            "name_en": "Technology Learning Area"
+          },
+          {
+            "code": "380",
+            "name": "Mechatronik",
+            "name_en": "Mechatronics"
+          },
+          {
+            "code": "305",
+            "name": "Medientechnik",
+            "name_en": "Media Technology"
+          },
+          {
+            "code": "310",
+            "name": "Regenerative Energien",
+            "name_en": "Renewable Energies"
+          },
+          {
+            "code": "201",
+            "name": "Werken (technisch)/Technologie",
+            "name_en": "Manual Arts (Technical)/Technology"
+          }
+        ]
+      },
+      {
+        "code": "62",
+        "name": "Bergbau, Hüttenwesen",
+        "name_en": "Mining, Metallurgy",
+        "Studienfächer": [
+          {
+            "code": "390",
+            "name": "Archäometrie (Ingenieurarchäologie)",
+            "name_en": "Archaeometry (Engineering Archaeology)"
+          },
+          {
+            "code": "020",
+            "name": "Bergbau/Bergtechnik",
+            "name_en": "Mining/Mining Engineering"
+          },
+          {
+            "code": "076",
+            "name": "Hütten- und Gießereiwesen",
+            "name_en": "Metallurgy and Foundry Technology"
+          },
+          {
+            "code": "103",
+            "name": "Markscheidewesen",
+            "name_en": "Mine Surveying"
+          }
+        ]
+      },
+      {
+        "code": "63",
+        "name": "Maschinenbau/Verfahrenstechnik",
+        "name_en": "Mechanical Engineering/Process Engineering",
+        "Studienfächer": [
+          {
+            "code": "141",
+            "name": "Abfallwirtschaft",
+            "name_en": "Waste Management"
+          },
+          {
+            "code": "143",
+            "name": "Augenoptik",
+            "name_en": "Ophthalmic Optics"
+          },
+          {
+            "code": "033",
+            "name": "Chemie-Ingenieurwesen/Chemieverfahrenstechnik",
+            "name_en": "Chemical Engineering/Chemical Process Engineering"
+          },
+          {
+            "code": "231",
+            "name": "Druck- und Reproduktionstechnik",
+            "name_en": "Printing and Reproduction Technology"
+          },
+          {
+            "code": "211",
+            "name": "Energieverfahrenstechnik",
+            "name_en": "Energy Process Engineering"
+          },
+          {
+            "code": "212",
+            "name": "Feinwerktechnik",
+            "name_en": "Precision Engineering"
+          },
+          {
+            "code": "202",
+            "name": "Fertigungs-/Produktionstechnik",
+            "name_en": "Manufacturing/Production Engineering"
+          },
+          {
+            "code": "215",
+            "name": "Gesundheitstechnik",
+            "name_en": "Health Technology"
+          },
+          {
+            "code": "216",
+            "name": "Glastechnik/Keramik",
+            "name_en": "Glass Technology/Ceramics"
+          },
+          {
+            "code": "082",
+            "name": "Holz-/Fasertechnik",
+            "name_en": "Wood/Fiber Technology"
+          },
+          {
+            "code": "219",
+            "name": "Kunststofftechnik",
+            "name_en": "Plastics Technology"
+          },
+          {
+            "code": "104",
+            "name": "Maschinenbau/-wesen",
+            "name_en": "Mechanical Engineering"
+          },
+          {
+            "code": "108",
+            "name": "Metalltechnik",
+            "name_en": "Metal Technology"
+          },
+          {
+            "code": "224",
+            "name": "Physikalische Technik/Mechanische Verfahrenstechnik",
+            "name_en": "Physical Engineering/Mechanical Process Engineering"
+          },
+          {
+            "code": "144",
+            "name": "Technische Kybernetik",
+            "name_en": "Technical Cybernetics"
+          },
+          {
+            "code": "225",
+            "name": "Textil- und Bekleidungstechnik/-gewerbe",
+            "name_en": "Textile and Clothing Technology/Industry"
+          },
+          {
+            "code": "074",
+            "name": "Transport-/Fördertechnik",
+            "name_en": "Transport/Conveyor Technology"
+          },
+          {
+            "code": "457",
+            "name": "Umwelttechnik (einschl. Recycling)",
+            "name_en": "Environmental Engineering (incl. Recycling)"
+          },
+          {
+            "code": "226",
+            "name": "Verfahrenstechnik",
+            "name_en": "Process Engineering"
+          },
+          {
+            "code": "213",
+            "name": "Versorgungstechnik",
+            "name_en": "Supply Engineering"
+          }
+        ]
+      },
+      {
+        "code": "64",
+        "name": "Elektrotechnik und Informationstechnik",
+        "name_en": "Electrical Engineering and Information Technology",
+        "Studienfächer": [
+          {
+            "code": "316",
+            "name": "Elektrische Energietechnik",
+            "name_en": "Electrical Power Engineering"
+          },
+          {
+            "code": "048",
+            "name": "Elektrotechnik/Elektronik",
+            "name_en": "Electrical Engineering/Electronics"
+          },
+          {
+            "code": "157",
+            "name": "Mikroelektronik",
+            "name_en": "Microelectronics"
+          },
+          {
+            "code": "286",
+            "name": "Mikrosystemtechnik",
+            "name_en": "Microsystems Technology"
+          },
+          {
+            "code": "222",
+            "name": "Kommunikations-und Informationstechnik",
+            "name_en": "Communication and Information Technology"
+          },
+          {
+            "code": "088",
+            "name": "Optoelektronik",
+            "name_en": "Optoelectronics"
+          }
+        ]
+      },
+      {
+        "code": "65",
+        "name": "Verkehrstechnik, Nautik",
+        "name_en": "Traffic Engineering, Nautical Science",
+        "Studienfächer": [
+          {
+            "code": "235",
+            "name": "Fahrzeugtechnik",
+            "name_en": "Vehicle Engineering"
+          },
+          {
+            "code": "057",
+            "name": "Luft- und Raumfahrttechnik",
+            "name_en": "Aerospace Engineering"
+          },
+          {
+            "code": "223",
+            "name": "Nautik/Seefahrt",
+            "name_en": "Nautical Science/Seafaring"
+          },
+          {
+            "code": "142",
+            "name": "Schiffbau/Schiffstechnik",
+            "name_en": "Shipbuilding/Naval Architecture"
+          },
+          {
+            "code": "089",
+            "name": "Verkehrsingenieurwesen",
+            "name_en": "Traffic Engineering"
+          }
+        ]
+      },
+      {
+        "code": "66",
+        "name": "Architektur, Innenarchitektur",
+        "name_en": "Architecture, Interior Architecture",
+        "Studienfächer": [
+          {
+            "code": "013",
+            "name": "Architektur",
+            "name_en": "Architecture"
+          },
+          {
+            "code": "242",
+            "name": "Innenarchitektur",
+            "name_en": "Interior Architecture"
+          }
+        ]
+      },
+      {
+        "code": "67",
+        "name": "Raumplanung",
+        "name_en": "Spatial Planning",
+        "Studienfächer": [
+          {
+            "code": "134",
+            "name": "Raumplanung",
+            "name_en": "Spatial Planning"
+          },
+          {
+            "code": "458",
+            "name": "Umweltschutz",
+            "name_en": "Environmental Protection"
+          }
+        ]
+      },
+      {
+        "code": "68",
+        "name": "Bauingenieurwesen",
+        "name_en": "Civil Engineering",
+        "Studienfächer": [
+          {
+            "code": "017",
+            "name": "Bauingenieurwesen/Ingenieurbau",
+            "name_en": "Civil Engineering/Structural Engineering"
+          },
+          {
+            "code": "197",
+            "name": "Holzbau",
+            "name_en": "Timber Construction"
+          },
+          {
+            "code": "429",
+            "name": "Stahlbau",
+            "name_en": "Steel Construction"
+          },
+          {
+            "code": "094",
+            "name": "Wasserbau",
+            "name_en": "Hydraulic Engineering"
+          },
+          {
+            "code": "077",
+            "name": "Wasserwirtschaft",
+            "name_en": "Water Management"
+          }
+        ]
+      },
+      {
+        "code": "69",
+        "name": "Vermessungswesen",
+        "name_en": "Surveying",
+        "Studienfächer": [
+          {
+            "code": "280",
+            "name": "Kartographie",
+            "name_en": "Cartography"
+          },
+          {
+            "code": "171",
+            "name": "Vermessungswesen (Geodäsie)",
+            "name_en": "Surveying (Geodesy)"
+          }
+        ]
+      },
+      {
+        "code": "70",
+        "name": "Wirtschaftsingenieurwesen mit ingenieurwiss. Schwerpunkt",
+        "name_en": "Industrial Engineering with Engineering Focus",
+        "Studienfächer": [
+          {
+            "code": "370",
+            "name": "Wirtschaftsingenieurwesen mit ingenieurwiss. Schwerpunkt",
+            "name_en": "Industrial Engineering with Engineering Focus"
+          }
+        ]
+      },
+      {
+        "code": "71",
+        "name": "Informatik",
+        "name_en": "Computer Science",
+        "Studienfächer": [
+          {
+            "code": "221",
+            "name": "Bioinformatik",
+            "name_en": "Bioinformatics"
+          },
+          {
+            "code": "200",
+            "name": "Computer- und Kommunikationstechniken",
+            "name_en": "Computer and Communication Technologies"
+          },
+          {
+            "code": "079",
+            "name": "Informatik",
+            "name_en": "Computer Science"
+          },
+          {
+            "code": "123",
+            "name": "Ingenieurinformatik/Technische Informatik",
+            "name_en": "Engineering Informatics/Technical Computer Science"
+          },
+          {
+            "code": "121",
+            "name": "Medieninformatik",
+            "name_en": "Media Informatics"
+          },
+          {
+            "code": "247",
+            "name": "Medizinische Informatik",
+            "name_en": "Medical Informatics"
+          },
+          {
+            "code": "277",
+            "name": "Wirtschaftsinformatik",
+            "name_en": "Business Informatics"
+          }
+        ]
+      },
+      {
+        "code": "72",
+        "name": "Materialwissenschaft und Werkstofftechnik",
+        "name_en": "Materials Science and Materials Engineering",
+        "Studienfächer": [
+          {
+            "code": "294",
+            "name": "Materialwissenschaft",
+            "name_en": "Materials Science"
+          },
+          {
+            "code": "177",
+            "name": "Werkstofftechnik",
+            "name_en": "Materials Engineering"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "09",
+    "name": "Kunst, Kunstwissenschaft",
+    "name_en": "Art, Art History",
+    "Studienbereiche": [
+      {
+        "code": "74",
+        "name": "Kunst, Kunstwissenschaft allgemein",
+        "name_en": "Art, Art History, General",
+        "Studienfächer": [
+          {
+            "code": "040",
+            "name": "Interdisziplinäre Studien (Schwerpunkt Kunst, Kunstwissenschaft)",
+            "name_en": "Interdisciplinary Studies (Art, Art History Focus)"
+          },
+          {
+            "code": "091",
+            "name": "Kunsterziehung",
+            "name_en": "Art Education"
+          },
+          {
+            "code": "092",
+            "name": "Kunstgeschichte, Kunstwissenschaft",
+            "name_en": "Art History, Art Science"
+          },
+          {
+            "code": "101",
+            "name": "Restaurierungskunde",
+            "name_en": "Restoration Studies"
+          }
+        ]
+      },
+      {
+        "code": "75",
+        "name": "Bildende Kunst",
+        "name_en": "Fine Arts",
+        "Studienfächer": [
+          {
+            "code": "023",
+            "name": "Bildende Kunst/Graphik",
+            "name_en": "Fine Arts/Graphics"
+          },
+          {
+            "code": "205",
+            "name": "Bildhauerei/Plastik",
+            "name_en": "Sculpture"
+          },
+          {
+            "code": "204",
+            "name": "Malerei",
+            "name_en": "Painting"
+          }
+        ]
+      },
+      {
+        "code": "76",
+        "name": "Gestaltung",
+        "name_en": "Design",
+        "Studienfächer": [
+          {
+            "code": "007",
+            "name": "Angewandte Kunst",
+            "name_en": "Applied Arts"
+          },
+          {
+            "code": "159",
+            "name": "Edelstein- und Schmuckdesign",
+            "name_en": "Gemstone and Jewelry Design"
+          },
+          {
+            "code": "069",
+            "name": "Graphikdesign/Kommunikationsgestaltung",
+            "name_en": "Graphic Design/Communication Design"
+          },
+          {
+            "code": "203",
+            "name": "Industriedesign/Produktgestaltung",
+            "name_en": "Industrial Design/Product Design"
+          },
+          {
+            "code": "116",
+            "name": "Textilgestaltung",
+            "name_en": "Textile Design"
+          },
+          {
+            "code": "176",
+            "name": "Werkerziehung",
+            "name_en": "Craft Education"
+          }
+        ]
+      },
+      {
+        "code": "77",
+        "name": "Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft",
+        "name_en": "Performing Arts, Film and Television, Theatre Studies",
+        "Studienfächer": [
+          {
+            "code": "035",
+            "name": "Darstellende Kunst/Bühnenkunst/Regie",
+            "name_en": "Performing Arts/Stage Arts/Directing"
+          },
+          {
+            "code": "054",
+            "name": "Film und Fernsehen",
+            "name_en": "Film and Television"
+          },
+          {
+            "code": "102",
+            "name": "Schauspiel",
+            "name_en": "Acting"
+          },
+          {
+            "code": "106",
+            "name": "Tanzpädagogik",
+            "name_en": "Dance Pedagogy"
+          },
+          {
+            "code": "155",
+            "name": "Theaterwissenschaft",
+            "name_en": "Theatre Studies"
+          }
+        ]
+      },
+      {
+        "code": "78",
+        "name": "Musik, Musikwissenschaft",
+        "name_en": "Music, Musicology",
+        "Studienfächer": [
+          {
+            "code": "192",
+            "name": "Dirigieren",
+            "name_en": "Conducting"
+          },
+          {
+            "code": "230",
+            "name": "Gesang",
+            "name_en": "Singing"
+          },
+          {
+            "code": "080",
+            "name": "Instrumentalmusik",
+            "name_en": "Instrumental Music"
+          },
+          {
+            "code": "164",
+            "name": "Jazz und Popularmusik",
+            "name_en": "Jazz and Popular Music"
+          },
+          {
+            "code": "193",
+            "name": "Kirchenmusik",
+            "name_en": "Church Music"
+          },
+          {
+            "code": "191",
+            "name": "Komposition",
+            "name_en": "Composition"
+          },
+          {
+            "code": "113",
+            "name": "Musikerziehung",
+            "name_en": "Music Education"
+          },
+          {
+            "code": "114",
+            "name": "Musikwissenschaft/-geschichte",
+            "name_en": "Musicology/-History"
+          },
+          {
+            "code": "165",
+            "name": "Orchestermusik",
+            "name_en": "Orchestral Music"
+          },
+          {
+            "code": "163",
+            "name": "Rhythmik",
+            "name_en": "Rhythmics"
+          },
+          {
+            "code": "194",
+            "name": "Tonmeister",
+            "name_en": "Sound Engineer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "10",
+    "name": "Außerhalb der Studienbereichsgliederung",
+    "name_en": "Outside the Study Area Classification",
+    "Studienbereiche": [
+      {
+        "code": "83",
+        "name": "Außerhalb der Studienbereichsgliederung",
+        "name_en": "Outside the Study Area Classification",
+        "Studienfächer": [
+          {
+            "code": "287",
+            "name": "Neue Medien",
+            "name_en": "New Media"
+          },
+          {
+            "code": "041",
+            "name": "Sonstiges Orientierungsstudium",
+            "name_en": "Other Orientation Studies"
+          },
+          {
+            "code": "196",
+            "name": "Studienkolleg",
+            "name_en": "Foundation College"
+          },
+          {
+            "code": "290",
+            "name": "Sonstige Fächer",
+            "name_en": "Other Subjects"
+          }
+        ]
+      }
+    ]
+  }
+]
