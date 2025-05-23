@@ -1,6 +1,5 @@
 ---
-title: Stud
-subtitle: Comments on implementation
+title: Database of study data for Germany
 author: Georg F.K. Höhn
 short-author: Höhn
 institute: Ironhack
@@ -93,6 +92,18 @@ csquotes: true
   - subject codes in student-related tables prefixed by 'SF'
   - format for cluster and group codes in personnel/professorial data is even more messy
 
+## Data coding
+
+- `time` (renamed to `year`): 
+  - in students and incoming student data provided as more complex string, elsewhere just string of year
+  - normalised to year int everywhere
+- `gender` coded binary: GESW, GESM 
+  - recoded as f, m
+- `nationality` coded binary: NATD, NATD
+  - recoded as domestic, foreign
+- `subj_code`, `subj_name`: as strings
+- `number`: aggregated student count for a particular combination of gender, nationality and subject 
+
 
 ## Challenge 2: Taxonomies
 
@@ -125,7 +136,7 @@ csquotes: true
 
 ## Database setup
 
-- using `sqalchemy` to set up database connection and tables
+- using `sqlalchemy` to set up database connection and tables
 - drop and recreate tables on each run (allows appending of data)
 
 ![Database schema](../assets/db_schema_transp2.png){ height=68% }
@@ -167,17 +178,19 @@ csquotes: true
 
 ### General insights
 
-- number of students is dropping over timeframe
-- at least partly connected to COVID
-  - marked drop from 2020 to 2021
-  - moderate rise from 2022 to 2023
+- number of students actually picks up around COVID before dropping again (see next slide)
+- as we'll see below, the number of incoming students actually dropped around the same time, so why did the overall number rise?
+- answer: number of exams also had a very strong dip in 2020, so fewer people leaving university
+- the notebook has the full story and graphs
   
   
 ##
 
-- shows overall slight drop
 
-![](../assets/cit-time-bar.png)
+![](../assets/total-time.png){ height=45% }
+
+
+![](../assets/exams-time.png){ height=45% }
 
 
 ## 
@@ -234,6 +247,13 @@ $\chi^2=298192, df=8, p < 0.01$ <!-- -->
 
 # Selected SQL prompts
 
+## 
+
+In my project, SQL prompts are provided in two ways:
+
+- in a separate SQL script
+- inside the jupyter notebook calling the database using `sqlalchemy`
+
 ## 6. Which were the top 10 subjects studied by foreigners? 
 
 
@@ -289,6 +309,11 @@ ORDER BY is2.subj_code, is2.year;
 
 
 # Conclusion
+
+##
+
+- database, cleaned csv files, notebook: [github.com/gfkpth/project-2-eda-sql](https://github.com/gfkpth/project-2-eda-sql) 
+- (somewhat) cleaned up version of repository can be found on [github.com/gfkpth/data-study-subjects](https://github.com/gfkpth/data-study-subjects) 
 
 ## 
 
