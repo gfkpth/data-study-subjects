@@ -24,8 +24,6 @@ This dataset was initially created in the course of an [Ironhack](https://www.ir
 
 # License
 
-Note that the datasets and scripts in the [2020-Glossa](2020-Glossa) and [2024-LT](2024-LT) folders were published as part of the supplementary material to the respective articles (see above)
-
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
